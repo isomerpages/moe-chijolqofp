@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Science.md
       - Aesthetic/Overview.md
       - Aesthetic/Art Craft.md
       - Aesthetic/Music.md
