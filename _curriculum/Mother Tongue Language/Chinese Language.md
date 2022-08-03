@@ -27,3 +27,11 @@ third_nav_title: Mother Tongue Language
 | Reading Aloud Class Competition<br>朗读比赛 	| P1 to P2<br>一、二年级 	| 29 March<br>3月29日 	|
 | Mother Tongue Fortnight<br>母语双周 	| P1 to P6<br>一至六年级 	| July<br>7月 	|
 | Chinese Reading Programme<br>华文阅读计划 	| P2 to P6<br>二至六年级 	| Ongoing 	|
+
+##### Other Information
+
+[2017 Approved Dictionaries List](/files/cl5.pdf)
+
+[华文学习资源](/files/cl6.pdf)
+
+[小学华文课外读物参考书目](/files/cl8.pdf)
