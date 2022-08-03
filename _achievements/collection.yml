@@ -2,4 +2,5 @@ collections:
   achievements:
     output: true
     order:
+      - Mother Mathilde Award.md
       - Sr Deirdre O'Loan Award.md
