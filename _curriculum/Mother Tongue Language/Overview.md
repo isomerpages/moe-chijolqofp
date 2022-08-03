@@ -50,4 +50,13 @@ P3 pupils watched an online performance “Story Challenge”, where the actors 
 
 <img src="/images/mtl4.gif" 
      style="width:60%"> 
-P4 pupils learned about the different traditional food 
+P4 pupils learned about the different traditional food.
+
+**P5 Folk Tales**
+
+<img src="/images/mtl23.png" 
+     style="width:60%"> 
+P5 pupils reenacted a part of a folktale
+
+
+**P4 and P5 Conversational Chinese and Malay Language Programme**
