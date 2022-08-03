@@ -4,7 +4,14 @@ permalink: /curriculum/Aesthetic/music
 description: ""
 third_nav_title: Aesthetic
 ---
+### Music
 
+#### Our Approach
+
+<img src="/images/music.png" 
+     style="width:60%">
+
+##### Tier 1: Musical Literacy for All
 
 | Level 	| Music Curriculum 	|
 |---	|---	|
