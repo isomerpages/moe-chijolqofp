@@ -60,3 +60,21 @@ P5 pupils reenacted a part of a folktale
 
 
 **P4 and P5 Conversational Chinese and Malay Language Programme**
+
+<img src="/images/mtl5.gif" 
+     style="width:60%"> 
+
+P4 and P5 Chinese pupils learned Malay and Malay pupils leaned Chinese
+
+**P6 Heritage Places in SG**
+
+<img src="/images/mtl6.gif" 
+     style="width:60%">
+		 
+**Closing Ceremony**
+
+<img src="/images/mtl7.gif" 
+     style="width:60%">
+
+Mrs. Tan emphasized the importance of appreciation and respect of different races and cultures in a globalized country. Student representatives also explained the reasons for celebrating Racial Harmony Day and Mother Tongue Fortnight.
+
