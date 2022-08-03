@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Physical and Health Education/Overview.md
       - Physical and Health Education/NAPFA Test.md
       - Physical and Health Education/Programme for Active Learning.md
       - Physical and Health Education/.keep
