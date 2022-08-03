@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Academic Staff/Other Subject Teachers.md
       - Academic Staff/Allied Educators.md
       - Academic Staff/.keep
       - Administrative Staff.md
