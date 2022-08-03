@@ -9,8 +9,6 @@ links:
         url: /about-us/school-information/school-mission-vision-values-motto
       - title: School Newsletter
         url: /about-us/school-newsletter
-      - title: Contact Us
-        url: /about-us/contact-us
   - title: Staff
     url: /staff/school-leaders
     sublinks:
@@ -63,3 +61,5 @@ links:
         url: /useful-links/home-based-learning
       - title: Vaccination Exercise
         url: /useful-links/vaccination-exercise
+  - title: Contact Us
+    url: /contact
