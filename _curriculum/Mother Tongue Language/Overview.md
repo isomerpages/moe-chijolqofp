@@ -39,3 +39,15 @@ The Mother Tongue Language Fortnight 2021 was held from 6 July to 16 July.  The
      style="width:60%">
 		 
 P3 pupils learned about traditional costumes and cultures. They designed traditional costumes on ice-cream stick dolls or dressed up using recycled materials found at home.
+
+**P3 CPES Performance**
+
+<img src="/images/mtl16.png" 
+     style="width:60%"> 
+P3 pupils watched an online performance “Story Challenge”, where the actors came up with interesting stories based on the students’ inputs
+
+**P4 Traditional food and snacks**
+
+<img src="/images/mtl4.gif" 
+     style="width:60%"> 
+P4 pupils learned about the different traditional food 
