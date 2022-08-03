@@ -2,4 +2,5 @@ collections:
   curriculum:
     output: true
     order:
+      - Physical and Health Education/Programme for Active Learning.md
       - Physical and Health Education/.keep
