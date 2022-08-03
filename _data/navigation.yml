@@ -43,3 +43,10 @@ links:
         url: /curriculum/physical-and-health-education
       - title: Co-Curricular Activities
         url: /curriculum/cca/overview
+  - title: Partners
+    url: /partners/IJ-board-of-management
+    sublinks:
+      - title: Parent Support Group
+        url: /partners/parent-support-group
+      - title: Organisations
+        url: /partners/organisations
