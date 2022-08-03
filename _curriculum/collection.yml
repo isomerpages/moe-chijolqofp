@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - English Language/Overview.md
       - English Language/Learning Support Programme 2.md
       - English Language/Library.md
       - English Language/.keep
