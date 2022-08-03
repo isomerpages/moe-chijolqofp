@@ -77,4 +77,3 @@ P4 and P5 Chinese pupils learned Malay and Malay pupils leaned Chinese
      style="width:60%">
 
 Mrs. Tan emphasized the importance of appreciation and respect of different races and cultures in a globalized country. Student representatives also explained the reasons for celebrating Racial Harmony Day and Mother Tongue Fortnight.
-
