@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - CCE (Role Model).md
       - Mother Mathilde Award.md
       - Sr Deirdre O'Loan Award.md
