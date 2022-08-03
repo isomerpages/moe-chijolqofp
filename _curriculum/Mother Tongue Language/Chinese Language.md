@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue Language
 ---
 ### Chinese Language
 
-##### Our Approach
+#### Our Approach
 
 <img src="/images/cl1.png" 
      style="width:60%">
@@ -14,7 +14,7 @@ third_nav_title: Mother Tongue Language
 <img src="/images/cl2.png" 
      style="width:80%">
 		 
-##### Programme Highlights 2022
+#### Programme Highlights 2022
 
 | Programmes / Activities<br>活动 	| Level Involved<br>年级 	| Date<br>日期 	|
 |---	|---	|---	|
