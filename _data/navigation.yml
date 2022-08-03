@@ -22,3 +22,22 @@ links:
         url: /staff/academic-staff/primary-1-teachers
       - title: Administrative Staff
         url: /staff/administrative-staff
+  - title: Curriculum
+    url: /curriculum/overview
+    sublinks:
+      - title: English Language
+        url: /curriculum/english-language
+      - title: Mother Tongue Language
+        url: /curriculum/mother-tongue-language
+      - title: Mathematics
+        url: /curriculum/mathematics
+      - title: Science
+        url: /curriculum/science
+      - title: Aesthetics
+        url: /curriculum/aesthetics
+      - title: Character Education
+        url: /curriculum/cce/character-education
+      - title: Information Communication
+        url: /curriculum/information-communication
+      - title: Submenu Title
+        url: /permalink
