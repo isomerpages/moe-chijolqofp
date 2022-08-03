@@ -48,3 +48,13 @@ c. allows students to have a close up view of specimens e.g. a 360 degree view o
 #### SCIENCE BUSKERS
 
 This programme is for Primary 4 and Primary 5 students who are interested in busking Science concepts. The Science Buskers Programme reinforces concepts and builds confidence in students in public speaking. The Science Buskers Programme leverages on the platform for students to interact with students from other schools as well as with scientists.
+
+#### Programmes Highlights 2022
+
+| Programmes / Activities 	| Level involved 	|
+|:---:	|:---:	|
+| P3 Rear a Butterfly/ Beetle             <br>P3 Every Child a Seed Programme<br>P3 STEM (Programming on Food Sustainability)<br>Makerspace<br>Immersive Learning 	| P3 	|
+| P4 OutReach Ambassadors          <br>P4 STEM (Programming on Energy (light) Sustainability)                                         P4 E2K<br>Makerspace<br>Immersive LearningP4 Science Buskers                         	| P4 	|
+| P5 Science Buskers                        <br>P5 E2K<br>Makerspace<br>Immersive Learning<br> 	| P5 	|
+| P6 STEM (Programming on Energy)Makerspace<br>Immersive Learning  	|  P6 	|
+|  <br>Family @ Science Centre Programme 	| - 	|
