@@ -37,3 +37,5 @@ The Mother Tongue Language Fortnight 2021 was held from 6 July to 16 July.  The
 
 <img src="/images/mtl3.gif" 
      style="width:60%">
+		 
+P3 pupils learned about traditional costumes and cultures. They designed traditional costumes on ice-cream stick dolls or dressed up using recycled materials found at home.
