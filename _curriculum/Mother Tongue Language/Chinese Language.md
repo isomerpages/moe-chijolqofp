@@ -34,4 +34,6 @@ third_nav_title: Mother Tongue Language
 
 [华文学习资源](/files/cl6.pdf)
 
+Please upload this PDF here.
+
 [小学华文课外读物参考书目](/files/cl8.pdf)
