@@ -4,7 +4,7 @@ permalink: /curriculum/Mother-Tongue-Language/tamil
 description: ""
 third_nav_title: Mother Tongue Language
 ---
-### Tamail Language
+### Tamil Language
 
 #### Our Approach
 
