@@ -11,3 +11,14 @@ links:
         url: /about-us/school-newsletter
       - title: Contact Us
         url: /about-us/contact-us
+  - title: Staff
+    url: /staff/school-leaders
+    sublinks:
+      - title: School Leaders
+        url: /staff/school-leaders
+      - title: Executive Committee
+        url: /staff/executive-committee
+      - title: Academic Staff
+        url: /staff/academic-staff/primary-1-teachers
+      - title: Administrative Staff
+        url: /staff/administrative-staff
