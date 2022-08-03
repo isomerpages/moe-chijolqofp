@@ -47,4 +47,13 @@ Guided by the principles of Assessment of Learning (AoL) and Assessment for Lea
 
 #### Programme Highlights 2022
 
-
+| Programmes / Activities 	| Level Involved 	| Date 	|
+|---	|---	|---	|
+| Training for Whole-School Approach to Effective Communication (WSA-EC) Student Champions via SLS 	| P3-P6 	| Term 1 Week 4 	|
+| Silent Reading, WSA-EC, Book Promotion and Just Write! during Monday Pre-assemblies 	| P1- P6 	| Ongoing 	|
+| English Language Week 	| P1-P6  	| Term 2 Week 3 	|
+| EL Signature Programme: Of Rhymes and Rhythms 	| P1-P2  	| Ongoing 	|
+| EL Signature Programme: IJ OLQP Stage-off 	|  P3 to P4  	|  Ongoing 	|
+| EL Signature Programme: The IJ Manuscripts  	|  P5 to P6 	|  Ongoing 	|
+|  Library Thematic Events and Borrowing Activities  	|  P1 to P6 	|  Ongoing 	|
+| Competitions: Moo-O Reading Awards and PESA 2022 	|  P3-P6 	| From Term 1 Week 5  	|
