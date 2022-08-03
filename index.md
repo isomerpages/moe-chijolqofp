@@ -12,4 +12,7 @@ sections:
         - title: Achievements
           description: ""
           url: /achievements/overview
+        - title: News & Announcements
+          description: ""
+          url: /news-and-announcements/overview
 ---
