@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Character Education/.keep
       - Information Communication Technology.md
       - Physical and Health Education/Overview.md
       - Physical and Health Education/NAPFA Test.md
