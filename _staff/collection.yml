@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Academic Staff/Primary 5 Teachers.md
       - Academic Staff/Primary 6 Teachers.md
       - Academic Staff/Mother Tongue Teachers.md
       - Academic Staff/Other Subject Teachers.md
