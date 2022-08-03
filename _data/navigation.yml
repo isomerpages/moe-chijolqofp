@@ -1,8 +1,13 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: School Information
+        url: /about-us/school-information/school-mission-vision-values-motto
+      - title: School Newsletter
+        url: /about-us/school-newsletter
+      - title: Contact Us
+        url: /about-us/contact-us
