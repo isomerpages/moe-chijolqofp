@@ -13,7 +13,8 @@ Aligned to the recommendations and guidelines from the Archdiocesan Commission 
 <img src="/images/re1.png" style="width:183px;height:240px;margin-right:30px;" align = "left"> **Our Curriculum**
 
  - Walking with Jesus Series  <br>
-- Character Lives In My Behaviour (CLIMB)  <br> - Retreat for Graduation Primary 6 Students <br><br><br>
+- Character Lives In My Behaviour (CLIMB)  <br> 
+- Retreat for Graduation Primary 6 Students <br><br><br>
 
 
 <img src="/images/re2.png" style="width:183px;height:240px;margin-right:30px;" align = "left"> **Our Environment** 
