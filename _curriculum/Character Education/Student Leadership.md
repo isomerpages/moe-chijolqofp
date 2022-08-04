@@ -42,3 +42,34 @@ At the school level, “I Can Serve”, “The Leader in Me: 7 Habits of Happy K
 | Student Leadership Team Bonding Session 	| Primary 4 to Primary 6 Prefects and Peer Support Leaders 	| 20 May 	|
 | Student Leaders’ Investiture 	| Primary 4 to Primary 6 Prefects, Peer Support Leaders and CCA Leaders 	| 1 Jul (Rehearsal)<br>8 Jul (Rehearsal)<br>15 Jul (Actual) 	|
 | Teachers’ Day Rehearsal 	| Primary 5 Prefects 	| 5 Aug<br>26 Aug 	|
+
+##### Peer Support Relationship (PSR) Trainings
+
+| Programmes / Activities 	| Level involved 	| Date 	|
+|:---:	|:---:	|:---:	|
+| P5 & P6 PSR Sessions 1 to 5 	| Primary 5 and Primary 6 Peer Support Leaders (PSLs) 	| 7 Jan, 14 Jan, 4 Mar, 25 Mar and<br> 27 May 	|
+| P5 PSR Sessions 6 and 7 	| Primary 5 PSLs 	| 1 Jul and 11 Nov 	|
+| P4 PSR Sessions 1 to 5 	| Primary 4 PSLs 	| 7 Jan, 4 Mar, 25 Mar, 1 Jul and<br>11 Nov 	|
+| P4 Student Leadership Workshop 	| Primary 4 Prefects and<br>Primary 4 Peer Support Leaders 	| 21 Jan<br>13 May<br>15 July 	|
+| P3 PSR Sessions 1 to 4 	| Primary 3 PSLs 	| 4 Mar, 25 Mar, 1 Jul and 11 Nov 	|
+| P3/4 Student Leadership Workshop 	| Trainee Prefects and Peer Support Leaders<br>(newly appointed from P3 and P4) 	| 13 May<br>15 July 	|
+
+##### Classroom Leader
+
+| Programmes / Activities 	| Level involved 	| Date 	|
+|:---:	|:---:	|:---:	|
+| Class Monitor Training <br>(Semester 1 and 2) 	| Primary 1 to Primary 6 	| 14 Jan (for Semester 1 monitors)<br> <br>8 Jul (for Semester 2 monitors)<br> 	|
+| ICT Monitors’ Training 	| Primary 2 to 6 (Semester 1)<br> <br>Primary 1 to 5 (Semester 2) 	| 14 Jan<br> <br>8 Jul 	|
+| P3 to P6 WSA-EC Student Champions Workshop 	| Primary 3 to Primary 6 	| 28 Jan 	|
+
+<img src="/images/cce13.png" 
+     style="width:60%"> Training workshops organised for the prefects as part of team building 
+
+<img src="/images/cce14.png" 
+     style="width:60%"> EXCO Prefects chairing the activities among the prefects.
+		 
+<img src="/images/cce15.png" 
+     style="width:60%"> Peer Support Leaders workshops for leaders to understand students with special needs.
+		 
+<img src="/images/cce16.png" 
+     style="width:60%"> Head and Vice-Head chairing their prefect meeting with their members of the prefectorial board.
