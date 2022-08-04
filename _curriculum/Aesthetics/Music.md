@@ -4,8 +4,6 @@ permalink: /curriculum/Aesthetics/music
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
 ### Music
 
 #### Our Approach
@@ -15,9 +13,9 @@ third_nav_title: Aesthetics
 
 ##### Tier 1: Musical Literacy for All
 
-| Level 	| Music Curriculum 	|
+| Level 	| Music Curriculum (Learning Outcomes (LOs)) 	|
 |---	|---	|
-| P1 (Stage 1)<br>P2 (Stage 1)<br>P3 (Stage 2)<br>P4 (Stage 2)<br>P5 (Stage 3)<br>P6 (Stage 4) 	| Learning Outcomes (LOs)<br> <br>LO1: Perform Music<br>LO2: Create Music<br>LO3: Listen and Respond to Music<br><br>LO4: Appreciate Music in Local and Global cultures<br>LO5: Understand Musical Elements and concepts 	|
+| P1 (Stage 1)<br>P2 (Stage 1)<br>P3 (Stage 2)<br>P4 (Stage 2)<br>P5 (Stage 3)<br>P6 (Stage 4) 	| LO1: Perform Music<br>LO2: Create Music<br>LO3: Listen and Respond to Music<br>LO4: Appreciate Music in Local and Global cultures<br>LO5: Understand Musical Elements and concepts 	|
 
 ##### Tier 2: Musical Encounter and Appreciation
 
