@@ -9,7 +9,7 @@ description: ""
 
 | Department 	| HOD 	| Email Address 	|
 |:---:	|:---:	|:---:	|
-| School Staff Developer 	| Mr Daniel Wong 	| wong_mun_onn@moe.edu.sg 	|
+| School Staff Developer 	| Mr Daniel Wong 	| [wong_mun_onn@moe.edu.sg](mailto:wong_mun_onn@moe.edu.sg) 	|
 | English Language 	| Mdm Daphne Koh 	| koh_li_ping_daphne@moe.edu.sg 	|
 | Mother Tongue Language 	| Ms Lai Pey Chyi 	| lai_pey_chyi@moe.edu.sg 	|
 | Physical Education/ CCA/Aesthetics 	| Ms Yeo Yan Yan  	| yeo_yan_yan@moe.edu.sg   	|
