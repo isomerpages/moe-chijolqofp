@@ -8,11 +8,7 @@ description: ""
 #### Principal 
 <br> Mrs Karen Tan 
 
-  
-
 ### Vice Principal 
 <br> Ms Cecilia Tan
-
-  
 
 Email address: [chijolqp@moe.edu.sg](mailto:chijolqp@moe.edu.sg)
