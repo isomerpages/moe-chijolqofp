@@ -63,3 +63,13 @@ Platform(s):
 <br> i) Designated periods within the curriculum across at least 2 subjects.
 
 #### Programmes Highlights 2022
+
+**Whole School VIA Activities**
+
+| Programmes / Activities 	| Level involved 	| Date 	|
+|---	|---	|---	|
+| Sparkling Award 	| All levels 	| Monthly 	|
+| Groom My Classroom 	| All levels  	| Beginning of the term 	|
+| Use Your Hands Campaign  	| All levels  	| End of the term  	|
+
+**Level VIA Activities**
