@@ -47,5 +47,5 @@ ii) Collaborations with partners to provide students with rich and authentic in
 **3. Values-In-Action (VIA)** 
 <br> VIA in CHIJ OLQP aims to inculcate social and moral values in students by engaging them in community service and providing learning opportunities for their character development.
 
-
-
+**4. Social Studies** 
+<br> Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world in which they live, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions Social Studies students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.
