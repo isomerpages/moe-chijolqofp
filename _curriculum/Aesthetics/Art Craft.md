@@ -4,8 +4,6 @@ permalink: /curriculum/Aesthetics/Art-craft
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
 ### Art
 
 #### Our Approach
@@ -15,9 +13,9 @@ third_nav_title: Aesthetics
 	
 ##### Tier 1: (Exposure) Artistic Literacy for All
 
-| **Level** 	| **Art Curriculum** 	|
+| **Level** 	| **Art Curriculum (Learning Outcomes (LOs))** 	|
 |---	|---	|
-| P1 (Stage 1)<br><br>P2 (Stage 1) 	| Learning Outcomes (LOs)     <br> <br>LO1:<br> <br>Identify simple<br> <br>visual qualities in what they see around them 	|
+| P1 (Stage 1)<br><br>P2 (Stage 1) 	| LO1: Identify simple visual qualities in what they see around them 	|
 
 |  	|  	|
 |---	|---	|
@@ -30,6 +28,10 @@ third_nav_title: Aesthetics
 |  	|  	|
 |---	|---	|
 | P5 (Stage 3) 	| LO5: Share their imagination, thoughts and feelings through art making<br><br>LO6: Show interest in looking at a variety of artworks 	|
+
+|  	|  	|
+|---	|---	|
+| P6 (Stage 3) 	| LO7: Talk about what they see, feel and experience using art vocabulary<br> 	|
 
 ##### Tier 2: (Experiential) Artistic Encounter and Appreciation
 
@@ -51,9 +53,7 @@ third_nav_title: Aesthetics
 | Exhibition Showcase:<br>Earth Week Art Exhibition<br>P4 Think! Contemporary Exhibition @ NLB<br>PAssionArts – Art in Community @ Bangkit Road Town Council 	|  <br>P2 & P4<br>P4<br> <br>Whole Schools<br>(Selected students) 	| April<br>October<br><br><br><br>TBC 	|
 | CCA Art Club – SYF/Competitions 	| P3 to P6 	| Whole Year Round 	|
 
-|  	|  	|
-|---	|---	|
-| P6 (Stage 3) 	| LO7: Talk about what they see, feel and experience using art vocabulary<br> 	|
+
 
 <img src="/images/art.gif" 
      style="width:60%">
