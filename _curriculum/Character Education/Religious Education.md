@@ -4,7 +4,7 @@ permalink: /curriculum/Character-Education/religious-education
 description: ""
 third_nav_title: Character Education
 ---
-### Religious Education NOT DONT WITH TABLE
+### Religious Education 
 
 #### Our Approach
 
