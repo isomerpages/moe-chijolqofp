@@ -73,3 +73,12 @@ Platform(s):
 | Use Your Hands Campaign  	| All levels  	| End of the term  	|
 
 **Level VIA Activities**
+
+| Programmes / Activities 	| Level involved 	| Date 	|
+|---	|---	|---	|
+| Taking Care of Myself and My Home 	| Primary 1 	| Semester 1 	|
+| Clean Plate Campaign  	| Primary 2 	| Semester 2 	|
+| Keep Clean @ North West  	| Primary 3 	| Semester 1 and 2 	|
+| STAR Award Programme  	| Primary 4 	| Semester 1 and 2 	|
+| CHIJ Donation Drive  	| Primary 5 	| Semester 2 	|
+| Giving Love from Our Heart  	| Primary 6 	| Post PSLE 	|
