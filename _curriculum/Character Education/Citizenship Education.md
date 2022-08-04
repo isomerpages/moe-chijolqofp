@@ -4,7 +4,7 @@ permalink: /curriculum/Character-Education/citizenship-education
 description: ""
 third_nav_title: Character Education
 ---
-### Character Education
+### Citizenship Education
 
 #### Our Approach
 
