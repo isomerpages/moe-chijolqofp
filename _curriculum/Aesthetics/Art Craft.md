@@ -15,7 +15,7 @@ third_nav_title: Aesthetics
 
 | **Level** 	| **Art Curriculum (Learning Outcomes (LOs))** 	|
 |---	|---	|
-| P1 (Stage 1)<br><br>P2 (Stage 1) 	| LO1: Identify simple visual qualities in what they see around them 	|
+| P1 & P2 (Stage 1) 	| LO1: Identify simple visual qualities in what they see around them 	|
 
 |  	|  	|
 |---	|---	|
