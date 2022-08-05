@@ -33,3 +33,4 @@ Our members take part in a variety of meaningful activities to stimulate curiosi
 **2019 Activities (Click on the links to see the photos)**
 
 [Outreach Programme.pdf](/files/Outreach%20Programme.pdf)
+<br> [Little Greened Fingers Programme.pdf](/files/Little%20Greened%20Fingers%20Programme.pdf) <br> [North West Green Learning Journey.pdf](/files/CCA%20Websites%202%20Jul%20North%20West%20Green%20Learning%20Journey_edited.pdf) <br> 
