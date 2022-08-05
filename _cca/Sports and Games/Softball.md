@@ -33,3 +33,5 @@ Annually, the school selects a maximum of 15 to 18 players to participate in the
 |  2018 	|  National Inter-Primary School Softball Championships 	| Senior Team  	| National 4th Position  	|
 |  2018 	|  National Inter-Primary School (Trial) Softball ChampionshipsJunior Girls Easy Pitch  	| Junior Team  	| Group Two 1st Runner-Up  	|
 
+<img src="/images/softball.gif" 
+     style="width:60%">
