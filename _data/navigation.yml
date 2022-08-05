@@ -21,7 +21,7 @@ links:
       - title: Administrative Staff
         url: /staff/administrative-staff
   - title: Curriculum
-    url: /curriculum/overview
+    url: /curriculum/overview/
     sublinks:
       - title: English Language
         url: /curriculum/English-Language/overview
