@@ -31,3 +31,8 @@ During practices, professional instructors are engaged to train members in a rep
 | 2021 	| International Science Drama Competition 	| Selected Members 	| Short Film Category – 2nd Place & Popularity Award 	|
 |  2018 	| International Science Drama Competition 	| Selected Members 	| Certificate of Accomplishment 	|
 
+<img src="/images/pag10.png" 
+     style="width:60%">
+		 
+<img src="/images/pag11.png" 
+     style="width:60%">
