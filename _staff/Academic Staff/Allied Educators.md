@@ -8,5 +8,5 @@ third_nav_title: Academic Staff
 
 |  	|  	|  	|
 |---	|---	|---	|
-| **Special Educational Needs Officer** 	| Mdm Nur Maisarah 	| nur_maisarah_othman@moe.edu.sg 	|
-| **Special Educational Needs Officer** 	| Tay Hui Yen (Mrs Charmaine Choo) 	| tay_hui_yen@moe.edu.sg 	|
+| **Special Educational Needs Officer** 	| Mdm Nur Maisarah 	| [nur_maisarah_othman@moe.edu.sg](mailto:nur_maisarah_othman@moe.edu.sg) 	|
+| **Special Educational Needs Officer** 	| Tay Hui Yen (Mrs Charmaine Choo) 	| [tay_hui_yen@moe.edu.sg](mailto:tay_hui_yen@moe.edu.sg) 	|
