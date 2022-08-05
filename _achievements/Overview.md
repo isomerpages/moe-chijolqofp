@@ -34,9 +34,11 @@ Bronze Award - 2021 Moo-O Reading Awards
   
 
 2021 Wits & Words: Inter-school Debate Championship 2021 Participation in Online Friendlies  
-  
 
-![](/images/Shahana%209%20March.png) retrieve image
+Upload Anvantika's feature here
+
+[9 March 2021 issue of the Little Red Dot - Shahana's Article Feature](https://staging.d2yo7qbk5fhrwg.amplifyapp.com/images/Shahana%209%20March.png)
+
 
 ##### 2020
 
