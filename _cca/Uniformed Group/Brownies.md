@@ -26,3 +26,9 @@ Upon enrolment, all tweenies will acquire the various skills to be enrolled as B
 | West Division Day 	| P3-P6 	| Pending 	|
 | World Thinking Day 	| P3-P6 	| Pending 	|
 
+##### Our Achievements
+
+| Year 	| Competitions 	| Level involved 	| Placing 	|
+|:---:	|:---:	|:---:	|:---:	|
+| 2021 	| West Division Day 	| P3-P6 	| Bronze award for “Caption the Moment”.<br>Gold Award in a Skit competition.Bronze award for “Get Creative with TikTok’competition”. 	|
+| 2021 	| Chief Commissioner’s Badge Award 	| P6 	| 3 Recipients:<br><br>Koh Shu Qing, Victoria<br>Shasha Chong Shi Man<br>Ng Jing Wen, Imelda 	|
