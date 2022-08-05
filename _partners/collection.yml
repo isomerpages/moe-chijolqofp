@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group/Overview.md
       - Parent Support Group/Breakfast with Daughters.md
       - Parent Support Group/.keep
       - Overview.md
