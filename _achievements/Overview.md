@@ -54,3 +54,37 @@ Gold Award - 2020 Moo-O Reading Awards
 | Judges Award 	| Shaheera Binti Mohamad Ameen 	|
 | Judges Award 	| Tham Jing Lin Gisele 	|
 | Judges Award 	| Suu Myo Wai 	|
+
+**Junior Science Whiz Challenge**
+<br> Top 24th position – Chua Ya Ting
+
+**Singapore Science Olympiad**  
+<br> Merit Award – Isabelle Tiong Mae Shyuen
+<br> Merit Award – Kang Si Qi, Amelia (Jiang Shiqi)
+<br> Merit Award – Lam Fong Yu Faith
+<br> Merit Award – Tasha Lingaraj
+<br> Gold Award – Xiao Feilin
+
+  
+
+**ezi Go-Green Competition** 
+<br> Bronze Award  
+
+**Youth Science Fair**  
+<br> Commendation Award - Chua Ya Ting  
+<br> Commendation Award - Kang Si Qi, Amelia (Jiang Shiqi)
+<br> Commendation Award - Lee Yi Xuan Frances
+
+  
+
+**Community in Bloom**
+
+Gold Award
+
+  
+Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)
+
+
+
+
+
