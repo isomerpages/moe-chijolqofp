@@ -17,6 +17,6 @@ description: ""
   
 [[OLQP Parent Guide for HBL](/files/2021_Parents%20Guide_Full%20HBL%20Instructions_School%20Closure.pdf)]
   
-[Parent Kit- Supporting your child during FHBL](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/HBL/Parent%20Kit%20-%20Supporting%20Your%20Child%20During%20Full%20HBL.pdf)  
+[Parent Kit- Supporting your child during FHBL](/files/Parent%20Kit%20-%20Supporting%20Your%20Child%20During%20Full%20HBL.pdf)
   
 [ParentingTips by National Institute of Education](https://nie.edu.sg/teacher-education-undergraduate-programmes/useful-resources-for-HBL-WFH-EdCo/tips-for-faculty-teachers-for-home-based-learning-(hbl))
