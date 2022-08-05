@@ -17,3 +17,13 @@ Fusion Dance inculcates in the members an appreciation for dance. It helps them 
 During practices, professional instructors are engaged to train members in a repertoire of dances such as Chinese dance as well as modern and contemporary dance. Through these practices, performances and competitions, members inculcate the virtues of perseverance, unity, commitment and self-discipline.
 
 #### Programme Highlights 2022
+
+| Programmes / Activities 	| Level involved 	| Date 	|
+|:---:	|:---:	|:---:	|
+| Chinese New Year Performance 	| Advanced members 	| Term 1 	|
+| SYF Arts Presentation 	| Advanced members 	| Pending 	|
+| Community Performances 	| Beginners & Intermediate members 	| Semester 2 	|
+
+#### Our Achievements
+
+
