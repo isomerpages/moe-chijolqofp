@@ -5,9 +5,10 @@ description: ""
 ---
 ### IJ Board of Management
 
+Please re-upload the images and redo this page.
+
 <img src="/images/ijboard1.png" 
      style="width:60%">
 		 
 <img src="/images/ijboard2.png" 
      style="width:60%">
-		 
