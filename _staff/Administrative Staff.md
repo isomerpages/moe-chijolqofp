@@ -6,21 +6,21 @@ description: ""
 ### Administrative Staff
 
 **Administrative Manager 1**
-<br> Mdm Heng Huay Lee  (heng\_huay\_lee@moe.edu.sg)
+<br> Mdm Heng Huay Lee [heng_huay_lee@moe.edu.sg](mailto:heng_huay_lee@moe.edu.sg)
 
 **Operations Manager**
-<br> Mr Hor Wai Chew (hor\_wai\_chew@moe.edu.sg)
+<br> Mr Hor Wai Chew [hor_wai_chew@moe.edu.sg](mailto:hor_wai_chew@moe.edu.sg)
 
-**Administration Executive**<br> Mdm Teo Yi Wen (teo\_yi\_wen@moe.edu.sg) 
+**Administration Executive**<br> Mdm Teo Yi Wen [teo_yi_wen@moe.edu.sg](mailto:teo_yi_wen@moe.edu.sg)
 
   
 
 **ICT Associate** 
-<br>Mr Mohd Ihsan ([Mohammad\_ihsan\_mohd\_yaccob@moe.edu.sg](mailto:Mohammad_ihsan_mohd_yaccob@moe.edu.sg))
+<br>Mr Mohd Ihsan ([Mohammad_ihsan_mohd_yaccob@moe.edu.sg](mailto:Mohammad_ihsan_mohd_yaccob@moe.edu.sg))
 
 **Corporate Support Officer**
-<br> Mrs Deana Asokan (deana\_ashok@schools.gov.sg) <Br>
-Mdm Doris Chua (chua\_dok\_lee@moe.edu.sg)
+<br> Mrs Deana Asokan [deana_ashok@schools.gov.sg](mailto:deana_ashok@schools.gov.sg) <Br>
+Mdm Doris Chua [chua_dok_lee@moe.edu.sg](mailto:chua_dok_lee@moe.edu.sg)
 
   
 
