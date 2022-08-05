@@ -39,3 +39,31 @@ Learning Journey to Vertical Garden (Upload pdf)
 **2018 Activities (Click on the links to see the photos)**
 
 [International Coastal Clean-up with RICOH.pdf](/files/International%20Coastal%20Clean-up%20with%20RICOH%20(1).pdf) <br> [Outreach @ Ricoh Pte Ltd.pdf](/files/Outreach%20@%20Ricoh%20Pte%20Ltd.pdf) <br> [ Learning Journey to Gardens by the Bay.pdf](/files/Learning%20Journey%20to%20%20Gardens%20by%20the%20Bay.pdf) <br> [Visit to Vertical Garden .pdf](/files/Visit%20to%20Vertical%20Garden.pdf)
+
+#### Programme Highlights 2022
+
+| Programmes / Activities 	| Level involved 	| Date 	|
+|:---:	|:---:	|:---:	|
+| Learning Journeys 	| All members 	| Term 3 - 4 	|
+| Earth Week 	| All members 	| Term 2 	|
+| Science Centre Workshops 	| All members 	| Term 3 - 4 	|
+| STAR Workshop 	| All members 	| Term 3 	|
+| STEM Activities 	| All members 	| Term 1 - 4 	|
+| Gardening Activities 	| P3 & 4 members 	| Term 1 - 4 	|
+| Community in Bloom Competition 	| P3 & 4 members 	| Term 1 - 2 	|
+| Green Wave Competition 	| P5 & 6 members 	| Term 1 	|
+| SembWaste School Recycling Outreach Programme 	| P5 & 6 members 	| Term 2 - 3 	|
+| Little Green Dot Tetra Pak Outreach 	| Selected members 	| Term 4 	|
+| Little Green Dot Train the Trainer Workshop 	| Selected members 	| Term 3 	|
+| External Competitions 	| Selected members 	| Term 1 - 4 	|
+
+#### Our Achievements
+
+| Year 	| Competitions 	| Level involved 	| Placing 	|
+|:---:	|:---:	|:---:	|:---:	|
+| 2017-2021 	| School Green Awards 	| National Level 	| Vanda Miss Joaquim<br>Sustained Achievement Award 	|
+| 2019-2021 	| North West CDC<br>Partners Award 	| National Level 	| Silver  	|
+| 2021 	| Community In Bloom  	|  National Level 	| Gold  	|
+|  2021 	|  NUS High School Oratorical Challenge 2021 	|  National Level 	|  Commendation Award 	|
+
+
