@@ -3,9 +3,7 @@ title: Academic
 permalink: /achievements/academic
 description: ""
 ---
-### Achievements 
-
-#### Academic
+### Academic
 
 #### Math Department
 ##### 2021
@@ -104,5 +102,3 @@ Gold Award - 2020 Moo-O Reading Awards
 *   2017 Science Buskers (Voter's Choice)
 *   2017 Science Buskers ( Judges' Award )
 *   Lotus Sustained Achievement Award
-
-
