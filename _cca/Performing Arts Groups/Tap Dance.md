@@ -37,6 +37,4 @@ Dance workshops will also be organised once very semester for our members to gai
 |  2021 |  SYFOnline!2021 Showcase | 2 Advanced Members  | Solo Dance Showcase |
 
 <img src="/images/pag8.png" 
-     style="width:80%">
-
-
+     style="width:60%">
