@@ -17,3 +17,18 @@ Weekly training includes not only development in the skills required for the gam
 Annually, the school selects a maximum of 15 to 18 players to participate in the National Inter-Primary Schools Softball Games for both Senior and Junior Division. We have a team of qualified coaches who play an extremely important role in the training program of the Softball CCA. The teachers and coaches work hand in hand in providing students with the best possible experience from their sports participation.
 
 #### Programme Highlights 2022
+
+| Programmes / Activities 	| Level involved 	| Date 	|
+|:---:	|:---:	|:---:	|
+| National Inter-Primary School Softball Senior Girls Championships 	| P5 and P6 Combined Team 	| Pending  	|
+| National Inter-Primary School Softball Junior Girls Championships 	| P3 and P4 Combined Team 	| Pending 	|
+| S.T.A.R.R Athletes eCamp 	| P4 – 6 Players 	| June Holidays 	|
+
+#### Our Achievements
+
+| Year 	| Competitions 	| Level involved 	| Placing 	|
+|:---:	|:---:	|:---:	|:---:	|
+| 2019 	| National Inter-Primary School Softball Championships 	| Senior Team 	| National 4th Position 	|
+| 2019 	| National Inter-Primary School Softball Championships 	| Junior Team 	| Participation 	|
+|  2018 	|  National Inter-Primary School Softball Championships 	| Senior Team  	| National 4th Position  	|
+|  2018 	|  National Inter-Primary School (Trial) Softball ChampionshipsJunior Girls Easy Pitch  	| Junior Team  	| Group Two 1st Runner-Up  	|
