@@ -15,21 +15,21 @@ description: ""
 | Physical Education/ CCA/Aesthetics 	| Ms Yeo Yan Yan  	| [yeo_yan_yan@moe.edu.sg](mailto:yeo_yan_yan@moe.edu.sg) 	|
 | ICT 	| Ms Lily Tan 	| tan_lily_a@moe.edu.sg (mailto: )	|
 | CCE  	| Ms Celine Teo Hui Jing 	| [teo_hui_jing@moe.edu.sg](mailto:teo_hui_jing@moe.edu.sg)	|
-| Year Head (P1-P2) 	| Mrs Kelly Ng-Tan  	| tan_hui_ting@moe.edu.sg  (mailto: ) 	|
-| Year Head (P3-P4) 	| Mdm Tinawati Ariffin 	| tinawati_ariffin@moe.edu.sg (mailto: )	|
-| Year Head (P5-P6) 	| Ms Serene Ng 	| ng_xiang_ning_serene@moe.edu.sg (mailto: )	|
+| Year Head (P1-P2) 	| Mrs Kelly Ng-Tan  	| [tan_hui_ting@moe.edu.sg](mailto:tan_hui_ting@moe.edu.sg) 	|
+| Year Head (P3-P4) 	| Mdm Tinawati Ariffin 	| [tinawati_ariffin@moe.edu.sg](mailto:tinawati_ariffin@moe.edu.sg)	|
+| Year Head (P5-P6) 	| Ms Serene Ng 	| [ng_xiang_ning_serene@moe.edu.sg](mailto:ng_xiang_ning_serene@moe.edu.sg)	|
 
 #### Subject Heads
 
 | Department 	| SH 	| Email Address 	|
 |:---:	|:---:	|:---:	|
-| English Language 	| Mrs Charlene Chua-Lim  	| lim_xin_yan_charlene@moe.edu.sg 	|
-| Mathematics 	| Mrs Clarissa Phang 	| hum_xin_yi_clarissa@moe.edu.sg 	|
-| Science 	| Mrs Vivian Quek 	| teh_xiuwen_vivian@moe.edu.sg 	|
-| Aesthetic 	| Ms Wendy Lye 	| lye_aye_ju_wendy@moe.edu.sg 	|
-| Character and Citizenship Education 	| Mrs Pearlyn Er   	| lee_yin_chi_pearlyn@moe.edu.sg 	|
-| Student Management 	| Mr Iskandar Shah 	| Iskandar_Shah_Abu_Bakar@moe.edu.sg 	|
-| Student Well-Being 	| Mrs Denise Chia 	| low_qiong_xia@moe.edu.sg 	|
+| English Language 	| Mrs Charlene Chua-Lim  	| [lim_xin_yan_charlene@moe.edu.sg](mailto:lim_xin_yan_charlene@moe.edu.sg) 	|
+| Mathematics 	| Mrs Clarissa Phang 	| [hum_xin_yi_clarissa@moe.edu.sg](mailto:hum_xin_yi_clarissa@moe.edu.sg) 	|
+| Science 	| Mrs Vivian Quek 	| [teh_xiuwen_vivian@moe.edu.sg](mailto:teh_xiuwen_vivian@moe.edu.sg) 	|
+| Aesthetic 	| Ms Wendy Lye 	| [lye_aye_ju_wendy@moe.edu.sg](mailto:lye_aye_ju_wendy@moe.edu.sg) 	|
+| Character and Citizenship Education 	| Mrs Pearlyn Er   	| [lee_yin_chi_pearlyn@moe.edu.sg](mailto:lee_yin_chi_pearlyn@moe.edu.sg) 	|
+| Student Management 	| Mr Iskandar Shah 	| [Iskandar_Shah_Abu_Bakar@moe.edu.sg](mailto:Iskandar_Shah_Abu_Bakar@moe.edu.sg) 	|
+| Student Well-Being 	| Mrs Denise Chia 	| [low_qiong_xia@moe.edu.sg](mailto:low_qiong_xia@moe.edu.sg) 	|
 
 #### Lead Teacher
 
