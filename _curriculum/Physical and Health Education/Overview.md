@@ -51,3 +51,8 @@ third_nav_title: Physical and Health Education
 | Blood Pressure Programme 	| P5 	| Term 3 	|
 | Active Health Classroom Series # Sleeping well 	| P6 	| Term 3 	|
 
+**Other health-related links**
+
+\-          [BMI](https://www.hpb.gov.sg/article/hpb-introduces-bmi-for-age-charts-to-monitor-physical-growth-and-development-in-children-and-youth)
+
+\-          [Active Parents](https://activeparents.myactivesg.com/)
