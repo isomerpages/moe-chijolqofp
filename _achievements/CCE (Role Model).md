@@ -38,6 +38,7 @@ The Primary 3 and 4 who displayed the virtues of Cleanliness, Consideration, Co
 | 4 Peace 	| CHOO JIA MEI (XU JIAMEI) 	|
 
 The Primary 5 and 6 who displayed the virtues of  Compassion, Friendliness, Confidence and Understanding are: <br>
+
 | Class 	| CCE Role Model 	|
 |:---:	|:---:	|
 | 5 Faith 	| DHIVIYA D/O SUNDAR 	|
@@ -69,6 +70,7 @@ For Term 2, From Primary 1 and 2 who displayed the virtues of Honesty, Courage, 
 | 2 Peace 	| GOH MEI JUDITH EDNA 	|
 
 From Primary 3 and 4 who displayed the virtues of Reliability, Cooperation, Responsibility and Loyalty are: <br>
+
 | Class 	| CCE Role Model 	|
 |:---:	|:---:	|
 | 3 Faith 	| ONG ZHI XUAN CHARMAINE 	|
