@@ -26,3 +26,10 @@ In the process of learning to play the classical guitar, members will develop a 
 
 Guitar Ensemble members are given the opportunities to perform at various school concerts as well as community projects. Selected senior members will be trained to take part in the Singapore Youth Festival Arts Presentation (SYF AP) held every two years.
 
+#### Programme Highlights 2022
+
+| Programmes / Activities 	| Level involved 	| Date 	|
+|---	|---	|---	|
+| National Day Performance 	| Beginners 	| 8 August 2022 	|
+| Teacher’s Day Performance 	| Beginners 	| 6 October 2022 	|
+| Pre-assembly showcase 	| Beginners 	| At least once every semester 	|
