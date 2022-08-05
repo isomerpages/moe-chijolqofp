@@ -33,5 +33,5 @@ Students are given opportunities to act, improvise, apply and hone their skills 
 | 2021 	| International Science Drama Competition 	| Selected Members 	| Short Film Category – 2nd Place & Popularity Award 	|
 |  2018 	|  International Science Drama Competition 	| Selected Members  	| Certificate of Participation 	|
 
-
-
+<img src="/images/cs7.png" 
+     style="width:80%">
