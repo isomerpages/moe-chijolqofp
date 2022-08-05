@@ -22,11 +22,9 @@ Bronze - 2
 <br> Bronze - 3
  <br> Honourable mention - 10
 
-English Department
-------------------
+**English Department**
 
 2021
-----
 
 Top 20 Outstanding Performers 2021 ACJC Mythos: Junior Orators  
 
