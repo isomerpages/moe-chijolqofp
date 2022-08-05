@@ -38,3 +38,5 @@ We will also train members with basic technical skills of using the classroom eq
 | 2021 	| International science Drama Competition<br>(Collaboration with Drama Club) 	| National 	| Short Film Category - 2nd Position & Popularity Award 	|
 | 2021  	| NaBrownies West Division Day - Drama Competition (Collaboration with Brownies) 	| National  	| Gold 	|
 | 2018 	| 7th National Young Shutterbugs 	| National  	| 2 Special Mention 	|
+
+![](/images/infocomm.png)
