@@ -7,9 +7,8 @@ description: ""
 
 #### Academic
 
+#### Math Department
 ##### 2021
-
-##### Math Department
 
 **National Mathematical Olympiad of Singapore (NMOS)**  <br>
 Silver - 2 <br>
@@ -38,3 +37,13 @@ Bronze Award - 2021 Moo-O Reading Awards
   
 
 ![](/images/Shahana%209%20March.png) retrieve image
+
+##### 2020
+
+Gold Award - 2020 Moo-O Reading Awards  
+
+
+Science Department
+
+
+2021
