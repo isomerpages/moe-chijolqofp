@@ -17,4 +17,4 @@ Tel: 6293 5840
 
 #### School Name Tags
 
-Pupils may obtain the order forms from the [school bookshop](https://chijourladyqueenofpeace.moe.edu.sg/useful-links/for-parents/bookshop).
+Pupils may obtain the order forms from the [school bookshop](/useful-links/For-Parents/bookshop).
