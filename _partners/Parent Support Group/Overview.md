@@ -86,4 +86,11 @@ third_nav_title: Parent Support Group
      style="width:50%">
 		 
 <img src="/images/psg11.png" 
-     style="width:50%">
+     style="width:50%"> Food Handling Course for Parents 2019
+
+**Contact Us**
+
+Email​ olqppsg@gmail.com​ <Br>
+Facebook Group​ CHIJ OLQP PSG​
+
+(You will be prompted to indicate your daughter/ward’s class)​
