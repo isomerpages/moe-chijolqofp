@@ -4,7 +4,6 @@ permalink: /about-us/School-Information/school-mission-vision-values-motto
 description: ""
 third_nav_title: School Information
 ---
-
 ### School Mission/Vision/Values/Motto
 
 #### Our Mission
@@ -21,11 +20,10 @@ A CHIJ OLQP student is a confident young lady who is enthusiastic towards lifelo
 
 #### Our Values
 
-**Truth, Justice, Freedom and Love  
-**
+**Truth, Justice, Freedom and Love**
 
 <img src="/images/mission.png" 
-     style="width:60%">
+     style="width:40%">
 		 
 CHIJ OLQP’s character development programme, Character Lives In My Behaviour (CLIMB) aims to develop moral and performance character in our students. CLIMB adopts The Virtues ProjectTM in delivering our character education to awaken the virtues which exist within every child and help them to act on the best within them, in order to achieve Truth, Justice, Freedom and Love.  
 
