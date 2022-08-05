@@ -26,3 +26,18 @@ Stompers Team: Junior (Primary 5) and Senior (Primary 6):
 An advanced netball programme is developed for Primary 5 and 6 players who have shown the skills and aptitude to represent the school in the National School Games in both the Junior and Senior Divisions. In preparation for the competitions, players go through more intensive and all-rounded training sessions to prepare them physically and mentally. At this stage, players work towards excelling in terms of speed, agility and accuracy. These tournaments give them valuable exposure in competitive play and help them develop the virtues of diligence, commitment and good sportsmanship. There are also leadership opportunities for potential players to lead and serve.
 
 #### Programme Highlights 2022
+
+| Programmes / Activities 	| Level involved 	| Date 	|
+|:---:	|:---:	|:---:	|
+| National Schools Games Netball Championships<br>(Zonal & Nationals) 	| Stompers Junior & Senior Teams 	| Pending 	|
+|   S.T.A.R.R Athletes eCamp 	|  <br>P4 – P6 Players 	|  <br>June Holidays 	|
+| Living C.H.A.M.P.I.O.N.S Programme 	| P3 – P6 Players 	| Ongoing 	|
+
+<img src="/images/netball1.png" 
+     style="width:60%">
+
+<img src="/images/netball2.png" 
+     style="width:60%">
+		 
+<img src="/images/netball3.png" 
+     style="width:60%">
