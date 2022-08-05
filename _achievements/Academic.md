@@ -34,4 +34,3 @@ Bronze Award - 2021 Moo-O Reading Awards
 
 [9 March 2021 issue of the Little Red Dot - Shahana's Article Feature](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/Achievements/Academic/Shahana%209%20March.jpg)
 
-![](/images/Shahana%209%20March.png)
