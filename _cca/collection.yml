@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts Groups/Rhythmic Gymnastics.md
       - Performing Arts Groups/.keep
       - Clubs and Societies/Overview.md
       - Clubs and Societies/Art Club.md
