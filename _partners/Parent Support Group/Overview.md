@@ -61,3 +61,8 @@ third_nav_title: Parent Support Group
 | 1. 	| Sponsor school activities / events in general. 	|
 | 2. 	| Sponsor activities / events involving your daughter / ward's class / level. 	|
 
+<img src="/images/psg3.png" 
+     style="width:50%"> International Friendship Day 2019
+		 
+<img src="/images/psg4.png" 
+     style="width:50%"> 
