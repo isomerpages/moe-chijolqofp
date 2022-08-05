@@ -13,7 +13,7 @@ The hands-on experiences reinforce pupils’ learning, and allow them to explore
 ##### PAL Framework @ CHIJ OLQP
 
 <img src="/images/pal1.png" 
-     style="width:80%">
+     style="width:50%">
 
 #### PAL Schedule:
 
@@ -30,4 +30,3 @@ The hands-on experiences reinforce pupils’ learning, and allow them to explore
 |---	|---	|---	|
 | Sports Module: 	| Outdoor Education: 	| Visual Arts Module: 	|
 | The Jungle Adventure 	| Kids for Nature 	| The Mighty Artist 	|
-
