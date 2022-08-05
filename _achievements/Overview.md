@@ -68,9 +68,7 @@ Gold Award - 2020 Moo-O Reading Awards
 **ezi Go-Green Competition** 
 <br> Bronze Award  
 
-**Youth Science Fair**  
-<br> Commendation Award - Chua Ya Ting  
-<br> Commendation Award - Kang Si Qi, Amelia (Jiang Shiqi)
+**Youth Science Fair**  <br>Commendation Award - Chua Ya Ting <br> Commendation Award - Kang Si Qi, Amelia (Jiang Shiqi)
 <br> Commendation Award - Lee Yi Xuan Frances
 
   
