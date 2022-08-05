@@ -43,7 +43,14 @@ Bronze Award - 2021 Moo-O Reading Awards
 Gold Award - 2020 Moo-O Reading Awards  
 
 
-Science Department
+#### Science Department
 
+**2021**
 
-2021
+**Singapore Science Buskers 2021**
+
+|  	|  	|
+|---	|---	|
+| Judges Award 	| Shaheera Binti Mohamad Ameen 	|
+| Judges Award 	| Tham Jing Lin Gisele 	|
+| Judges Award 	| Suu Myo Wai 	|
