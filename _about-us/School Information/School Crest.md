@@ -7,7 +7,7 @@ third_nav_title: School Information
 ### School Crest
 
 <img src="/images/crest.png" 
-     style="width:70%">
+     style="width:50%">
 		 
 The school badge of the Convent of the Holy Infant Jesus is an international one - used by students in all the five continents - places reaching as far as California, France, Peru, Italy, Singapore, Spain, Englang, Ireland, Thailand, Japan and Malaysia. The symbolism of the badge is as relevant today as it has been over the centuries.
 
@@ -33,4 +33,4 @@ In our ideals, we are proud to be linked to the thousands of girls of different 
 
   
 
-The School Badge is therefore a mark of honour. It shows the characteristic spirit of Infant Jesus Convent girls around the world. It encourages us to carry on the tradition. 
+The School Badge is therefore a mark of honour. It shows the characteristic spirit of Infant Jesus Convent girls around the world. It encourages us to carry on the tradition.
