@@ -14,7 +14,7 @@ Experience - Develop and nurture virtues through art making (ART with heART)
 
 Excellence – Talent identification & building up a portfolio of skills through CCA to be a life-long learner of the visual arts
 
-#### What we do
+#### What do we do
 
 Our CCA is a learning space where students explore various forms, and experience art-making and appreciation through purposeful artistic activities. Our members will have opportunities to deepen their artistic skills in collaborative projects and unleash their self-expression in international and local art competitions.
 
@@ -37,4 +37,3 @@ Our CCA is a learning space where students explore various forms, and experience
 
 <img src="/images/artcca.gif" 
      style="width:60%">
-
