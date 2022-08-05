@@ -33,4 +33,21 @@ third_nav_title: Physical and Health Education
 | P5 	| Games & Sports<br>(Frisbee & Softball)<br>Dance<br>Outdoor Education<br>Gymnastics<br>Athletics 	| Growth and Health<br>Good Health Habits<br>Vision and Oral Care<br>Safety first<br>Keeping Safe from Illnesses and Diseases 	| Information Searching & Advocacy 	|
 | P6 	| Games & Sports<br>(Volleyball & Netball)<br>Dance<br>Outdoor Education<br>Gymnastics<br>Athletics 	| Growth and Health<br>Good Health Habits<br>Vision and Oral Care<br>Safety first<br>Keeping Safe from Illnesses and Diseases 	| Good Decision Making 	|
 
+##### Tier 2: Sports & Health for life
+
+#### Programme Highlights 2022
+
+| Programmes / Activities 	| Level Involved 	| Date 	|
+|---	|---	|---	|
+| Sports Exposure Programmes<br>P1 – Rhythmic Gymnastics<br>P2 – Roller Blading<br>P3 – Nature Walk<br>P4 – Archery<br>P5 – Frisbee Golf<br>P6 – K-Pop Dance 	| P1-P6 	| Post-exam<br>(Term 4) 	|
+| IJ Olympic Carnival 	| P1-P6 	| 6 October 	|
+| P5 Non-residential Adventure Camp 	| P5 	| Pending 	|
+| Swimsafer Programme 	| P3 	| Pending 	|
+| National Day Workout 	| P1-P6 	| 8 August 	|
+| Dental Talk by School Dental Nurse 	| P1 	| Term 1 	|
+| Road Safety Talk By Traffic Police 	| P2 	| Term 2 	|
+| Active Health Classroom Series # Eating well 	| P3 	| Term 3 	|
+| Anti-drug Abuse Programme 	| P4 	| Term 4 	|
+| Blood Pressure Programme 	| P5 	| Term 3 	|
+| Active Health Classroom Series # Sleeping well 	| P6 	| Term 3 	|
 
