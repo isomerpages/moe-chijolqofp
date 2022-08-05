@@ -4,7 +4,7 @@ permalink: /useful-links/For-Parents/school-uniform
 description: ""
 third_nav_title: For Parents
 ---
-### School Uniform    not done link to cms
+### School Uniform    
 
 #### Magdalene Sewing Pte Ltd 
 
