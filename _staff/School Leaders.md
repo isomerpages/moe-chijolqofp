@@ -6,9 +6,9 @@ description: ""
 ### School Leaders
 
 #### Principal 
-<br> Mrs Karen Tan 
+Mrs Karen Tan 
 
 ### Vice Principal 
-<br> Ms Cecilia Tan
+Ms Cecilia Tan
 
 Email address: [chijolqp@moe.edu.sg](mailto:chijolqp@moe.edu.sg)
