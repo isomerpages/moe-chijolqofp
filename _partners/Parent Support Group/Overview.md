@@ -65,4 +65,25 @@ third_nav_title: Parent Support Group
      style="width:50%"> International Friendship Day 2019
 		 
 <img src="/images/psg4.png" 
-     style="width:50%"> 
+     style="width:50%"> Volunteer Appreciation Tea 2019
+
+<img src="/images/psg5.png" 
+     style="width:50%">
+
+<img src="/images/psg6.png" 
+     style="width:50%">
+		 
+<img src="/images/psg7.png" 
+     style="width:50%"> English Week in April 2019
+		 
+<img src="/images/psg8.png" 
+     style="width:50%"> Fund Raising CNY Cookie Sale 2019
+
+<img src="/images/psg9.png" 
+     style="width:50%"> CCE Carnival 2019
+
+<img src="/images/psg10.png" 
+     style="width:50%">
+		 
+<img src="/images/psg11.png" 
+     style="width:50%">
