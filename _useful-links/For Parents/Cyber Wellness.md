@@ -8,7 +8,7 @@ third_nav_title: For Parents
 
 #### Useful Resources for Parents
 
-*   [Guide on Staying Safe Online](https://www.betterinternet.sg/-/media/Resources/PDFs/Cybersafety/Staying-Safe-Online_PDF-format.pdf)
+*   [Guide on Staying Safe Online](/files/Staying%20Safe%20Online_PDF%20format.pdf)
 
     
 *   [Cyber Bullying Resources by Singapore Children's Society  
