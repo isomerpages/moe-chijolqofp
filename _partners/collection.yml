@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group/.keep
       - Overview.md
       - IJ Board of Management.md
       - Organisations.md
