@@ -12,11 +12,11 @@ User Guide
 
 1.       Login Issues
 
-a.      
+a.      [Forget Username](/files/Student%20Forget%20Username.pdf)
 
-b.       [Reset Password](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/login%20issue/b.%20Reset%20Password.pdf)
+b.       [Reset Password](/files/Reset%20Password.pdf)
 
-c.       [Find Password Reset Email](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/login%20issue/c.%20Find%20Password%20Reset%20Email.pdf)
+c.       [Find Password Reset Email](/files/Find%20Password%20Reset%20Email.pdf)
 
 d.       [Unlock Student’s Account](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/login%20issue/d.%20Unlock%20Student/'s%20Account.pdf)
 
