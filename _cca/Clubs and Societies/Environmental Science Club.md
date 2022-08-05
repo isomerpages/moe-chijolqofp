@@ -29,3 +29,7 @@ Our members take part in a variety of meaningful activities to stimulate curiosi
 		 
 <img src="/images/cs11.png" 
      style="width:60%">
+		 
+**2019 Activities (Click on the links to see the photos)**
+
+[Outreach Programme.pdf](/files/Outreach%20Programme.pdf)
