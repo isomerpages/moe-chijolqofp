@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Societies/EL Drama Club.md
       - Clubs and Societies/Environmental Science Club.md
       - Clubs and Societies/Media and Infocomm Club.md
       - Clubs and Societies/.keep
