@@ -11,22 +11,16 @@ Portal: [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)
 User Guide
 
 1.       Login Issues
-
-a.      [Forget Username](/files/Student%20Forget%20Username.pdf)
-
-b.       [Reset Password](/files/Reset%20Password.pdf)
-
-c.       [Find Password Reset Email](/files/Find%20Password%20Reset%20Email.pdf)
-
-d.       [Unlock Student’s Account](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/login%20issue/d.%20Unlock%20Student/'s%20Account.pdf)
+<br> a.      [Forget Username](/files/Student%20Forget%20Username.pdf)
+<br>b.       [Reset Password](/files/Reset%20Password.pdf)
+<br> c.       [Find Password Reset Email](/files/Find%20Password%20Reset%20Email.pdf)
+<br> d.       [Unlock Student’s Account]
+Upload PDF here
 
 2.       Browser
-
-a.       [Operating System and Browser Requirements](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/browser/a.%20Operating%20System%20and%20Browser%20Requirements.pdf)
-
-b.       [Web Browser Troubleshooting Tips](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/browser/b.%20Web%20Browser%20Troubleshooting%20Tips.pdf)
-
-c.       [](https://chijourladyqueenofpeace.moe.edu.sg/useful-links/for-students/goog_805365458)[Slow Loading](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/browser/c.%20Slow%20Loading.pdf)
+<br> a.       [Operating System and Browser Requirements](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/browser/a.%20Operating%20System%20and%20Browser%20Requirements.pdf)
+<br> b.       [Web Browser Troubleshooting Tips](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/browser/b.%20Web%20Browser%20Troubleshooting%20Tips.pdf)
+<br> c.       [](https://chijourladyqueenofpeace.moe.edu.sg/useful-links/for-students/goog_805365458)[Slow Loading](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/browser/c.%20Slow%20Loading.pdf)
 
 3.       [Register Verified Email Address (for self-reset)](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/3.%20Register%20Verified%20Email%20Address.pdf)
 
