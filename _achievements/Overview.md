@@ -23,7 +23,7 @@ Bronze - 2
 
 **English Department**
 
-2021
+##### 2021
 
 Top 20 Outstanding Performers 2021 ACJC Mythos: Junior Orators  
 
@@ -63,9 +63,7 @@ Gold Award - 2020 Moo-O Reading Awards
 <br> Merit Award – Kang Si Qi, Amelia (Jiang Shiqi)
 <br> Merit Award – Lam Fong Yu Faith
 <br> Merit Award – Tasha Lingaraj
-<br> Gold Award – Xiao Feilin
-
-  
+<br> Gold Award – Xiao Feilin  
 
 **ezi Go-Green Competition** 
 <br> Bronze Award  
@@ -80,3 +78,29 @@ Gold Award - 2020 Moo-O Reading Awards
 **Community in Bloom**
 <br> Gold Award
 <br> Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)
+
+##### 2020
+
+*   Science Buskers ( 2nd Runner Up ) 
+
+##### 2019
+
+*   2019 Science Buskers ( 2nd Runner Up ) 
+*   2019 Science Buskers ( Judges' Award )
+*   2019 Science Buskers ( Judges' Award )
+
+##### 2018  
+
+*   2018 Science Buskers (Champion Team) 
+*   2018 Science Buskers ( 2nd Runner Up)
+*   Vanda Miss Joaquim Award in the SEC-StarHub School Green Awards (SGA) 2018  
+ 
+
+#### 2017
+
+*   2017 Sony Science Award Whiz Kid (Commendation Award for Unique Idea - Joanna Chong)
+*   2017 Science Buskers (Champion team)
+*   2017 Science Buskers (2nd Runner Up)
+*   2017 Science Buskers (Voter's Choice)
+*   2017 Science Buskers ( Judges' Award )
+*   Lotus Sustained Achievement Award
