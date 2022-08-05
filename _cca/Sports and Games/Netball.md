@@ -41,3 +41,18 @@ An advanced netball programme is developed for Primary 5 and 6 players who have 
 		 
 <img src="/images/netball3.png" 
      style="width:60%">
+
+#### Our Achievements
+
+##### Year: 2019
+
+| Competitions 	| Level involved 	| Placing 	|
+|---	|---	|:---:	|
+| National Schools Netball Championships 	| Stompers Senior Team 	| 3rd# 	|
+| National Schools Netball Championships 	| Stompers Junior Team 	| Top 8 	|
+| West Zone Schools Netball Championships 	| Stompers Junior Team 	| 2nd 	|
+| West Zone Schools Netball Championships 	| Stompers Senior Team 	| Champion 	|
+| Singapore Sports School Netball Carnival (Champion pool) 	| Stompers Senior Team 	| 2nd 	|
+
+##### Year: 2018
+
