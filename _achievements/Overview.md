@@ -78,13 +78,5 @@ Gold Award - 2020 Moo-O Reading Awards
   
 
 **Community in Bloom**
-
-Gold Award
-
-  
-Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)
-
-
-
-
-
+<br> Gold Award
+<br> Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)
