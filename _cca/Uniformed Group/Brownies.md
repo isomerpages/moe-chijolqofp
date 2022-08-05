@@ -21,5 +21,8 @@ Upon enrolment, all tweenies will acquire the various skills to be enrolled as B
  
 #####  Programme Highlights 2022
 
-
+| Programmes / Activities 	| Level involved 	| Date 	|
+|:---:	|:---:	|:---:	|
+| West Division Day 	| P3-P6 	| Pending 	|
+| World Thinking Day 	| P3-P6 	| Pending 	|
 
