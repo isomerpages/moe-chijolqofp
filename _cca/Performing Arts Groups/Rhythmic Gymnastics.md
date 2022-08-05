@@ -19,3 +19,10 @@ As the pioneer batch of gymnasts, we will be focusing on the basic apparatus han
 Physical training also includes conditioning for strength and stamina and stretching exercises for flexibility.  
 
 Trainings will also emphasize on character building and team-bonding elements through positive reinforcement of good practices, building resilience and perseverance and opportunities for leadership.
+
+#### Programme Highlights 2022
+
+| Programmes / Activities 	| Level involved 	| Date 	|
+|---	|---	|---	|
+| National Inter-Primary School Rhythmic Gymnastics Championships 	| P4 	| Pending  	|
+| S.T.A.R.R Athletes eCamp 	| P4 	| June Holidays 	|
