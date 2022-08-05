@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts Groups/Fusion Dance.md
       - Performing Arts Groups/Tap Dance.md
       - Performing Arts Groups/Guitar Ensemble.md
       - Performing Arts Groups/Rhythmic Gymnastics.md
