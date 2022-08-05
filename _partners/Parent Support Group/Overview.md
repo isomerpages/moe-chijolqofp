@@ -35,3 +35,29 @@ third_nav_title: Parent Support Group
 *   Parents representatives will also help relay important information about school operations, such as early notice to close the school due to the haze. 
 
 ##### How You Can Be Involved
+
+<img src="/images/psg2.png" 
+     style="width:50%"> Aloha Family Movie Night
+
+*   Contribute time for school activities / events in general. 
+*   Volunteer for activities / events involving your daughter / ward's class / level.
+*   Volunteer for activities / events involving your daughter / ward's CCA. 
+*   Serve in the PSG Council. 
+*   More Specific Skills 
+
+|  	|  	|
+|---	|---	|
+| 1. 	| Craft Work 	|
+| 2. 	| Decorations 	|
+| 3. 	| Food Handling (You need to have passed a Basic Food Hygiene Course (BFHC) and it must valid for the year 2019) 	|
+| 4. 	| Hair / Make-up 	|
+| 5. 	| Photography 	|
+| 6. 	| Communications / Website / Social Media 	|
+
+*   Sponsorship
+
+|  	|  	|
+|---	|---	|
+| 1. 	| Sponsor school activities / events in general. 	|
+| 2. 	| Sponsor activities / events involving your daughter / ward's class / level. 	|
+
