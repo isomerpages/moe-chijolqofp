@@ -18,9 +18,9 @@ User Guide
 Upload PDF here
 
 2.       Browser
-<br> a.       [Operating System and Browser Requirements](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/browser/a.%20Operating%20System%20and%20Browser%20Requirements.pdf)
-<br> b.       [Web Browser Troubleshooting Tips](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/browser/b.%20Web%20Browser%20Troubleshooting%20Tips.pdf)
-<br> c.       [](https://chijourladyqueenofpeace.moe.edu.sg/useful-links/for-students/goog_805365458)[Slow Loading](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/browser/c.%20Slow%20Loading.pdf)
+<br> a.        [Operating System and Browser Requirements](/files/Operating%20System%20and%20Browser%20Requirements.pdf)
+<br> b.       [Web Browser Troubleshooting Tips](/files/Web%20Browser%20Troubleshooting%20Tips.pdf)
+<br> c.       [Slow Loading](/files/Slow%20Loading.pdf)
 
 3.       [Register Verified Email Address (for self-reset)](https://chijourladyqueenofpeace.moe.edu.sg/qql/slot/u736/SLS/3.%20Register%20Verified%20Email%20Address.pdf)
 
