@@ -4,7 +4,7 @@ permalink: /cca/Clubs-and-Societies/environmental-science-club
 description: ""
 third_nav_title: Clubs and Societies
 ---
-### EL Drama Club
+### Enviromental Science Club
 
 #### Aims
 
@@ -65,5 +65,3 @@ Learning Journey to Vertical Garden (Upload pdf)
 | 2019-2021 	| North West CDC<br>Partners Award 	| National Level 	| Silver  	|
 | 2021 	| Community In Bloom  	|  National Level 	| Gold  	|
 |  2021 	|  NUS High School Oratorical Challenge 2021 	|  National Level 	|  Commendation Award 	|
-
-
