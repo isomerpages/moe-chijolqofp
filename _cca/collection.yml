@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports and Games/Softball.md
       - Sports and Games/.keep
       - Performing Arts Groups/Overview.md
       - Performing Arts Groups/Choir.md
