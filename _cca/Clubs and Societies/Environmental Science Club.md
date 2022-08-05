@@ -18,5 +18,14 @@ To motivate and develop students to become:
 
 Our members take part in a variety of meaningful activities to stimulate curiosity and an inquiry attitude and develop a zest and interest in learning about science and the environment. These activities include environmental science projects, learning journeys and gardening programmes, involving the use of Science, Technology, Engineering and Mathematics. Members have opportunities to lead and serve the school and the community to promote sound environmental behavior through various platforms such as North West CDC Clean and Green Week, kindergartens outreach and Earth Week Carnival.
 
-<img src="/images/xxx.png" 
-     style="width:80%">
+<img src="/images/cs8.png" 
+     style="width:60%">
+
+<img src="/images/cs9.png" 
+     style="width:60%">
+		 
+<img src="/images/cs10.png" 
+     style="width:60%">
+		 
+<img src="/images/cs11.png" 
+     style="width:60%">
