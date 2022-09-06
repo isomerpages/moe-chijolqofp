@@ -15,7 +15,7 @@ description: ""
   
 [MOE Parent Kit](https://www.moe.gov.sg/parentkit)  
   
-[OLQP Parent Guide for HBL](/files/2021_Parents%20Guide_Full%20HBL%20Instructions_School%20Closure.pdf)]
+[OLQP Parent Guide for HBL](/files/2021_Parents%20Guide_Full%20HBL%20Instructions_School%20Closure.pdf)
   
 [Parent Kit- Supporting your child during FHBL](/files/Parent%20Kit%20-%20Supporting%20Your%20Child%20During%20Full%20HBL.pdf)
   
