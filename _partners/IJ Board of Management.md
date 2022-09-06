@@ -5,3 +5,4 @@ description: ""
 ---
 ### IJ Board of Management
 
+![](/images/IJBOARD.png)
