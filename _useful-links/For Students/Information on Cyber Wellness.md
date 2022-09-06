@@ -6,4 +6,4 @@ third_nav_title: For Students
 ---
 ### Information on Cyber Wellness
 
-[Cyber Wellness Resources for Pupils](https://ictconnection.moe.edu.sg/cyber-wellness/for-students/resources) This link is broken.
+[Cyber Wellness Resources for Pupils](https://ictconnection.moe.edu.sg/cyber-wellness/for-students/resources) This hyperlink is broken.
