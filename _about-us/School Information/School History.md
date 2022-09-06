@@ -1,13 +1,13 @@
 ---
 title: School History
-permalink: /about-us/School-Information/school-history
+permalink: /about-us/School-Information/school-history/
 description: ""
 third_nav_title: School Information
 ---
 ### School History
 
 <img src="/images/crest.png" 
-     style="width:60%">
+     style="width:40%">
 		 
 Convent of the Holy Infant Jesus Our Lady Queen of Peace (formerly CHIJ Bukit Timah) is one of the eleven schools belonging to the congregation of the Infant Jesus. In response to the educational needs of the girls in Singapore, the school became the seventh school to be founded by the Infant Jesus Sisters in 1955. It started with sixty-two pupils with Miss Ursula Koh as the first Principal. The school was housed temporarily at the St. Joseph Sino-English School and was moved to its present premises in 1957.
 
