@@ -1,6 +1,6 @@
 ---
 title: School Newsletter
-permalink: /about-us/school-newsletter
+permalink: /about-us/school-newsletter/
 description: ""
 ---
 ### School Newsletter
@@ -11,7 +11,7 @@ description: ""
 <img style="width:60%" src="/images/niche.png">  
 </a></p>
 
-PDF more than 5MB 
+Please upload PDF here.
 
 #### 2020
 
@@ -19,7 +19,7 @@ PDF more than 5MB
 <img style="width:60%" src="/images/niche.png">  
 </a></p>
 
-PDF more than 5MB 
+Please upload PDF here. 
 
 #### 2019 Semester 2
 
@@ -27,7 +27,7 @@ PDF more than 5MB
 <img style="width:60%" src="/images/niche.png">  
 </a></p>
 
-PDF more than 5MB 
+Please upload PDF here. 
 
 #### 2018 Semester 2
 
@@ -41,4 +41,4 @@ PDF more than 5MB
 <img style="width:60%" src="/images/niche.png">  
 </a></p>
 
-PDF more than 5MB 
+Please upload PDF here.
