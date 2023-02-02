@@ -51,21 +51,21 @@ description: ""
 
 |  |  |  |
 |---|---|---|
-| 5 Faith | Mrs Christine Lee<br>Mr Kenneth Teo | christine_wong_moi_eng@moe.edu.sg<br>teo_beng_wee@moe.edu.sg |
-| 5 Hope | Mrs Manjula Menon<br>Ms Serene Ng | manjula_naidu_ramaraj@moe.edu.sg<br>ng_xiang_ning_serene@moe.edu.sg |
-| 5 Joy | Ms Patricia Tan<br>Ms Renuka Thiyagarajan | tan_hwee_hoon_patricia@moe.edu.sg<br>renuka_thiyagarajan@moe.edu.sg |
-| 5 Love | Mr Tony Khoo<br>Mdm Chen Meiqing | khoo_yong_seng_tony@moe.edu.sg<br>chen_meiqing@moe.edu.sg |
-| 5 Peace | Mrs Pearlyn Er<br>Mdm Naelah Nor | lee_yin_chi_pearlyn@moe.edu.sg<br>naelah_nor_othman@moe.edu.sg |
+| 5 Faith | Mrs Christine Lee<br>Mr Kenneth Teo | [christine\_wong\_moi\_eng@moe.edu.sg](mailto:christine_wong_moi_eng@moe.edu.sg)<br>[teo\_beng\_wee@moe.edu.sg](mailto:teo_beng_wee@moe.edu.sg) |
+| 5 Hope | Mrs Manjula Menon<br>Ms Serene Ng | [manjula\_naidu\_ramaraj@moe.edu.sg](mailto:manjula_naidu_ramaraj@moe.edu.sg)<br>[ng\_xiang\_ning\_serene@moe.edu.sg](mailto:ng_xiang_ning_serene@moe.edu.sg) |
+| 5 Joy | Ms Patricia Tan<br>Ms Renuka Thiyagarajan | [tan\_hwee\_hoon\_patricia@moe.edu.sg](mailto:tan_hwee_hoon_patricia@moe.edu.sg)<br>[renuka\_thiyagarajan@moe.edu.sg](mailto:renuka_thiyagarajan@moe.edu.sg) |
+| 5 Love | Mr Tony Khoo<br>Mdm Chen Meiqing | [khoo\_yong\_seng\_tony@moe.edu.sg](mailto:khoo_yong_seng_tony@moe.edu.sg)<br>[chen\_meiqing@moe.edu.sg](mailto:chen_meiqing@moe.edu.sg)|
+| 5 Peace | Mrs Pearlyn Er<br>Mdm Naelah Nor | [lee\_yin\_chi\_pearlyn@moe.edu.sg](mailto:lee_yin_chi_pearlyn@moe.edu.sg)<br>[naelah\_nor\_othman@moe.edu.sg](mailto:naelah_nor_othman@moe.edu.sg) |
 
 #### Primary 6
 
 |  |  |  |
 |---|---|---|
-| 6 Faith | Ms Brenda Seet<br>Mrs Stephanie Wong | Seet_Shuen_Lyn_Brenda@moe.edu.sg<br>stephanie_wong@moe.edu.sg |
-| 6 Hope | Ms Ariel Goh<br>Mr Daniel Wong | goh_lay_eng@moe.edu.sg<br>wong_mun_onn@moe.edu.sg |
-| 6 Joy | Mrs Vivian Quek<br>Mdm Daphne Koh | teh_xiuwen_vivian@moe.edu.sg<br>koh_li_ping_daphne@moe.edu.sg |
-| 6 Love | Mdm Raihana Snin<br>Ms Fong Yuen Han | raihana_snin@moe.edu.sg<br>fong_yuen_han@moe.edu.sg |
-| 6 Peace | Ms Wong Shuxian<br>Ms Celine Teo | wong_shu_xian@moe.edu.sg<br>teo_hui_jing@moe.edu.sg |
+| 6 Faith | Ms Brenda Seet<br>Mrs Stephanie Wong | [Seet\_Shuen\_Lyn\_Brenda@moe.edu.sg](mailto:Seet_Shuen_Lyn_Brenda@moe.edu.sg)<br>[stephanie\_wong@moe.edu.sg](mailto:stephanie_wong@moe.edu.sg) |
+| 6 Hope | Ms Ariel Goh<br>Mr Daniel Wong | [goh\_lay\_eng@moe.edu.sg](mailto:goh_lay_eng@moe.edu.sg)<br>[wong\_mun\_onn@moe.edu.sg](mailto:wong_mun_onn@moe.edu.sg) |
+| 6 Joy | Mrs Vivian Quek<br>Mdm Daphne Koh | [teh\_xiuwen\_vivian@moe.edu.sg](mailto:teh_xiuwen_vivian@moe.edu.sg)<br>[koh\_li\_ping\_daphne@moe.edu.sg](mailto:koh_li_ping_daphne@moe.edu.sg) |
+| 6 Love | Mdm Raihana Snin<br>Ms Fong Yuen Han | [raihana\_snin@moe.edu.sg](mailto:raihana_snin@moe.edu.sg)<br>[fong\_yuen\_han@moe.edu.sg](mailto:fong_yuen_han@moe.edu.sg) |
+| 6 Peace | Ms Wong Shuxian<br>Ms Celine Teo | [wong\_shu\_xian@moe.edu.sg](mailto:wong_shu_xian@moe.edu.sg)<br>[teo\_hui\_jing@moe.edu.sg](mailto:teo_hui_jing@moe.edu.sg) |
 
 #### Mother Tongue Teachers
 
