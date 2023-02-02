@@ -1,5 +1,5 @@
 collections:
-  curriculum:
+  olqp-experience:
     output: true
     order:
       - Overview.md
