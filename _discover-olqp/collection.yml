@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - School Information/Personal Data Protection Act.md
-      - School Information/IJ Board of Management.md
       - School Information/.keep
       - School Information/School Mission, Vision, Values, Motto, School
         History.md
       - School Information/School Crest.md
       - School Information/School Song.md
       - School Information/General Information.md
+      - School Information/IJ Board of Management.md
+      - School Information/Personal Data Protection Act.md
       - School Newsletter.md
