@@ -21,15 +21,13 @@ description: ""
 
 #### Subject Heads
 
-| Department 	| SH 	| Email Address 	|
-|:---:	|:---:	|:---:	|
-| English Language 	| Mrs Charlene Chua-Lim  	| [lim_xin_yan_charlene@moe.edu.sg](mailto:lim_xin_yan_charlene@moe.edu.sg) 	|
-| Mathematics 	| Mrs Clarissa Phang 	| [hum_xin_yi_clarissa@moe.edu.sg](mailto:hum_xin_yi_clarissa@moe.edu.sg) 	|
-| Science 	| Mrs Vivian Quek 	| [teh_xiuwen_vivian@moe.edu.sg](mailto:teh_xiuwen_vivian@moe.edu.sg) 	|
-| Aesthetic 	| Ms Wendy Lye 	| [lye_aye_ju_wendy@moe.edu.sg](mailto:lye_aye_ju_wendy@moe.edu.sg) 	|
-| Character and Citizenship Education 	| Mrs Pearlyn Er   	| [lee_yin_chi_pearlyn@moe.edu.sg](mailto:lee_yin_chi_pearlyn@moe.edu.sg) 	|
-| Student Management 	| Mr Iskandar Shah 	| [Iskandar_Shah_Abu_Bakar@moe.edu.sg](mailto:Iskandar_Shah_Abu_Bakar@moe.edu.sg) 	|
-| Student Well-Being 	| Mrs Denise Chia 	| [low_qiong_xia@moe.edu.sg](mailto:low_qiong_xia@moe.edu.sg) 	|
+| Department | SH | Email Address |
+|:---:|:---:|:---:|
+| Mathematics | Mrs Clarissa Pang | [hum\_xin\_yi\_clarissa@moe.edu.sg](mailto:hum_xin_yi_clarissa@moe.edu.sg) |
+| Science | Mrs Vivian Quek | [teh\_xiuwen\_vivian@moe.edu.sg](mailto:teh_xiuwen_vivian@moe.edu.sg) |
+| Aesthetics | Ms Wendy Lye | [lye\_aye\_ju\_wendy@moe.edu.sg](mailto:lye_aye_ju_wendy@moe.edu.sg) |
+| Student Management | Mr Iskandar Shah | [Iskandar\_Shah\_Abu\_Bakar@moe.edu.sg](mailto:Iskandar_Shah_Abu_Bakar@moe.edu.sg) |
+| Student Well-Being | Mrs Denise Chia | [low\_qiong\_xia@moe.edu.sg](mailto:low_qiong_xia@moe.edu.sg) |
 
 #### Lead Teacher
 
