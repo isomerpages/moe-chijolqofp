@@ -1,65 +1,14 @@
 logo: /images/olqplogo1.png
 links:
-  - title: About Us
-    url: /about-us/overview
-    sublinks:
-      - title: Principal's Message
-        url: /about-us/principals-message
-      - title: School Information
-        url: /about-us/School-Information/school-mission-vision-values-motto
-      - title: School Newsletter
-        url: /about-us/school-newsletter
-  - title: Staff
-    url: /staff/school-leaders
-    sublinks:
-      - title: School Leaders
-        url: /staff/school-leaders
-      - title: Executive Committee
-        url: /staff/executive-committee
-      - title: Academic Staff
-        url: /staff/Academic-Staff/primary-1-teachers
-      - title: Administrative Staff
-        url: /staff/administrative-staff
-  - title: Curriculum
-    url: /curriculum/overview/
-    sublinks:
-      - title: English Language
-        url: /curriculum/English-Language/overview
-      - title: Mother Tongue Language
-        url: /curriculum/Mother-Tongue-Language/overview
-      - title: Mathematics
-        url: /curriculum/mathematics
-      - title: Science
-        url: /curriculum/science
-      - title: Aesthetics
-        url: /curriculum/Aesthetics/overview
-      - title: Character Education
-        url: /curriculum/cce/character-education
-      - title: InfoComm Technology
-        url: /curriculum/information-communication-technology
-      - title: Physical and Health Education
-        url: /curriculum/Physical-and-Health-Education/overview
-      - title: Co-Curricular Activities
-        url: /curriculum/cca/overview
-  - title: Partners
-    url: /partners/overview/
-    sublinks:
-      - title: IJ Board of Management
-        url: /partners/ij-board-of-management
-      - title: Parent Support Group
-        url: /partners/parent-support-group
-      - title: Organisations
-        url: /partners/organisations
+  - title: Discover OLQP
+    collection: discover-olqp
+  - title: OLQP Family
+    collection: olqp-family
+  - title: OLQP Experience
+    collection: cca
+  - title: Friends of OLQP
+    collection: friends-of-olqp
+  - title: OLQP Celebrates
+    collection: olqp-celebrates
   - title: Useful Links
-    url: /useful-links/overview
-    sublinks:
-      - title: For Students
-        url: /useful-links/For-Students/overview
-      - title: For Parents
-        url: /useful-links/For-Parents/bookshop
-      - title: Home-based Learning
-        url: /useful-links/home-based-learning
-      - title: Vaccination Exercise
-        url: /useful-links/vaccination-exercise
-  - title: Contact Us
-    url: /contact
+    collection: useful-links
