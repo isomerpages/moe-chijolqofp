@@ -31,21 +31,21 @@ description: ""
 
 |  |  |  |
 |---|---|---|
-| 3 Faith | Mdm Pek Wei Meow<br>Mdm Chen I Chun | pek_wei_meow@moe.edu.sg<br>chen_i_chun@moe.edu.sg |
-| 3 Hope | Mrs Denise Chia<br>Mr Tan Yih Chyn | low_qiong_xia@moe.edu.sg<br>tan_yih_chyn@moe.edu.sg |
-| 3 Joy | Mrs Evelyn Zhong<br>Mdm Lim Tze Ying | chan_yu_ting_evelyn@moe.edu.sg<br>lim_tze_ying@moe.edu.sg |
-| 3 Love | Mdm Wu Shemei<br>Ms Tan Lily  | wu_shemei@moe.edu.sg<br>tan_lily_a@moe.edu.sg |
-| 3 Peace | Ms Joyce Lim<br>Ms Yeo Yan Yan | lim_wang_muay_joyce@moe.edu.sg<br>yeo_yan_yan@moe.edu.sg |
+| 3 Faith | Mdm Pek Wei Meow<br>Mdm Chen I Chun | [pek\_wei\_meow@moe.edu.sg](mailto:pek_wei_meow@moe.edu.sg)<br>[chen\_i\_chun@moe.edu.sg](mailto:chen_i_chun@moe.edu.sg) |
+| 3 Hope | Mrs Denise Chia<br>Mr Tan Yih Chyn | [low\_qiong\_xia@moe.edu.sg](mailto:low_qiong_xia@moe.edu.sg)<br>[tan\_yih\_chyn@moe.edu.sg](mailto:tan_yih_chyn@moe.edu.sg) |
+| 3 Joy | Mrs Evelyn Zhong<br>Mdm Lim Tze Ying | [chan\_yu\_ting\_evelyn@moe.edu.sg](mailto:chan_yu_ting_evelyn@moe.edu.sg)<br>[lim\_tze\_ying@moe.edu.sg](mailto:lim_tze_ying@moe.edu.sg) |
+| 3 Love | Mdm Wu Shemei<br>Ms Tan Lily  | [wu\_shemei@moe.edu.sg](mailto:wu_shemei@moe.edu.sg)<br>[tan\_lily\_a@moe.edu.sg](mailto:tan_lily_a@moe.edu.sg) |
+| 3 Peace | Ms Joyce Lim<br>Ms Yeo Yan Yan | [lim\_wang\_muay\_joyce@moe.edu.sg](mailto:lim_wang_muay_joyce@moe.edu.sg)<br>[yeo\_yan\_yan@moe.edu.sg](mailto:yeo_yan_yan@moe.edu.sg) |
 
 #### Primary 4
 
 |  |  |  |
 |---|---|---|
-| 4 Faith | Mr Iskander Shah<br>Ms Es'tee Odelia Lim | Iskandar_Shah_Abu_Bakar@moe.edu.sg<br>lim_sui_gek_estee@moe.edu.sg |
-| 4 Hope | Mrs Sharon Chua<br>Ms Tan Adeline | ng_ai_gek_sharon@moe.edu.sg<br>Tan_adeline@moe.edu.sg |
-| 4 Joy | Mrs Ng-Foo Li May<br>Mrs Vijayalakshmi Devanathan | foo_li_may@moe.edu.sg<br>vijayalakshmi_devanathan@moe.edu.sg |
-| 4 Love | Ms Michelle Ling<br>Mdm Tinawati Ariffin | michelle_ling_mujun@moe.edu.sg<br>tinawati_ariffin@moe.edu.sg |
-| 4 Peace | Mr Prasad<br>Mdm Wu Qianfang | Prasad_Palamani@moe.edu.sg<br>wu_qian_fang@moe.edu.sg |
+| 4 Faith | Mr Iskander Shah<br>Ms Es'tee Odelia Lim | [Iskandar\_Shah\_Abu\_Bakar@moe.edu.sg](mailto:Iskandar_Shah_Abu_Bakar_A@moe.edu.sg)<br>[lim\_sui\_gek\_estee@moe.edu.sg](mailto:lim_sui_gek_estee@moe.edu.sg) |
+| 4 Hope | Mrs Sharon Chua<br>Ms Tan Adeline | [ng\_ai\_gek\_sharon@moe.edu.sg](mailto:ng_ai_gek_sharon@moe.edu.sg)<br>[Tan\_adeline@moe.edu.sg](mailto:Tan_adeline@moe.edu.sg) |
+| 4 Joy | Mrs Ng-Foo Li May<br>Mrs Vijayalakshmi Devanathan | [foo\_li\_may@moe.edu.sg](mailto:foo_li_may@moe.edu.sg)<br>[vijayalakshmi\_devanathan@moe.edu.sg](mailto:vijayalakshmi_devanathan@moe.edu.sg) |
+| 4 Love | Ms Michelle Ling<br>Mdm Tinawati Ariffin | [michelle\_ling\_mujun@moe.edu.sg](mailto:michelle_ling_mujun@moe.edu.sg)<br>[tinawati\_ariffin@moe.edu.sg](mailto:tinawati_ariffin@moe.edu.sg) |
+| 4 Peace | Mr Prasad<br>Mdm Wu Qianfang | [Prasad\_Palamani@moe.edu.sg](mailto:Prasad_Palamani@moe.edu.sg)<br>[wu\_qian\_fang@moe.edu.sg](mailto:wu_qian_fang@moe.edu.sg) |
 
 #### Primary 5
 
