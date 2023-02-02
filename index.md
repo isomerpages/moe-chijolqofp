@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/olqp.gif
+      background: /images/banner.gif
       key_highlights:
         - title: Achievements
           description: ""
