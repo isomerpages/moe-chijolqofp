@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - School Information/General Information.md
+      - School Information/.keep
       - School Information/School Mission, Vision, Values, Motto, School
         History.md
-      - School Information/.keep
       - School Information/School Crest.md
       - School Information/School Song.md
+      - School Information/General Information.md
       - School Newsletter.md
