@@ -1,10 +1,12 @@
 ---
 title: School Song
-permalink: /about-us/School-Information/school-song
+permalink: /about-us/School-Information/school-song/
 description: ""
 third_nav_title: School Information
 ---
 ### School Song
+
+Insert audio clip here
 
 **1st Verse**
 
