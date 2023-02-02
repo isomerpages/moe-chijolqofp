@@ -9,23 +9,23 @@ description: ""
 
 |  |  |  |
 |---|---|---|
-| 1 Charity | Mdm Marsita Md Tahir<br>Ms Zhu Keyu | marsita_md_tahir@moe.edu.sg<br>zhu_keyu@schools.gov.sg |
-| 1 Faith | Mdm Fadhilah<br>Ms Wendy Lye  | nur_fadhilah_sanib@moe.edu.sg<br>lye_aye_ju_wendy@moe.edu.sg |
-| 1 Hope | Mrs Clarissa Pang<br>Ms Ng Gek Hooil | hum_xin_yi_clarissa@moe.edu.sg<br>NG_Gek_Hooi@moe.edu.sg |
-| 1 Joy | Ms Padmavathy<br>Mdm Yvonne Tan | Padmavathy_SUBRAMANIAN@moe.edu.sg<br>yvonne_tan_lian_zhi@moe.edu.sg |
-| 1 Love | Mdm Jessica Fung<br>Ms Qu Yuting | Jessica_FUNG@moe.edu.sg<br>qu_yuting@moe.edu.sg |
-| 1 Peace | Ms Jareen Tay<br>Mrs Rose Choo | tay_hwee_bin_jareen@moe.edu.sg<br>lam_choy_yoke_rose@moe.edu.sg |
+| 1 Charity | Mdm Marsita Md Tahir<br>Ms Zhu Keyu | [marsita\_md\_tahir@moe.edu.sg](mailto:marsita_md_tahir@moe.edu.sg)<br>[zhu\_keyu@schools.gov.sg](mailto:zhu_keyu@schools.gov.sg) |
+| 1 Faith | Mdm Fadhilah<br>Ms Wendy Lye  | [nur\_fadhilah\_sanib@moe.edu.sg](mailto:nur_fadhilah_sanib@moe.edu.sg)<br>[lye\_aye\_ju\_wendy@moe.edu.sg](mailto:lye_aye_ju_wendy@moe.edu.sg) |
+| 1 Hope | Mrs Clarissa Pang<br>Ms Ng Gek Hooil | [hum\_xin\_yi\_clarissa@moe.edu.sg](mailto:hum_xin_yi_clarissa@moe.edu.sg)<br>[NG\_Gek\_Hooi@moe.edu.sg](mailto:NG_Gek_Hooi@moe.edu.sg) |
+| 1 Joy | Ms Padmavathy<br>Mdm Yvonne Tan | [Padmavathy\_SUBRAMANIAN@moe.edu.sg](mailto:Padmavathy_SUBRAMANIAN@moe.edu.sg)<br>[yvonne\_tan\_lian\_zhi@moe.edu.sg](mailto:yvonne_tan_lian_zhi@moe.edu.sg) |
+| 1 Love | Mdm Jessica Fung<br>Ms Qu Yuting | [Jessica\_FUNG@moe.edu.sg](mailto:Jessica_FUNG@moe.edu.sg)<br>[qu\_yuting@moe.edu.sg](mailto:qu_yuting@moe.edu.sg) |
+| 1 Peace | Ms Jareen Tay<br>Mrs Rose Choo | [tay\_hwee\_bin\_jareen@moe.edu.sg](mailto:tay_hwee_bin_jareen@moe.edu.sg)<br>[lam\_choy\_yoke\_rose@moe.edu.sg](mailto:lam_choy_yoke_rose@moe.edu.sg) |
 
 #### Primary 2
 
 |  |  |  |
 |---|---|---|
-| 2 Charity | Mdm Deepa Thangmani<br>Mrs Michelle Goh | deepa_thangamani@moe.edu.sg<br>Michelle_goh@moe.edu.sg |
-| 2 Faith | Mrs Mahani Khamin<br>Ms Lai Pey Chyi | mahani_khamin@moe.edu.sg<br>lai_pey_chyi@moe.edu.sg |
-| 2 Hope | Mdm Lily Hoi<br>Mdm Zakiah Zainol | hoi_lei_ling@moe.edu.sg<br>zakiah_zainol_abidin_mar@moe.edu.sg |
-| 2 Joy | Ms Celestine Kok<br>Mdm Wong Seok Peng | celestine_kok_chu_wei@moe.edu.sg<br>Wong_Seok_Peng@moe.edu.sg |
-| 2 Love | Mrs Delphine Minjoot<br>Ms E Vidtheya | lim_poh_gek_delphine@moe.edu.sg<br>e_vidtheya@moe.edu.sg |
-| 2 Peace | Ms Chen Miao Miao<br>Mrs Kelly Ng | chen_miaomiao@moe.edu.sg<br>tan_hui_ting@moe.edu.sg |
+| 2 Charity | Mdm Deepa Thangmani<br>Mrs Michelle Goh | [deepa\_thangamani@moe.edu.sg](mailto:deepa_thangamani@moe.edu.sg)<br>[Michelle\_goh@moe.edu.sg](mailto:Michelle_goh@moe.edu.sg) |
+| 2 Faith | Mrs Mahani Khamin<br>Ms Lai Pey Chyi | [mahani\_khamin@moe.edu.sg](mailto:mahani_khamin@moe.edu.sg)<br>[lai\_pey\_chyi@moe.edu.sg](mailto:lai_pey_chyi@moe.edu.sg) |
+| 2 Hope | Mdm Lily Hoi<br>Mdm Zakiah Zainol | [hoi\_lei\_ling@moe.edu.sg](mailto:hoi_lei_ling@moe.edu.sg)<br>[zakiah\_zainol\_abidin\_mar@moe.edu.sg](mailto:zakiah_zainol_abidin_mar@moe.edu.sg) |
+| 2 Joy | Ms Celestine Kok<br>Mdm Wong Seok Peng | [celestine\_kok\_chu\_wei@moe.edu.sg](mailto:celestine_kok_chu_wei@moe.edu.sg)<br>[Wong\_Seok\_Peng@moe.edu.sg](mailto:Wong_Seok_Peng@moe.edu.sg) |
+| 2 Love | Mrs Delphine Minjoot<br>Ms E Vidtheya | [lim\_poh\_gek\_delphine@moe.edu.sg](mailto:lim_poh_gek_delphine@moe.edu.sg)<br>[e\_vidtheya@moe.edu.sg](mailto:e_vidtheya@moe.edu.sg) |
+| 2 Peace | Ms Chen Miao Miao<br>Mrs Kelly Ng | [chen\_miaomiao@moe.edu.sg](mailto:chen_miaomiao@moe.edu.sg)<br>[tan\_hui\_ting@moe.edu.sg](mailto:tan_hui_ting@moe.edu.sg) |
 
 #### Primary 3
 
