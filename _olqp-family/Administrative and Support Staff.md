@@ -11,7 +11,7 @@ description: ""
 ##### Operations Manager
 <br> Mr Hor Wai Chew [hor_wai_chew@moe.edu.sg](mailto:hor_wai_chew@moe.edu.sg)
 
-###### Administration Executive
+##### Administration Executive
 <br> Mdm Teo Yi Wen [teo_yi_wen@moe.edu.sg](mailto:teo_yi_wen@moe.edu.sg)
 
   
