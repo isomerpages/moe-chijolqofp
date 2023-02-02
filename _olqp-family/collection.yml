@@ -1,5 +1,5 @@
 collections:
-  staff:
+  olqp-family:
     output: true
     order:
       - School Leaders.md
