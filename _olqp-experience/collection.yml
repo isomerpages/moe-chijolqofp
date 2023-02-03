@@ -2,4 +2,5 @@ collections:
   olqp-experience:
     output: true
     order:
+      - Religious Education.md
       - Co–Curricular Activities.md
