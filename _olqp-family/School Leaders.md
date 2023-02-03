@@ -8,7 +8,7 @@ description: ""
 #### Principal 
 Mrs Karen Tan 
 
-### Vice Principal 
+#### Vice Principal 
 Ms Cecilia Tan
 
 #### Vice Principal(Admin)
