@@ -2,4 +2,5 @@ collections:
   friends-of-olqp:
     output: true
     order:
+      - Alumni.md
       - Organisations.md
