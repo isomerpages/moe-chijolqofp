@@ -20,7 +20,7 @@ In PAL, emphasis is placed on experiential learning. The hands-on experiences re
 
 **PAL Framework @ CHIJ OLQP**
 
-<img src="/images/pal3.png" style="width:80%">
+<img src="/images/pal3.png" style="width:50%">
 
 #### PAL Schedule:
 
