@@ -50,9 +50,9 @@ Click [here](/files/CCA%20Schedule%202023_updated.pdf) for CCA schedule
 
 <div>
 
-<p><a href="link">text</a><br>
-<a href="link">text</a><br>
-<a href="link">text</a><br>	</p>
+<p>•<a href="link">Softball</a><br>
+•<a href="link">Netball</a><br>
+•<a href="link">Rhythmic Gymnastics</a><br>	</p>
 
 </div>
 
@@ -66,12 +66,12 @@ Click [here](/files/CCA%20Schedule%202023_updated.pdf) for CCA schedule
 
 <div>
 
-<p><a href="link">text</a><br>
-<a href="link">text</a><br>
-<a href="link">text</a><br>	
-<a href="link">text</a><br>
-<a href="link">text</a><br>
-<a href="link">text</a><br>		</p>
+<p>•<a href="link">Choir</a><br>
+•<a href="link">Fusion Dance</a><br>
+•<a href="link">Tap Dance</a><br>	
+•<a href="link">Guitar Ensemble</a><br>
+•<a href="link">Art Club</a><br>
+•<a href="link">English Language Drama Club</a><br>		</p>
 
 </div>
 
@@ -85,8 +85,8 @@ Click [here](/files/CCA%20Schedule%202023_updated.pdf) for CCA schedule
 <div>
 
 <p>
-<a href="link">text</a><br>
-<a href="link">text</a>
+•<a href="link">Environmental Science Club</a><br>
+•<a href="link">Media Infocomm Club</a>
 	
 </p>
 
@@ -103,7 +103,7 @@ Click [here](/files/CCA%20Schedule%202023_updated.pdf) for CCA schedule
 <div>
 
 <p>
-<a href="link">text</a>
+•<a href="link">Brownies</a>
 	
 </p>
 
