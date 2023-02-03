@@ -2,6 +2,7 @@ collections:
   olqp-experience:
     output: true
     order:
+      - Physical and Health Education/Programme for Active Learning (PAL).md
       - Physical and Health Education/.keep
       - Information Communication Technology.md
       - Character and Citizenship Education.md
