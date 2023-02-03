@@ -52,7 +52,7 @@ Click [here](/files/CCA%20Schedule%202023_updated.pdf) for CCA schedule
 
 <p>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Sports-and-Games/softball">Softball</a><br>
 •<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Sports-and-Games/netball">Netball</a><br>
-•<a href="link">Rhythmic Gymnastics</a><br>	</p>
+•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Sports-and-Games/rhythmic-gymnastics">Rhythmic Gymnastics</a><br>	</p>
 
 </div>
 
