@@ -70,8 +70,8 @@ Click [here](/files/CCA%20Schedule%202023_updated.pdf) for CCA schedule
 •<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/fusion-dance">Fusion Dance</a><br>
 •<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/tap-dance">Tap Dance</a><br>	
 •<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/guitar-ensemble">Guitar Ensemble</a><br>
-•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Clubs-and-Societies/art-club">Art Club</a><br>
-•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Clubs-and-Societies/EL-Drama-club">English Language Drama Club</a><br>		</p>
+•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/art-club">Art Club</a><br>
+•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/EL-Drama-club">English Language Drama Club</a><br>		</p>
 
 </div>
 
