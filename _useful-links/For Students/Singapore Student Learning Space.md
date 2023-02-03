@@ -1,27 +1,34 @@
 ---
 title: Singapore Student Learning Space
-permalink: /useful-links/For-Students/singapore-student-learning-space
+permalink: /useful-links/For-Students/singapore-student-learning-space/
 description: ""
 third_nav_title: For Students
 ---
 ### Singapore Student Learning Space
 
-Portal: [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)
+Portal: [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
 
-User Guide
+<img src="/images/ssls1.png" style="width:70%">
 
-1.       Login Issues
-<br> a.      [Forget Username](/files/Student%20Forget%20Username.pdf)
-<br>b.       [Reset Password](/files/Reset%20Password.pdf)
-<br> c.       [Find Password Reset Email](/files/Find%20Password%20Reset%20Email.pdf)
-<br> d.       [Unlock Student’s Account]
-Upload PDF here
+#### Technical Support
 
-2.       Browser
-<br> a.        [Operating System and Browser Requirements](/files/Operating%20System%20and%20Browser%20Requirements.pdf)
-<br> b.       [Web Browser Troubleshooting Tips](/files/Web%20Browser%20Troubleshooting%20Tips.pdf)
-<br> c.       [Slow Loading](/files/Slow%20Loading.pdf)
+If you are unable to access the SLS, you can:
 
-3.       [Register Verified Email Address (for self-reset)](/files/Register%20Verified%20Email%20Address.pdf)
+*   Refer to the [SLS troubleshooting page](https://go.gov.sg/tsr15).
+*   Contact General Office at 67691529 or Email: mohammad\_ihsan\_mohd\_yaccob@moe.edu.sg
+*   Contact the SLS Helpdesk:
 
-4.       [Student Features (please login to SLS before accessing this page](https://mo.learning.moe.edu.sg/UserGuide/Vle/student-features.html#treeassignment))
+Email: [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
+
+Tel: (65) 6702 6513
+
+#### Operating Hours
+
+Monday to Friday:<br>
+4pm to 9pm (school days)<Br>
+9am to 9pm (school holidays)
+
+  
+
+Saturday:<br>
+9am to 3pm (closed on Sundays and public holidays)
