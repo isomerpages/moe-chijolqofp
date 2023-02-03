@@ -2,6 +2,7 @@ collections:
   olqp-celebrates:
     output: true
     order:
+      - Students/CCE Role Models.md
       - Students/Mother Mathilde Award.md
       - Students/Sister Deirdre O’Loan Award.md
       - Students/.keep
