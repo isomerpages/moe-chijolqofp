@@ -39,3 +39,76 @@ We provide authentic opportunities for students to develop and display practise 
 
 Click [here](/files/CCA%20Schedule%202023_updated.pdf) for CCA schedule
 
+
+<ul class="jekyllcodex_accordion">
+
+<li>
+
+<input type="checkbox" id="accordion1">
+
+<label for="accordion1">Sports and Games</label>
+
+<div>
+
+<p><a href="link">text</a><br>
+<a href="link">text</a><br>
+<a href="link">text</a><br>	</p>
+
+</div>
+
+</li>  
+
+<li>
+
+<input type="checkbox" id="accordion2">
+
+<label for="accordion2">Performing Arts Groups</label>
+
+<div>
+
+<p><a href="link">text</a><br>
+<a href="link">text</a><br>
+<a href="link">text</a><br>	
+<a href="link">text</a><br>
+<a href="link">text</a><br>
+<a href="link">text</a><br>		</p>
+
+</div>
+
+</li>
+<li>
+
+<input type="checkbox" id="accordion3">
+
+<label for="accordion3">Clubs and Societies</label>
+
+<div>
+
+<p>
+<a href="link">text</a><br>
+<a href="link">text</a>
+	
+</p>
+
+</div>
+
+</li>
+
+<li>
+
+<input type="checkbox" id="accordion4">
+
+<label for="accordion4">Uniformed Group</label>
+
+<div>
+
+<p>
+<a href="link">text</a>
+	
+</p>
+
+</div>
+
+</li>
+
+</ul>
