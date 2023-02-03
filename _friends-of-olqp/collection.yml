@@ -1,4 +1,5 @@
 collections:
   friends-of-olqp:
     output: true
-    order: []
+    order:
+      - Organisations.md
