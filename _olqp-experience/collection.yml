@@ -2,6 +2,7 @@ collections:
   olqp-experience:
     output: true
     order:
+      - Science.md
       - Aesthetics/Overview.md
       - Aesthetics/Arts.md
       - Aesthetics/Music.md
