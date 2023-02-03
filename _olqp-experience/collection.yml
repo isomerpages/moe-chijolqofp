@@ -2,5 +2,6 @@ collections:
   olqp-experience:
     output: true
     order:
+      - Character and Citizenship Education.md
       - Religious Education.md
       - Co–Curricular Activities.md
