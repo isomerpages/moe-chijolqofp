@@ -50,8 +50,8 @@ Click [here](/files/CCA%20Schedule%202023_updated.pdf) for CCA schedule
 
 <div>
 
-<p>•<a href="link">Softball</a><br>
-•<a href="link">Netball</a><br>
+<p>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Sports-and-Games/softball">Softball</a><br>
+•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Sports-and-Games/netball">Netball</a><br>
 •<a href="link">Rhythmic Gymnastics</a><br>	</p>
 
 </div>
@@ -66,12 +66,12 @@ Click [here](/files/CCA%20Schedule%202023_updated.pdf) for CCA schedule
 
 <div>
 
-<p>•<a href="link">Choir</a><br>
-•<a href="link">Fusion Dance</a><br>
-•<a href="link">Tap Dance</a><br>	
-•<a href="link">Guitar Ensemble</a><br>
-•<a href="link">Art Club</a><br>
-•<a href="link">English Language Drama Club</a><br>		</p>
+<p>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/choir">Choir</a><br>
+•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/fusion-dance">Fusion Dance</a><br>
+•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/tap-dance">Tap Dance</a><br>	
+•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/guitar-ensemble">Guitar Ensemble</a><br>
+•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Clubs-and-Societies/art-club">Art Club</a><br>
+•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Clubs-and-Societies/EL-Drama-club">English Language Drama Club</a><br>		</p>
 
 </div>
 
@@ -85,8 +85,8 @@ Click [here](/files/CCA%20Schedule%202023_updated.pdf) for CCA schedule
 <div>
 
 <p>
-•<a href="link">Environmental Science Club</a><br>
-•<a href="link">Media Infocomm Club</a>
+•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Clubs-and-Societies/environmental-science-club">Environmental Science Club</a><br>
+•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Clubs-and-Societies/media-and-infocomm-club">Media Infocomm Club</a>
 	
 </p>
 
@@ -103,7 +103,7 @@ Click [here](/files/CCA%20Schedule%202023_updated.pdf) for CCA schedule
 <div>
 
 <p>
-•<a href="link">Brownies</a>
+•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Uniformed-Group/brownies">Brownies</a>
 	
 </p>
 
