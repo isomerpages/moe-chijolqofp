@@ -2,6 +2,7 @@ collections:
   olqp-celebrates:
     output: true
     order:
+      - Students/Sister Deirdre O’Loan Award.md
       - Students/.keep
       - School.md
       - Staff.md
