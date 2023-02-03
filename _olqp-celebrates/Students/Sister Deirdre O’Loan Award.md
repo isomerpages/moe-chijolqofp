@@ -6,6 +6,8 @@ third_nav_title: Students
 ---
 ### Sister Deirdre O’Loan Award
 
+<img src="/images/sdoa.png" style="width:30%">
+
 Born to an Irish family, Sr Deirdre O’Loan became a nun at the age of 17. Before coming to Singapore in 1974, she taught in Malaysia for several years. She began teaching General Paper in Catholic Junior College (CJC) upon its founding in 1975, and took on several leadership roles in her time at the school (Head of the English Language Department, Vice-Principal and Principal).
 
   
