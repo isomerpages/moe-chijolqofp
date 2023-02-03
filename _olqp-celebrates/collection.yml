@@ -1,4 +1,5 @@
 collections:
   olqp-celebrates:
     output: true
-    order: []
+    order:
+      - Bouquets for Staff.md
