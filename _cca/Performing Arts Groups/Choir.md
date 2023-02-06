@@ -13,7 +13,7 @@ third_nav_title: Performing Arts Groups
 *   To develop students’ character and to instill self-discipline, self-expression, self-confidence and leadership skills in them; and
 *   To nurture students’ creative and artistic potential to experience and appreciate the Arts.
 
-#### What do we do
+#### What We Do
 
 The Choir of CHIJ OLQP has been one of the pioneering CCAs since the school was established in 1955. From the beginner to advanced level, Choir members are taught music theory, musicianship and sight-singing skills as well as vocal techniques which are conducted in a fun and engaging manner. They are also introduced to a wide repertoire of songs and various performing art forms.
 
