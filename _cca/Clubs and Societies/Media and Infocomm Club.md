@@ -1,6 +1,6 @@
 ---
 title: Media and Infocomm Club
-permalink: /cca/Clubs-and-Societies/media-and-infocomm-club
+permalink: /cca/Clubs-and-Societies/media-and-infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
@@ -13,7 +13,7 @@ third_nav_title: Clubs and Societies
 *   To develop their social skills and increase their ownership of their development by volunteering for photography and/or videography as well as stage PA/AV crew duties during school events.
 *   To expose students in digital media competition at zonal and national levels.
 
-#### What do we do
+#### What We Do
 
 As communication through videos and images have become commonplace, we seek to equip our students to create original and innovative presentations such as equip students with videography skills and digital art, example, stop motion movie.
 
