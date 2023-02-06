@@ -12,7 +12,7 @@ third_nav_title: Sports and Games
 *   To develop our students holistically in the aspects such as physical, mental & emotional, and inculcating leadership skills and team spirit in them.
 
 
-#### What do we do
+#### What We Do
 
 The beginner's and intermediate netball programme is developed for our Primary 3 and 4 players with the emphasis on fun, active participation and the development of fundamental netball skills and game concepts.
 
