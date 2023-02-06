@@ -32,3 +32,5 @@ Brownies participate in the different modules to acquire new skills to achieve t
   
 
 Sixers and Seconds will be provided with opportunities to hone their leadership skills as they lead their packs in group activities. Brownies also participate actively in school events such as the National Day Observance Ceremony and VIA projects. On special occasions, Brownies engage in fun things with other Brownie units for joint learning adventures such as West Division Day, World Thinking Day and National Brownies Revel.
+
+<img src="/images/brownies.png" style="width:80%">
