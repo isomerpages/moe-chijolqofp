@@ -1,6 +1,6 @@
 ---
 title: Guitar Ensemble
-permalink: /cca/Performing-Arts-Groups/guitar-ensemble
+permalink: /cca/Performing-Arts-Groups/guitar-ensemble/
 description: ""
 third_nav_title: Performing Arts Groups
 ---
@@ -8,28 +8,19 @@ third_nav_title: Performing Arts Groups
 
 #### Aim
 
-In OLQP Guitar Ensemble, the aim is to promote the joy of learning the guitar and develop a sense of achievement in guitar playing, instilling among the members the love and passion for music making.  
+*   To promote the joy of learning the guitar and develop a sense of achievement in guitar playing; and
+*   To instill the love and passion for music making in the members.
 
 #### What do we do
 
-There is no better feeling than learning to play an instrument. In the Guitar Ensemble, members will learn just that in the weekly CCA sessions. Members with or without music background will not only be exposed to the different parts of a classical guitar, they will also learn how to hold a guitar, tune it and play the chords. Together with the virtues of diligence and perseverance, members will be strumming songs on their guitars in no time. 
+Guitar Ensemble started in CHIJ OLQP in 2022. At the beginner level, members learn how to hold a classical guitar, tune it and play the chords after being exposed to the different parts of the guitar. In the process of learning to play the classical guitar, members develop a good sense of beat and rhythm, and learn to appreciate and express themselves through music.
 
-During the weekly practice, peer support and group work are encouraged as the members are introduced to sectional practice with their ensemble mates.   
+  
 
-Building their confidence, teamwork and tenacity, the Guitar Ensemble endeavours to showcase their talents through various performance platforms and cultivate the appreciation of music and the arts.
+At the intermediate and advanced levels, members will learn how to read notes on the staff & pluck classical tunes based on the fundamentals of note reading and rhythm understanding, keeping in line with a Music Examination syllabus. Guitar Ensemble members are given the opportunity to perform and share their love for music at various school and public events.
 
-#### About the CCA
+  
 
-Guitar Ensemble started in CHIJ OLQP in 2022. Weekly lessons are conducted for the P3 members by a qualified instructor. In the Guitar Ensemble, members learn how to hold a classical guitar, tune it and play the chords after being exposed to the different parts of the guitar.  
+Members of the advanced level also get to take part in the Singapore Youth Festival Arts Presentation held every 2 years to showcase their talent and musicianship. Being in an ensemble enables members to develop the virtues of cooperation, confidence and excellence. CCA Leaders also get to hone their leadership skills by being a student-coach to the younger members.
 
-In the process of learning to play the classical guitar, members will develop a good sense of rhythm and timing, and learn to appreciate and express themselves through music. 
-
-Guitar Ensemble members are given the opportunities to perform at various school concerts as well as community projects. Selected senior members will be trained to take part in the Singapore Youth Festival Arts Presentation (SYF AP) held every two years.
-
-#### Programme Highlights 2022
-
-| Programmes / Activities 	| Level involved 	| Date 	|
-|---	|---	|---	|
-| National Day Performance 	| Beginners 	| 8 August 2022 	|
-| Teacher’s Day Performance 	| Beginners 	| 6 October 2022 	|
-| Pre-assembly showcase 	| Beginners 	| At least once every semester 	|
+<img src="/images/guitar1.png" style="width:80%">
