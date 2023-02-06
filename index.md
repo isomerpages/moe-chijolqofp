@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: Announcements & Quick Links
           description: ""
-          url: /news-and-announcements/overview
+          url: /announcements-quick-links/overview/
 ---
