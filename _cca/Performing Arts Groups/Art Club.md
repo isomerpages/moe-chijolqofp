@@ -4,38 +4,24 @@ permalink: /cca/Performing-Arts-Groups/art-club/
 description: ""
 third_nav_title: Performing Arts Groups
 ---
-
-
 ### Art Club
 
 #### Aims
 
-Exposure - To grow students’ talents, imagination, creativity through various mediums & platforms (competitions, exhibitions, community projects)  
+*   To grow students’ talents, imagination and creativity through various mediums and platforms (competitions, exhibitions, community projects);
+*   To develop and nurture virtue of enthusiasm through art-making (ART with heART); and
+*   To support aspiring Art enthusiasts in building up a portfolio of artistic skills through the visual arts.
 
-Experience - Develop and nurture virtues through art making (ART with heART)
+#### What We Do
 
-Excellence – Talent identification & building up a portfolio of skills through CCA to be a life-long learner of the visual arts
+The Art Club serves to provide a platform for aspiring Art enthusiasts to develop their interest and passion in the visual arts beyond the formal Art curriculum in the school. The CCA is a fun learning space where students explore various art forms, and experience art-making and appreciation through purposeful artistic activities.
 
-#### What do we do
+  
 
-Our CCA is a learning space where students explore various forms, and experience art-making and appreciation through purposeful artistic activities. Our members will have opportunities to deepen their artistic skills in collaborative projects and unleash their self-expression in international and local art competitions.
+At the beginner level, members are exposed to drawing and colouring using numerous mediums including: watercolor, color pencils, water soluble pencils, graphite pencils, ink, acrylic paint, soft pastels, oil pastels, poster colors, charcoal, clay, terracotta, and mixed media. At the intermediate level, members advance from 2D to 3D art expressions through sculpting and ceramics making. Members with advanced skills will continue to refine their artistic skills and also expand their scope to digital art. Members also have the opportunity to hone their leadership and organisational skills through bonding sessions and curation of art exhibitions.
 
-#### Programme Highlights 2022
+  
 
-| Programmes / Activities 	| Level involved 	| Date 	|
-|:---:	|:---:	|:---:	|
-| Draw My Stamp Story Competition 	| P3 – P6 	| Term 2 - 3 	|
-| ViaRT Recycling Awards Competition 	| P3 – P5 	| Term 3 - 4 	|
-| PAssionArts Community Art Gallery Exhibition @ Blk 256 Bangkit Road 	| P3 – P6 	| Term 4 	|
+Last but not least, the Art club aims to develop 21st Century Competencies in our members through collaborative projects within the school and the community. Apart from local and international art competitions, members get to unleash their creativity by participating in the Singapore Youth Festival Arts Exhibition that is held biannually. Through a broad-based exposure to the different art forms, members build a strong portfolio that adds value in their application to join an art school after primary school education.
 
-#### Our Achievements 
-
-| Year 	| Competitions 	| Level involved  	| Placing 	|
-|:---:	|:---:	|:---:	|:---:	|
-| 2022  	| ViaRT Recycling Awards Competition  	|  Selected members 	| 1st & 2nd in Best Artistic Award<br>1st in Best Story 	|
-| 2021 	| Singapore Youth Festival Arts Presentation 	| Selected members 	| Category C – Certificate of Participation<br> Category B - Certificate of Recognition 	|
-| 2019 	| Singapore Youth Festival Arts Presentation 	| Selected members 	| Category A & B – Certificate of Participation<br> Category C- Certificate of Recognition 	|
-|  2017 	|  Singapore Youth Festival Arts Presentation 	|  Selected members 	| <br>Category A – Certificate of Recognition (Special Mention)<br> Category B & C – Certificate of Participation  	|
-
-<img src="/images/artcca.gif" 
-     style="width:60%">
+<img src="/images/artclub.png" style="width:80%">
