@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /cca/Performing-Arts-Groups/choir
+permalink: /cca/Performing-Arts-Groups/choir/
 description: ""
 third_nav_title: Performing Arts Groups
 ---
@@ -8,39 +8,21 @@ third_nav_title: Performing Arts Groups
 
 #### Aims
 
-*   To promote choral awareness and provide a platform for students to sing, individually and in an ensemble.  
-      
-    
-*   To achieve excellence in choral singing through unity and teamwork.  
-      
-    
-*   To develop students’ characters and to instill self-discipline, self-expression, self-confidence and leadership skills in them.  
-      
-    
-*   To nurture students’ creative and artistic potential to experience and appreciate Arts for life-long learning.
+*   To provide a platform for students to sing, individually and in an ensemble;
+*   To achieve excellence in choral singing through unity and teamwork;
+*   To develop students’ character and to instill self-discipline, self-expression, self-confidence and leadership skills in them; and
+*   To nurture students’ creative and artistic potential to experience and appreciate the Arts.
 
 #### What do we do
 
-The Choir of CHIJ Our Lady Queen of Peace has been one of the pioneering CCAs since the school was established in 1955. These young choristers come together with a strong passion and love for singing. They train hard under the astute tutelage of their instructor, Ms Angila Tan, who continuously set higher standards for them as they learn and perform songs of different languages and cultures, widening their repertoire and executing deeper and more impactful melodies to the audience.   
+The Choir of CHIJ OLQP has been one of the pioneering CCAs since the school was established in 1955. From the beginner to advanced level, Choir members are taught music theory, musicianship and sight-singing skills as well as vocal techniques which are conducted in a fun and engaging manner. They are also introduced to a wide repertoire of songs and various performing art forms.
 
-Students who enjoy singing are encouraged to take up this popular CCA. Choir members are taught music theory, musicianship and sight-singing skills as well as vocal techniques which are conducted in a fun and engaging manner. They are also introduced to a wide repertoire of songs and various performing art forms. 
+  
 
-#### Programme Highlights 2022
+Through the weekly rehearsals, members develop their concentration and focus, while practising active listening skills. During their four years in the CCA, they get to perform songs of different languages and from different cultures, widen their repertoire and execute deep and impactful melodies through various performance opportunities.
 
-| Programmes / Activities 	| Level involved 	| Date 	|
-|:---:	|:---:	|:---:	|
-| Singapore Youth Festival Arts Presentation   	| Competition Group  	| Pending  	|
-| Teacher’s Day  	|  All levels 	| September  	|
-|  Children’s Day 	|  All levels 	| October  	|
-| Fantastic Friday Pre-assembly Sharing 	| Selected members 	| Selected Fridays 	|
+  
 
-#### Our Achievements
+The Choir has an active performing calendar and has sung in several school and public events. Members of the advanced level also get to take part in the Singapore Youth Festival Arts Presentation and International Choral Competition in alternate years to showcase their singing talent and develop their confidence and poise. Singing camps are a much anticipated highlight of the CCA where they get to network and learn from choristers from other schools. There are also avenues for members to hone their leadership skills and showmanship through orchestrating the choir as student conductors.
 
-| Year 	| Competitions 	| Level involved 	| Placing 	|
-|:---:	|:---:	|:---:	|:---:	|
-| 2017, 2019 	| Singapore International Choral Festival (SICF) 	| Competition Team 	| Silver 	|
-| 2014, 2016, 2018 	| SYF Arts Presentation of Choirs 	| Competition Team 	| Distinction 	|
-
-<img src="/images/choir.gif" 
-     style="width:60%">
-
+<img src="/images/choir1.png" style="width:80%">
