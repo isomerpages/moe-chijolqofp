@@ -1,6 +1,6 @@
 ---
 title: Fusion Dance
-permalink: /cca/Performing-Arts-Groups/fusion-dance
+permalink: /cca/Performing-Arts-Groups/fusion-dance/
 description: ""
 third_nav_title: Performing Arts Groups
 ---
@@ -8,31 +8,19 @@ third_nav_title: Performing Arts Groups
 
 #### Aims
 
-To inculcate in each member an appreciation for dance and to nurture the creativity in each of them through exposing them to Chinese dance and other dances. This will provide each member the opportunity to develop and grow according to her talent and ability.
-
+*   To inculcate an appreciation for dance and to nurture the creativity of members through exposing them to different dance forms; and
+*   To provide opportunities for members to develop a lifelong passion for dance.
+*   
 #### What do we do
 
-Fusion Dance inculcates in the members an appreciation for dance. It helps them to develop the ability to express themselves through movement as they hone their skills and learn the different techniques in dancing. It also serves as a platform for the members to showcase their talent in school performances and SYF competitions.
+The Fusion Dance CCA is a platform for members to learn a repertoire of dance forms such as ethnic, modern and contemporary dance, and develop a deeper cultural awareness and understanding.
 
-During practices, professional instructors are engaged to train members in a repertoire of dances such as Chinese dance as well as modern and contemporary dance. Through these practices, performances and competitions, members inculcate the virtues of perseverance, unity, commitment and self-discipline.
+  
 
-#### Programme Highlights 2022
+At the beginner level, the dancers develop a strong foundation in flexibility and body coordination right from the start through a routine set of warm-up and stretching exercises. At the intermediate and advanced levels, members continue to hone their dancing skills, acquiring a stronger sense of rhythm, movement and musicality. Through the weekly dance sessions, students develop the virtues of perseverance, unity, commitment and self-discipline.
 
-| Programmes / Activities 	| Level involved 	| Date 	|
-|:---:	|:---:	|:---:	|
-| Chinese New Year Performance 	| Advanced members 	| Term 1 	|
-| SYF Arts Presentation 	| Advanced members 	| Pending 	|
-| Community Performances 	| Beginners & Intermediate members 	| Semester 2 	|
+  
 
-#### Our Achievements
+In addition, members are given opportunities to perform at various school and public events so as to build their confidence and strong stage presence. Members of the advanced level also get to take part in the Singapore Youth Festival Arts Presentation held every 2 years to showcase their talent and skills. Lastly, the CCA also aims to provide opportunities for members to use their talents to serve the community through VIA involvement.
 
-| Year 	| Competition 	| Level involve     	| Placing 	|
-|:---:	|:---:	|:---:	|:---:	|
-| 2021 	| International Science Drama Competition 	| Selected Members 	| Short Film Category – 2nd Place & Popularity Award 	|
-|  2018 	| International Science Drama Competition 	| Selected Members 	| Certificate of Accomplishment 	|
-
-<img src="/images/pag10.png" 
-     style="width:60%">
-		 
-<img src="/images/pag11.png" 
-     style="width:60%">
+<img src="/images/fusiondance.png" style="width:80%">
