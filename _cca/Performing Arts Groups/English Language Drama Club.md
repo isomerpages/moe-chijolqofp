@@ -4,7 +4,8 @@ permalink: /cca/Performing-Arts-Groups/EL-Drama-club/
 description: ""
 third_nav_title: Performing Arts Groups
 ---
-### EL Drama Club
+### English Language Drama Club
+
 
 #### Aims
 
