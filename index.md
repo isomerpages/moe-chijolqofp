@@ -9,10 +9,7 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
-        - title: Achievements
-          description: ""
-          url: /achievements/overview
-        - title: News & Announcements
+        - title: Announcements & Quick Links
           description: ""
           url: /news-and-announcements/overview
 ---
