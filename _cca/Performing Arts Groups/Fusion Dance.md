@@ -10,8 +10,8 @@ third_nav_title: Performing Arts Groups
 
 *   To inculcate an appreciation for dance and to nurture the creativity of members through exposing them to different dance forms; and
 *   To provide opportunities for members to develop a lifelong passion for dance.
-*   
-#### What do we do
+
+#### What We Do
 
 The Fusion Dance CCA is a platform for members to learn a repertoire of dance forms such as ethnic, modern and contemporary dance, and develop a deeper cultural awareness and understanding.
 
