@@ -1,6 +1,6 @@
 ---
 title: Softball
-permalink: /cca/Sports-and-Games/softball
+permalink: /cca/Sports-and-Games/softball/
 description: ""
 third_nav_title: Sports and Games
 ---
@@ -8,30 +8,21 @@ third_nav_title: Sports and Games
 
 #### Aims
 
-In Softball, we believe that “Every player’s a potential, Every player’s a part of the game and Every player matters.” Through the CCA, we hope to develop basic sports skills and competencies, promote quick and intelligent decision making as an individual as well as a team player and to develop good sportsmanship and resilience in the players. 
+*   To develop strong sporting skills and competencies in the players;
+*   To promote quick and intelligent decision making as an individual as well as a team player; and
+*   To develop good sportsmanship, teamwork and resilience in the players.
 
 #### What do we do
 
-Weekly training includes not only development in the skills required for the game of softball but also a strength and conditioning component to maintain the fitness level of all students. Our students not only learn to play the game, they are also training their mind and body to improve their abilities.  
+During the weekly training sessions, the players hone their skills such as throwing, catching, fielding, pitching, batting and base-running through fun drills and games. There is also a strength and conditioning component designed in the programme to train their mind and body to improve their physical and mental toughness abilities.
 
-Annually, the school selects a maximum of 15 to 18 players to participate in the National Inter-Primary Schools Softball Games for both Senior and Junior Division. We have a team of qualified coaches who play an extremely important role in the training program of the Softball CCA. The teachers and coaches work hand in hand in providing students with the best possible experience from their sports participation.
+  
 
-#### Programme Highlights 2022
+In addition to developing softball skills and competencies, the CCA also aims to impart the virtues of sportsmanship, teamwork, resilience and leadership in our players. In preparation for selection for the school team, our softball players are given opportunities to hone their skills through friendly matches and competitions.
 
-| Programmes / Activities 	| Level involved 	| Date 	|
-|:---:	|:---:	|:---:	|
-| National Inter-Primary School Softball Senior Girls Championships 	| P5 and P6 Combined Team 	| Pending  	|
-| National Inter-Primary School Softball Junior Girls Championships 	| P3 and P4 Combined Team 	| Pending 	|
-| S.T.A.R.R Athletes eCamp 	| P4 – 6 Players 	| June Holidays 	|
+  
 
-#### Our Achievements
+Every year, the school selects about 15 to 18 players to participate in the National School Games Softball Championship for both Junior and Senior Divisions. Players also can look forward to the annual S.T.A.R.R Athletes Camp and Living C.H.A.M.P.I.O.N.S programme, which further develop in them, the necessary knowledge, skills and attitude required to excel in sports and also forge stronger friendships among them. There are also leadership opportunities for potential players to lead the team as Captain and Vice-captain.
 
-| Year 	| Competitions 	| Level involved 	| Placing 	|
-|:---:	|:---:	|:---:	|:---:	|
-| 2019 	| National Inter-Primary School Softball Championships 	| Senior Team 	| National 4th Position 	|
-| 2019 	| National Inter-Primary School Softball Championships 	| Junior Team 	| Participation 	|
-|  2018 	|  National Inter-Primary School Softball Championships 	| Senior Team  	| National 4th Position  	|
-|  2018 	|  National Inter-Primary School (Trial) Softball ChampionshipsJunior Girls Easy Pitch  	| Junior Team  	| Group Two 1st Runner-Up  	|
+<img src="/images/softball.png" style="width:80%">
 
-<img src="/images/softball.gif" 
-     style="width:60%">
