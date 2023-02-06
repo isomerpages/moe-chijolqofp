@@ -1,34 +1,34 @@
 ---
 title: Brownies
-permalink: /cca/Uniformed-Group/brownies
+permalink: /cca/Uniformed-Group/brownies/
 description: ""
 third_nav_title: Uniformed Group
 ---
 ### Brownies
 ##### Aims
 
-To educate the girls to lead a useful life through a series of healthy and enjoyable activities and to develop in them the heart to serve the community.
+*   To encourage our students to explore and discover the world around them by learning new skills,
+*   To provide opportunities for students to work and play independently and in teams; and
+*   To develop in our students the heart to serve the community.
 
 ##### What We Do
 
-Upon enrolment, all tweenies will acquire the various skills to be enrolled as Brownies. Brownies is a game of adventure, observation, knowledge and ideas. It is an education in life skills, which encourages each girl to be a responsible citizen and lead a meaningful life.
+Brownies is the only Uniformed Group in CHIJ OLQP. Upon the Enrolment Ceremony, Tweenies in the Pack will become Brownies. It will then be the first time they wear their full uniform and receive the Golden Badge.
 
- The highlight of the CCA is the 5-point programme (12 modules) which includes activities such as singing, craftwork, quiz, indoor and outdoor games, simple cooking, sewing, field trips, camping etc. Brownies also learn to work and play together in groups.
+  
 
- Brownies participate in the different modules to acquire skills to achieve the various proficiency badges. The attainment of these proficiency badges also help them in achieving the Golden Bar and Golden Hand Badges. They are also encouraged to work towards the Chief Commissioner’s Badge, under the guidance of the teacher mentor.
+The highlight of the CCA is the 5-point programme (12 modules) which develops the Brownies in 5 areas:
 
- Our members also participate actively in school events such as National Day Observance Ceremony, etc. and VIA projects.
- 
-#####  Programme Highlights 2022
+*   Personal & Social Development – Physical Development: Healthy Me, Emotional Development: Courteous Me & Social Development: Cultured Me
+*   Home – Home Duties & Home Safety
+*   Community – My Country, My Neighbourhood, Helper
+*   Outdoor – Discovering Nature, A Green World
+*   International – My Globe, My Guiding World & My Guiding Friend
 
-| Programmes / Activities 	| Level involved 	| Date 	|
-|:---:	|:---:	|:---:	|
-| West Division Day 	| P3-P6 	| Pending 	|
-| World Thinking Day 	| P3-P6 	| Pending 	|
+  
 
-##### Our Achievements
+Brownies participate in the different modules to acquire new skills to achieve the various proficiency badges. Activities include singing, craftwork, quiz, indoor and outdoor games, simple cooking, sewing, field trips, camping etc. The attainment of these proficiency badges engage help them in achieving the Golden Bar and Golden Hand Badges. They are also encouraged to work towards the Chief Commissioner’s Badge, under the guidance of a teacher mentor.
 
-| Year 	| Competitions 	| Level involved 	| Placing 	|
-|:---:	|:---:	|:---:	|:---:	|
-| 2021 	| West Division Day 	| P3-P6 	| Bronze award for “Caption the Moment”.<br>Gold Award in a Skit competition.Bronze award for “Get Creative with TikTok’competition”. 	|
-| 2021 	| Chief Commissioner’s Badge Award 	| P6 	| 3 Recipients:<br><br>Koh Shu Qing, Victoria<br>Shasha Chong Shi Man<br>Ng Jing Wen, Imelda 	|
+  
+
+Sixers and Seconds will be provided with opportunities to hone their leadership skills as they lead their packs in group activities. Brownies also participate actively in school events such as the National Day Observance Ceremony and VIA projects. On special occasions, Brownies engage in fun things with other Brownie units for joint learning adventures such as West Division Day, World Thinking Day and National Brownies Revel.
