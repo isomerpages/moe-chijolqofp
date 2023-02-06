@@ -11,7 +11,7 @@ third_nav_title: Sports and Games
 *   To promote strength, tenacity and flexibility while developing finesse motor and body coordination skills through rhythmic gymnastics; and
 *   To nurture in our young athletes the virtues of discipline, respect and teamwork.
 
-#### What We do
+#### What We Do
 
 Rhythmic Gymnastics Club was set up in CHIJ OLQP in 2022. The Junior Team learns basic apparatus handling and manipulations and gymnastic skills, combined with physical training which includes conditioning for strength and stamina, and stretching exercises for flexibility. With strong foundations, the Senior Team will learn more advanced skills that combine gymnastics, dance and apparatus-play using the ribbons, balls, hoops and clubs.
 
