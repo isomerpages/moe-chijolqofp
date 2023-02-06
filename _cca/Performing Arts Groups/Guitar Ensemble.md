@@ -11,7 +11,7 @@ third_nav_title: Performing Arts Groups
 *   To promote the joy of learning the guitar and develop a sense of achievement in guitar playing; and
 *   To instill the love and passion for music making in the members.
 
-#### What do we do
+#### What We Do
 
 Guitar Ensemble started in CHIJ OLQP in 2022. At the beginner level, members learn how to hold a classical guitar, tune it and play the chords after being exposed to the different parts of the guitar. In the process of learning to play the classical guitar, members develop a good sense of beat and rhythm, and learn to appreciate and express themselves through music.
 
