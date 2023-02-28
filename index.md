@@ -20,4 +20,10 @@ sections:
         scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
         clipboard-write; encrypted-media; picture-in-picture; web-share"
         contenteditable="false"></iframe>
+  - infobar:
+      title: Calendar
+      description: '<iframe
+        src="https://calendar.google.com/calendar/embed?src=olqpsch%40gmail.com&ctz=Asia%2FSingapore"
+        style="border: 0" width="800" height="600" frameborder="0"
+        scrolling="no"></iframe>'
 ---
