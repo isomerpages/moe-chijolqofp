@@ -5,7 +5,9 @@ description: ""
 ---
 ### Principal's Message
 
-<div style="text-align: right;"> <img src="/images/pmsg.png" style="width:50%;"> </div>
+<img src="/images/pmsg.png" style="width:50%;" align ="left">
+
+<br clear = left>
 
 It is my greatest joy and blessing to be a part of the CHIJ Our Lady Queen of Peace (CHIJ OLQP) family. An IJ girl myself, I had the privilege of experiencing the IJ education in primary and secondary school. Grounded in values and Christian teaching, the 10 years of IJ education has indeed played a major part in developing me as a person and an educator. Being an IJ alumnus, I believe strongly in wanting to share the IJ experience and culture with our staff, students and parents, and in so doing, enable the IJ legacy to live on through the current and future cohorts of students.
 
