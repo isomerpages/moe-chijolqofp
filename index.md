@@ -1,32 +1,29 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Home
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/olqplogo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Banner2.gif
+      key_highlights:
+        - title: Announcements & Quick Links
+          description: ""
+          url: /announcements-quick-links/overview/
+  - infobar:
+      title: Find Us On Facebook
+      description: <iframe
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fchijolqp.official&amp;tabs=timeline&amp;width=500&amp;height=500&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId=551472119606120"
+        width="500" height="500" style="border:none;overflow:hidden"
+        scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+        clipboard-write; encrypted-media; picture-in-picture; web-share"
+        contenteditable="false"></iframe>
+  - infobar:
+      title: Calendar
+      description: '<iframe
+        src="https://calendar.google.com/calendar/embed?src=olqpsch%40gmail.com&ctz=Asia%2FSingapore"
+        style="border: 0" width="800" height="600" frameborder="0"
+        scrolling="no"></iframe>'
 ---
-

@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/olqplogo1.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Discover OLQP
+    collection: discover-olqp
+  - title: OLQP Family
+    collection: olqp-family
+  - title: OLQP Experience
+    collection: olqp-experience
+  - title: Friends of OLQP
+    collection: friends-of-olqp
+  - title: OLQP Celebrates
+    collection: olqp-celebrates
+  - title: Useful Links
+    collection: useful-links

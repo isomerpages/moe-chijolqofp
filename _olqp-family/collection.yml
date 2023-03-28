@@ -1,0 +1,8 @@
+collections:
+  olqp-family:
+    output: true
+    order:
+      - School Leaders.md
+      - Executive Committee.md
+      - Academic Staff.md
+      - Administrative and Support Staff.md
