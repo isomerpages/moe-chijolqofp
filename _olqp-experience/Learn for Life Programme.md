@@ -5,7 +5,7 @@ description: ""
 ---
 ### Learn for Life Programme
 
-**C**haracter **L**ives **I**n **M**y **B**ehaviour (**CLIMB**) is the school’s Learning for Life Programme (LLP). CLIMB aims to impart values and 21st Century Competencies in our students by equipping them with the necessary knowledge, skills, attitudes and behaviours for them to succeed in school and in life.
+**C**haracter **L**ives **I**n **M**y **B**ehaviour (**CLIMB**) is the school’s Learn for Life Programme (LLP). CLIMB aims to impart values and 21st Century Competencies in our students by equipping them with the necessary knowledge, skills, attitudes and behaviours for them to succeed in school and in life.
 
   
 
