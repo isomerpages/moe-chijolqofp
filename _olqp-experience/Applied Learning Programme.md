@@ -17,8 +17,10 @@ Primary 3 to 6 students learn basic programming concepts through the use of prog
 
 *   Building a prototype of a street lamp that only lights up the path and does not disturb the wildlife living in proximity. To achieve this, our students learn to use paper coding to code for sustainable use of lighting by solar panels.
 
-<img src="/images/alp100.png" style="width:80%">
+<img src="/images/alp100.png" style="width:100%">
 
 #### Makerspace@OLQP
+
+<img src="/images/makerspace.jpg" style="width:100%">
 
 Maker Education in CHIJ OLQP creates opportunities for our students to come together and solve problems through free play. Makerspace@OLQP provides a learning space for our students ideate, tinker with digital or physical fabrication tools to construct objects during their free time at recess. The exciting activities promote joy of learning and our students are encouraged to think out of the box to solve problems creatively.
