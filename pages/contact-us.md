@@ -10,22 +10,19 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 7.30am - 5.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
     maps_link: ""
     title: CHIJ OLQP
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6769 1529
+      - email: chijolqp@moe.edu.sg
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: ""
       - other: ""
     title: Careers
 ---
