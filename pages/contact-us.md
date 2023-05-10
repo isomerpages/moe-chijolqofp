@@ -24,5 +24,5 @@ contacts:
       - phone: ""
       - email: ""
       - other: ""
-    title: Careers
+    title: Career
 ---
