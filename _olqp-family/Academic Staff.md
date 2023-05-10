@@ -97,6 +97,7 @@ description: ""
 | Chinese Language  | Ms Hou Yingyu   | [hou\_yingyu@moe.edu.sg](mailto:hou_yingyu@moe.edu.sg)   |
 | Mathematics/ Science    | Mr Owen Lau  | [lau\_quck\_woon@moe.edu.sg](mailto:lau_quck_woon@moe.edu.sg)  |
 | Mathematics/ Science   | Ms Kuan Poey Han | [kuan\_poey\_han@moe.edu.sg](mailto:kuan_poey_han@moe.edu.sg) |
+| Mathematics/ Science   | Mrs Rebecca Loh | [Lee\_hung\_ling\_rebecca@moe.edu.sg](mailto:lee_hung_ling_rebecca@moe.edu.sg) |
 | Mathematics  | Mrs Christina Yip  | [christina\_chan\_kim\_lian@moe.edu.sg](mailto:christina_chan_kim_lian@moe.edu.sg)   |
 | English Language | Mrs Angelina Chung | [lim\_eng\_suan\_angelina@moe.edu.sg](mailto:lim_eng_suan_angelina@moe.edu.sg) |
 | English Language | Ms Sheila Rabot | [sheila\_anne\_rabot@moe.edu.sg](mailto:sheila_anne_rabot@moe.edu.sg) |
@@ -105,7 +106,6 @@ description: ""
 | Mathematics | Mrs Doris Loo | [loo\_choe\_leong@moe.edu.sg](mailto:loo_choe_leong@moe.edu.sg) |
 | Mathematics | Mrs Janet Chua | [Janet\_Chua@moe.edu.sg](mailto:Janet_Chua@moe.edu.sg) |
 | Mathematics | Mr Idris Bin Lekiman | [idris\_lekiman@moe.edu.sg](mailto:idris_lekiman@moe.edu.sg) |
-| Mathematics | Ms Michelle Fong | [fong\_mun\_michelle@moe.edu.sg](mailto:fong_mun_michelle@moe.edu.sg) |
 | Mathematics  | Ms Valerie Chong  | [chong\_fei\_hua\_valerie@moe.edu.sg](mailto:chong_fei_hua_valerie@moe.edu.sg) |
 
 #### Special Needs Officers
