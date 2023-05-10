@@ -93,7 +93,6 @@ description: ""
 |  |  |  |
 |---|---|---|
 | English Language/Physical Education | Mr Luke Goh | [luke\_goh@moe.edu.sg](mailto:luke_goh@moe.edu.sg) |
-| English Language  | Ms Valerie Low | [valerie\_low\_baoqin@moe.edu.sg](mailto:valerie_low_baoqin@moe.edu.sg) |
 | Mathematics  | Mrs Melissa Lee  | [hou\_yingyu@moe.edu.sg](mailto:hou_yingyu@moe.edu.sg)   |
 | Chinese Language  | Ms Hou Yingyu   | [hou\_yingyu@moe.edu.sg](mailto:hou_yingyu@moe.edu.sg)   |
 | Mathematics/ Science    | Mr Owen Lau  | [lau\_quck\_woon@moe.edu.sg](mailto:lau_quck_woon@moe.edu.sg)  |
@@ -102,7 +101,6 @@ description: ""
 | English Language | Mrs Angelina Chung | [lim\_eng\_suan\_angelina@moe.edu.sg](mailto:lim_eng_suan_angelina@moe.edu.sg) |
 | English Language | Ms Sheila Rabot | [sheila\_anne\_rabot@moe.edu.sg](mailto:sheila_anne_rabot@moe.edu.sg) |
 | English Language | Mrs Laura Lai | [ho\_wan\_ghin@moe.edu.sg](mailto:ho_wan_ghin@moe.edu.sg) |
-| English Language | Ms Marie Loe | [loe\_suet\_yin\_marie@moe.edu.sg](mailto:loe_suet_yin_marie@moe.edu.sg) |
 | English Language  | Ms Lorraine  Wong | [lorraine\_faith\_wong\_kar@moe.edu.sg](mailto:lorraine_faith_wong_kar@moe.edu.sg) |
 | Mathematics | Mrs Doris Loo | [loo\_choe\_leong@moe.edu.sg](mailto:loo_choe_leong@moe.edu.sg) |
 | Mathematics | Mrs Janet Chua | [Janet\_Chua@moe.edu.sg](mailto:Janet_Chua@moe.edu.sg) |

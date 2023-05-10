@@ -4,13 +4,11 @@ permalink: /discover-olqp/School-Information/school-mission-vision-values-motto-
 description: ""
 third_nav_title: School Information
 ---
-
-
 ### School Mission/Vision/Values/Motto/School History
 
 #### Our Mission
 
-A Convent of the Holy Infant Jesus School is a Christ-centered school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.
+A Convent of the Holy Infant Jesus School is a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.
 
 #### Our Vision
 
@@ -26,8 +24,7 @@ Simple in Virtue, Steadfast in Duty
 
 #### School History
 
-<img src="/images/crest.png" 
-     style="width:40%">
+<img src="/images/crest.png" style="width:40%">
 		 
 **History of IJ Schools**
 
@@ -53,7 +50,7 @@ From January 1975, the school became a full primary school. The school was rebui
 
   
 
-In June 2007, the school moved back to its brand new campus at Chestnut Drive with up-to-date physical infrastructure and facilities to provide a better environment for our students to learn and develop their potential. These new/additional facilities include additional computer laboratories, new IT resource rooms, bigger classrooms (90m2 classrooms instead of the former 65m2 classrooms), bigger and better equipped media resource library, new health and fitness room, counseling room, Prayer Room, Math room and Science rooms.
+In June 2007, the school moved back to its brand new campus at Chestnut Drive with up-to-date physical infrastructure and facilities to provide a better environment for our students to learn and develop their potential. These new/additional facilities include additional computer laboratories, new IT resource rooms, bigger classrooms (90m2&nbsp;classrooms instead of the former 65m2&nbsp;classrooms), bigger and better equipped media resource library, new health and fitness room, counseling room, Prayer Room, Math room and Science rooms.
 
   
 
