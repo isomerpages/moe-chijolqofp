@@ -114,3 +114,4 @@ description: ""
 |---|---|---|
 | Special Educational Needs Officer | Mdm Nur Maisarah | [nur\_maisarah\_othman@moe.edu.sg](mailto:nur_maisarah_othman@moe.edu.sg) |
 | Special Educational Needs Officer | Mrs Charmaine Choo | [tay\_hui\_yen@moe.edu.sg](mailto:tay_hui_yen@moe.edu.sg) |
+|Counsellor | Ms Jill Lim | [lim\_jill@moe.edu.sg](mailto:lim_jill@moe.edu.sg) |
