@@ -12,6 +12,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | NSG Netball West Zone Championships Senior Division | Champion |
 | 2022 | NSG Netball West Zone Championships Senior Division | 3rd |
 | 2022 | NSG Netball West Zone Championships Junior Division | 1st |
 | 2019 | SPSSC Netball National Championships Senior Division | 3rd |
@@ -36,7 +37,7 @@ third_nav_title: Students
 |:---:|:---:|:---:|
 | 2022 | NSG Rhythmic Gymnastics Championships Junior Division | Level 2 Rope - Achievement Pin |
 
-### Visual & Performing Arts
+### Visual &amp; Performing Arts
 
 #### Choir
 
@@ -65,9 +66,9 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
-| 2022 | ViaRT Recycling Awards Competition | 1st & 2nd in Best Artistic Award<br>1st in Best Story |
+| 2022 | ViaRT Recycling Awards Competition | 1st &amp; 2nd in Best Artistic Award<br>1st in Best Story |
 | 2021 | Singapore Youth Festival Arts Presentation | Category C – Certificate of Participation<br>Category B - Certificate of Recognition |
-| 2019 | Singapore Youth Festival Arts Presentation | Category A & B – Certificate of Participation<br> Category C- Certificate of Recognition |
+| 2019 | Singapore Youth Festival Arts Presentation | Category A &amp; B – Certificate of Participation<br> Category C- Certificate of Recognition |
 
 ### Clubs and Societies
 
@@ -85,7 +86,7 @@ third_nav_title: Students
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
 | 2022 | International Science Drama Competition<br>(Collaboration with EL Drama Club) | Short Film Category – 3rd Position |
-| 2021 | International Science Drama Competition<br>(Collaboration with EL Drama Club) | Short Film Category – 2nd Position & Popularity Award |
+| 2021 | International Science Drama Competition<br>(Collaboration with EL Drama Club) | Short Film Category – 2nd Position &amp; Popularity Award |
 | 2021 | Brownies West Division Day- Drama Competition<br>(Collaboration with Brownies) | Gold |
 
 #### EL Drama Club
@@ -93,7 +94,7 @@ third_nav_title: Students
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
 | 2022 | International Science Drama Competition | Short Film Category – 3rd Position |
-| 2021 | International Science Drama Competition | Short Film Category – 2nd Position & Popularity Award |
+| 2021 | International Science Drama Competition | Short Film Category – 2nd Position &amp; Popularity Award |
 
 ### Uniform Group
 
