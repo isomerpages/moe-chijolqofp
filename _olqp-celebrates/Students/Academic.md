@@ -19,6 +19,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | Asia-Pacific Mathematical Olympiad for Primary Schools 2023 | 1 Bronze |
 | 2022 | National Mathematical Olympiad of Singapore (NMOS) | 4 Bronze<br>6 Honourable Mention |
 | 2022 | Singapore Mathematical Olympiad For Primary Schools (SMOPS) | 1 Bronze |
 | 2021 | National Mathematical Olympiad of Singapore (NMOS) | 2 Silver<br>2 Bronze |
