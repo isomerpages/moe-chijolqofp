@@ -35,6 +35,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | Rhythmic Gymnastics |1 Bronze <br>3 Achievement Pin |
 | 2022 | NSG Rhythmic Gymnastics Championships Junior Division | Level 2 Rope - Achievement Pin |
 
 ### Visual &amp; Performing Arts
