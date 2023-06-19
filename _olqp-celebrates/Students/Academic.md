@@ -30,6 +30,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | Mago Nationa Tamil Story Telling Competition | Special Award - Judge's Choice|
 | 2022 | [5th Text Recital Competition for Primary and Secondary Schools](https://www.cpcll.sg/events/reading-group/text-recital-competition-for-primary-and-secondary-schools/3039576)<br>Lower Primary (Individual)<br>Lower Primary (Group)<br>Middle Primary (Individual)<br>Upper Primary (Group) | 2 Silver Awards<br>1 Silver and 1 Bronze Awards<br>1 Bronze Awards<br>1 Silver and 1 Bronze Awards |
 | 2022 | The 26th National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition<br>Primary 6 Category | First Prize |
 | 2022 | 2022 National Vlog Competition for Singapore Primary School Students (CL)<br>Lower Primary Category | Second Prize &amp;<br>Excellent Award |
@@ -47,7 +48,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
-| 2022 | West Zone Junior Science Whiz Challenge | Champion |
+| 2023 | West Zone Junior Science Whiz Challenge | Champion |
 | 2023 | International STEM Olympiad | 2 Bronze<br>1 Silver |
 | 2022 | Singapore Primary Science Olympiad | 3 Bronze<br>3 Merit |
 | 2022 | International STEM Olympiad | 2 Bronze |

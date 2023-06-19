@@ -26,6 +26,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | National Softball Senior Division | Champion |
 | 2022 | NSG Softball National Championships Senior Division | 4th |
 | 2022 | NSG Softball National Championships Junior Division | Tier 1 - Achievement Pins |
 | 2019 | SPSSC Softball National Championships Senior Division | 4th |
@@ -35,6 +36,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | Nationa School Games |1 Bronze (Rope Level 2) 3 Achievement Pin (Ball Level 2) |
 | 2023 | Rhythmic Gymnastics |1 Bronze <br>3 Achievement Pin |
 | 2022 | NSG Rhythmic Gymnastics Championships Junior Division | Level 2 Rope - Achievement Pin |
 
@@ -86,6 +88,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | International Science Drama Competition<br>(Collaboration with EL Drama Club) | Short Film Category – Merit Award |
 | 2022 | International Science Drama Competition<br>(Collaboration with EL Drama Club) | Short Film Category – 3rd Position |
 | 2021 | International Science Drama Competition<br>(Collaboration with EL Drama Club) | Short Film Category – 2nd Position &amp; Popularity Award |
 | 2021 | Brownies West Division Day- Drama Competition<br>(Collaboration with Brownies) | Gold |
@@ -94,8 +97,9 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
-| 2022 | International Science Drama Competition | Short Film Category – 3rd Position |
-| 2021 | International Science Drama Competition | Short Film Category – 2nd Position &amp; Popularity Award |
+| 2023 | International Science Drama Competition<br>(Collaboration with Media Infocomm Club) | Short Film Category – Merit Award |
+| 2022 | International Science Drama Competition (Collaboration with Media Infocomm Club)| Short Film Category – 3rd Position |
+| 2021 | International Science Drama Competition (Collaboration with Media Infocomm Club) | Short Film Category – 2nd Position &amp; Popularity Award |
 
 ### Uniform Group
 
