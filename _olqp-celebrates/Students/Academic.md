@@ -48,7 +48,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
-| 2022 | West Zone Junior Science Whiz Challenge | Champion |
+| 2023 | West Zone Junior Science Whiz Challenge | Champion |
 | 2023 | International STEM Olympiad | 2 Bronze<br>1 Silver |
 | 2022 | Singapore Primary Science Olympiad | 3 Bronze<br>3 Merit |
 | 2022 | International STEM Olympiad | 2 Bronze |
