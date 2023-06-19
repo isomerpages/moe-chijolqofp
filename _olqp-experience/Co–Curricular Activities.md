@@ -37,7 +37,7 @@ We provide authentic opportunities for students to develop and display practise 
 
 #### CCA Schedule
 
-Click&nbsp;[[here](/files/cca%20schedule%202023_for%20school%20website_updated%2019%20jun%20(002).pdf)](/files/CCA%20Schedule%202023_updated.pdf)&nbsp;for CCA schedule
+Click [here](/files/cca%20schedule%202023_for%20school%20website_updated%2019%20jun%20(002).pdf) CCA schedule
 
 
 <ul class="jekyllcodex_accordion">
