@@ -27,7 +27,7 @@ description: ""
 | 16 | Mdm Lam Choy Yoke Rose | MOE Long Service Award (5 years) |
 | 17 | Miss Celestine Kok Chu Wei | MOE Long Service Award (5 years) |
 | 18 | Mdm Deepa D/O Thangamani | MOE Long Service Award (5 years) |
-| 19 | Miss Tan Adeline | MOE Long Service Award (5 years) |
+| 19 | Miss Adeline Tan | MOE Long Service Award (5 years) |
 | 20 | Mrs Deana Asokan | CHIJ Long Service Award (40 years) |
 | 21 | Mrs Mahani Bte Khamin | CHIJ Long Service Award (30 years) |
 | 22 | Mrs Charlene Chua-Lim | CHIJ Long Service Award (10 years) |
