@@ -3,21 +3,21 @@ title: Announcements & Quick Links
 permalink: /announcements-quick-links/overview/
 description: ""
 ---
-### News & Announcements 
+### News &amp; Announcements 
 
-For purchase of IJ Doll and bag, click [here](/files/IJDOLLnBAG_Final.pdf)
+For purchase of IJ Doll and bag, click [here](/files/ijdollposter.pdf)
 
-Follow us on [Facebook](https://www.facebook.com/chijolqp.official) for updates on school programmes and happenings.
+Follow us on&nbsp;[Facebook](https://www.facebook.com/chijolqp.official)&nbsp;for updates on school programmes and happenings.
 
 * * *
 
 #### Quick Links
 
 **Bouquets for Staff**<br>
-Please click [here](https://chijourladyqueenofpeace.moe.edu.sg/olqp-celebrates/bouquets-for-staff) to access Bouquets for Staff
+Please click&nbsp;[here](https://chijourladyqueenofpeace.moe.edu.sg/olqp-celebrates/bouquets-for-staff)&nbsp;to access Bouquets for Staff
 
 **For Staff**<br>
-Please click [here](https://staging.d2yo7qbk5fhrwg.amplifyapp.com/olqp-celebrates/staff/) to access Staff related links.
+Please click&nbsp;[here](https://staging.d2yo7qbk5fhrwg.amplifyapp.com/olqp-celebrates/staff/)&nbsp;to access Staff related links.
 
 **For Parents**<br>
-Please click [here](https://staging.d2yo7qbk5fhrwg.amplifyapp.com/useful-links/For-Parents/bookshop/) to access Parent related links.
+Please click&nbsp;[here](https://staging.d2yo7qbk5fhrwg.amplifyapp.com/useful-links/For-Parents/bookshop/)&nbsp;to access Parent related links.
