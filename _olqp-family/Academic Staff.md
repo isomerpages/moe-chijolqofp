@@ -100,9 +100,9 @@ description: ""
 | Mathematics  | Mrs Christina Yip  | [christina\_chan\_kim\_lian@moe.edu.sg](mailto:christina_chan_kim_lian@moe.edu.sg)   |
 | English Language | Mrs Angelina Chung | [lim\_eng\_suan\_angelina@moe.edu.sg](mailto:lim_eng_suan_angelina@moe.edu.sg) |
 | English Language | Ms Sheila Rabot | [sheila\_anne\_rabot@moe.edu.sg](mailto:sheila_anne_rabot@moe.edu.sg) |
-| English Language  | Mrs Tse Nan Shing | [tse\_nan\_shing\@moe.edu.sg](mailto:tse_nan_shing@moe.edu.sg) |
+| English Language  | Mrs Tse Nan Shing | [tse\_nan\_shing@moe.edu.sg](mailto:tse_nan_shing@moe.edu.sg) |
 | English Language | Mrs Laura Lai | [ho\_wan\_ghin@moe.edu.sg](mailto:ho_wan_ghin@moe.edu.sg) |
-| English Language  | Mdm Tan Soon Fun | [tan\_soon\_fun\@moe.edu.sg](mailto:tan_soon_fung@moe.edu.sg) |
+| English Language  | Mdm Tan Soon Fun | [tan\_soon\_fun@moe.edu.sg](mailto:tan_soon_fung@moe.edu.sg) |
 | Mathematics | Mrs Doris Loo | [loo\_choe\_leong@moe.edu.sg](mailto:loo_choe_leong@moe.edu.sg) |
 | Mathematics | Mrs Janet Chua | [Janet\_Chua@moe.edu.sg](mailto:Janet_Chua@moe.edu.sg) |
 | Mathematics | Mr Idris Bin Lekiman | [idris\_lekiman@moe.edu.sg](mailto:idris_lekiman@moe.edu.sg) |
