@@ -23,14 +23,16 @@ The following items are available for sale
 
 ##### 1. IJ Doll (Height : 25 cm)
 
-<img src="/images/ijdoll.png" style="width:45%">
+![](/images/page001_image006.jpg)
+
 
 ##### 2. IJ Tote Bag (34 cm X 34 cm)
 
-<img src="/images/tote.png" style="width:45%">
+![](/images/page001_image007.jpg)
 
-To order, please click on this [link](https://go.gov.sg/ijdoll)
+
+To order, please click on this&nbsp;[link](https://go.gov.sg/ijdoll)
 
   
 
-For enquiries, please call 6769 1529 or email: [chijolqp@moe.edu.sg](mailto:chijolqp@moe.edu.sg)
+For enquiries, please call 6769 1529 or email:&nbsp;[chijolqp@moe.edu.sg](mailto:chijolqp@moe.edu.sg)
