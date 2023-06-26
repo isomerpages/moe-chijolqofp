@@ -25,7 +25,7 @@ description: ""
 |:---:|:---:|:---:|
 | Mathematics | Mrs Clarissa Pang | [hum\_xin\_yi\_clarissa@moe.edu.sg](mailto:hum_xin_yi_clarissa@moe.edu.sg) |
 | Science | Mrs Vivian Quek | [teh\_xiuwen\_vivian@moe.edu.sg](mailto:teh_xiuwen_vivian@moe.edu.sg) |
-| Aesthetics | Ms Wendy Lye | [lye\_aye\_ju\_wendy@moe.edu.sg](mailto:lye_aye_ju_wendy@moe.edu.sg) |
+| Aesthetics | Ms Adeline Tan | [Tan\_adeline\@moe.edu.sg](mailto:tan_adeline@moe.edu.sg) |
 | Student Management | Mr Iskandar Shah | [Iskandar\_Shah\_Abu\_Bakar@moe.edu.sg](mailto:Iskandar_Shah_Abu_Bakar@moe.edu.sg) |
 | Student Well-Being | Mrs Denise Chia | [low\_qiong\_xia@moe.edu.sg](mailto:low_qiong_xia@moe.edu.sg) |
 
