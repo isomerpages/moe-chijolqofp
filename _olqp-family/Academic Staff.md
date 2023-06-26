@@ -41,7 +41,7 @@ description: ""
 
 |  |  |  |
 |---|---|---|
-| 4 Faith | Mr Iskander Shah<br>Ms Es'tee Odelia Lim | [Iskandar\_Shah\_Abu\_Bakar@moe.edu.sg](mailto:Iskandar_Shah_Abu_Bakar_A@moe.edu.sg)<br>[lim\_sui\_gek\_estee@moe.edu.sg](mailto:lim_sui_gek_estee@moe.edu.sg) |
+| 4 Faith | Mr Iskandar Shah<br>Ms Es'tee Odelia Lim | [Iskandar\_Shah\_Abu\_Bakar@moe.edu.sg](mailto:Iskandar_Shah_Abu_Bakar_A@moe.edu.sg)<br>[lim\_sui\_gek\_estee@moe.edu.sg](mailto:lim_sui_gek_estee@moe.edu.sg) |
 | 4 Hope | Mrs Sharon Chua<br>Ms Tan Adeline | [ng\_ai\_gek\_sharon@moe.edu.sg](mailto:ng_ai_gek_sharon@moe.edu.sg)<br>[Tan\_adeline@moe.edu.sg](mailto:Tan_adeline@moe.edu.sg) |
 | 4 Joy | Mrs Ng-Foo Li May<br>Mrs Vijayalakshmi Devanathan | [foo\_li\_may@moe.edu.sg](mailto:foo_li_may@moe.edu.sg)<br>[vijayalakshmi\_devanathan@moe.edu.sg](mailto:vijayalakshmi_devanathan@moe.edu.sg) |
 | 4 Love | Ms Michelle Ling<br>Mdm Tinawati Ariffin | [michelle\_ling\_mujun@moe.edu.sg](mailto:michelle_ling_mujun@moe.edu.sg)<br>[tinawati\_ariffin@moe.edu.sg](mailto:tinawati_ariffin@moe.edu.sg) |
@@ -92,7 +92,6 @@ description: ""
 
 |  |  |  |
 |---|---|---|
-| English Language/Physical Education | Mr Luke Goh | [luke\_goh@moe.edu.sg](mailto:luke_goh@moe.edu.sg) |
 | Mathematics  | Mrs Melissa Lee  | [hou\_yingyu@moe.edu.sg](mailto:hou_yingyu@moe.edu.sg)   |
 | Chinese Language  | Ms Hou Yingyu   | [hou\_yingyu@moe.edu.sg](mailto:hou_yingyu@moe.edu.sg)   |
 | Mathematics/ Science    | Mr Owen Lau  | [lau\_quck\_woon@moe.edu.sg](mailto:lau_quck_woon@moe.edu.sg)  |
@@ -102,7 +101,8 @@ description: ""
 | English Language | Mrs Angelina Chung | [lim\_eng\_suan\_angelina@moe.edu.sg](mailto:lim_eng_suan_angelina@moe.edu.sg) |
 | English Language | Ms Sheila Rabot | [sheila\_anne\_rabot@moe.edu.sg](mailto:sheila_anne_rabot@moe.edu.sg) |
 | English Language | Mrs Laura Lai | [ho\_wan\_ghin@moe.edu.sg](mailto:ho_wan_ghin@moe.edu.sg) |
-| English Language  | Ms Lorraine  Wong | [lorraine\_faith\_wong\_kar@moe.edu.sg](mailto:lorraine_faith_wong_kar@moe.edu.sg) |
+| English Language  | Mrs Tse Nan Shing | [tse\_nan\_shing\@moe.edu.sg](mailto:tse_nan_shing@moe.edu.sg) |
+| English Language  | Mdm Tan Soon Fun | [tan\_soon\_fun\@moe.edu.sg](mailto:tan_soon_fung@moe.edu.sg) |
 | Mathematics | Mrs Doris Loo | [loo\_choe\_leong@moe.edu.sg](mailto:loo_choe_leong@moe.edu.sg) |
 | Mathematics | Mrs Janet Chua | [Janet\_Chua@moe.edu.sg](mailto:Janet_Chua@moe.edu.sg) |
 | Mathematics | Mr Idris Bin Lekiman | [idris\_lekiman@moe.edu.sg](mailto:idris_lekiman@moe.edu.sg) |
