@@ -92,7 +92,7 @@ description: ""
 
 |  |  |  |
 |---|---|---|
-| Mathematics  | Mrs Melissa Lee  | [hou\_yingyu@moe.edu.sg](mailto:hou_yingyu@moe.edu.sg)   |
+| Mathematics  | Mrs Melissa Lee  | [dong\_shu\_ling\_melissa@moe.edu.sg](mailto:Dong_Shu_Ling_Melissa@moe.edu.sg)   |
 | Chinese Language  | Ms Hou Yingyu   | [hou\_yingyu@moe.edu.sg](mailto:hou_yingyu@moe.edu.sg)   |
 | Mathematics/ Science    | Mr Owen Lau  | [lau\_quck\_woon@moe.edu.sg](mailto:lau_quck_woon@moe.edu.sg)  |
 | Mathematics/ Science   | Ms Kuan Poey Han | [kuan\_poey\_han@moe.edu.sg](mailto:kuan_poey_han@moe.edu.sg) |
