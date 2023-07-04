@@ -30,6 +30,7 @@ The following items are available for sale
 
 ![](/images/page001_image007.jpg)
 
+ Click [here](/files/ijdollposter.pdf) for more information
 
 To order, please click on this&nbsp;[link](https://go.gov.sg/ijdoll)
 

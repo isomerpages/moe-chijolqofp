@@ -14,8 +14,6 @@ description: ""
 ##### Administration&nbsp;Executive
 <br> Mdm Teo Yi Wen [teo_yi_wen@moe.edu.sg](mailto:teo_yi_wen@moe.edu.sg)
 
-  
-
 ##### ICT Associate
 <br>Mr Mohd Ihsan ([Mohammad_ihsan_mohd_yaccob@moe.edu.sg](mailto:Mohammad_ihsan_mohd_yaccob@moe.edu.sg))
 
@@ -36,7 +34,7 @@ Mdm Christina De Silva
 
 ##### Desktop Engineers
 
-Mr Muhammed Imran Bin Abdul Latiff
+Mr Muhammed Imran Bin Abdul Latiff<br>
 Mr Siva
 
   
