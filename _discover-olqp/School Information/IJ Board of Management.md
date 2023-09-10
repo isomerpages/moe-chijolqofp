@@ -6,4 +6,4 @@ third_nav_title: School Information
 ---
 ### IJ Board of Management
 
-Please click on the PDF for the [IJ Board of Management.pdf](/files/IJ%20BOM%20Members%20Photo%20Chart%2020230101%20with%20sub-com%20title.pdf)
+ [IJ Board of Management 2023](/files/2023%20ij%20bom%20members%20photo%20chart.pdf)
