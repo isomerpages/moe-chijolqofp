@@ -27,6 +27,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | Softball Tier 2 Competition Junior Girls Championships (NSG) | 1st Place |
 | 2023 | National Softball Senior Division | Champion |
 | 2022 | NSG Softball National Championships Senior Division | 4th |
 | 2022 | NSG Softball National Championships Junior Division | Tier 1 - Achievement Pins |
