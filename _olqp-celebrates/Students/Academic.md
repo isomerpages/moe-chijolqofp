@@ -49,6 +49,9 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | Singapore Youth Science Fair | Distinctions <br>Grp 1: Avantika (6J), Sahasra (6F) and Sailakshmi (6F)<br>Grp 2:Leanne (5L), Adele (5L), Clara (5H) and Haelyn (5H)
+| 2023 | Singapore Primary Science Olympiad | Bronze Award <br> Iliana, 5L |
+| 2023 | West Zone Junior Science Whiz Challenge | Champion |
 | 2023 | West Zone Junior Science Whiz Challenge | Champion |
 | 2023 | International STEM Olympiad | 2 Bronze<br>1 Silver |
 | 2022 | Singapore Primary Science Olympiad | 3 Bronze<br>3 Merit |
