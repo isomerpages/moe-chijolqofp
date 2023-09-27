@@ -107,6 +107,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | Chief Commissioner’s Badge Award|<br>Xyra Khawaja (6 Faith)<br>Reshma d/o Ramesh (6Joy) <br>Ang Suen Neng (6 Joy) |
 | 2022 | Chief Commissioner’s Badge Award | 4 Recipients |
 | 2022 | West Division Day | First Place for “Eye for Life” Poster Competition”<br>Second Runner Up in “Let’s Get Physical Zumba” competition.<br>Bronze award for “Get Creative with TikTok’competition”. |
 | 2021 | West Division Day | Bronze award for “Caption the Moment”.<br>Gold Award in a Skit competition.<br>Bronze award for “Get Creative with TikTok’competition”. |
