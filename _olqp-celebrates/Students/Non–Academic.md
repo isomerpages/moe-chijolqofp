@@ -46,6 +46,8 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | Singapore International Choral Festival | Gold |
+| 2023 | Singapore Youth Festival Arts Presentation | Certificate of Participation |
 | 2022 | Singapore Youth Festival Arts Presentation | Certificate of Participation |
 | 2019 | Singapore International Choral Festival (SICF) | Silver |
 
