@@ -12,6 +12,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 |Netball Tiered Competition Junior Division Girls (NSG) | Champion |
 | 2023 | NSG Netball West Zone Championships Senior Division | Champion |
 | 2022 | NSG Netball West Zone Championships Senior Division | 3rd |
 | 2022 | NSG Netball West Zone Championships Junior Division | 1st |
