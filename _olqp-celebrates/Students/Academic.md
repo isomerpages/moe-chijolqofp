@@ -31,6 +31,9 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | National Vlog Competition for Singapore Primary School Students (CL) – Lower &amp; Middle Pri Category | Excellence Award|
+| 2023 | 11th Singapore Brush and Pen Calligraphy Grand Competition | Excellence Award<br> Wu Yu Xuan, 6F|
+| 2023 | Kolam Ayer CC IAEC &amp; Kolam Ayer Youth Network –  Inter School Tamil Language Competitions 2023 <br>a) Role-Play Competition<br>b) Translation Competition| <br>3a) 2nd Prize-Sujitha, 3L <br>3b) 3rd Prize-Reshma, 6J|
 | 2023 | Mago Nationa Tamil Story Telling Competition | Special Award - Judge's Choice|
 | 2022 | [5th Text Recital Competition for Primary and Secondary Schools](https://www.cpcll.sg/events/reading-group/text-recital-competition-for-primary-and-secondary-schools/3039576)<br>Lower Primary (Individual)<br>Lower Primary (Group)<br>Middle Primary (Individual)<br>Upper Primary (Group) | 2 Silver Awards<br>1 Silver and 1 Bronze Awards<br>1 Bronze Awards<br>1 Silver and 1 Bronze Awards |
 | 2022 | The 26th National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition<br>Primary 6 Category | First Prize |
