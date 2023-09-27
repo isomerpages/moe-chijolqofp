@@ -10,6 +10,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 |Mythos Competition | Finalist (Group)<br> 4th Best Performer (Inidividual-Isabella Rai, 5L) |
 | 2023 |The Moo-O Awards 2023 National Children' Digital Story Reading Team Competition | Certificate of Merit |
 | 2022 | ACJC MYTHOS Junior Orators | Certificate of Merit |
 | 2022 | Moo-O Reading Awards | Best Costume<br>Semi-Finalist |
