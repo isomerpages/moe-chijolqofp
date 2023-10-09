@@ -10,6 +10,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 |Mythos Competition | Finalist (Group)<br> 4th Best Performer (Inidividual-Isabella Rai, 5L) |
 | 2023 |The Moo-O Awards 2023 National Children' Digital Story Reading Team Competition | Certificate of Merit |
 | 2022 | ACJC MYTHOS Junior Orators | Certificate of Merit |
 | 2022 | Moo-O Reading Awards | Best Costume<br>Semi-Finalist |
@@ -30,6 +31,9 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | National Vlog Competition for Singapore Primary School Students (CL) – Lower &amp; Middle Pri Category | Excellence Award|
+| 2023 | 11th Singapore Brush and Pen Calligraphy Grand Competition | Excellence Award<br> Wu Yu Xuan, 6F|
+| 2023 | Kolam Ayer CC IAEC &amp; Kolam Ayer Youth Network –  Inter School Tamil Language Competitions 2023 <br>a) Role-Play Competition<br>b) Translation Competition| <br>3a) 2nd Prize-Sujitha, 3L <br>3b) 3rd Prize-Reshma, 6J|
 | 2023 | Mago Nationa Tamil Story Telling Competition | Special Award - Judge's Choice|
 | 2022 | [5th Text Recital Competition for Primary and Secondary Schools](https://www.cpcll.sg/events/reading-group/text-recital-competition-for-primary-and-secondary-schools/3039576)<br>Lower Primary (Individual)<br>Lower Primary (Group)<br>Middle Primary (Individual)<br>Upper Primary (Group) | 2 Silver Awards<br>1 Silver and 1 Bronze Awards<br>1 Bronze Awards<br>1 Silver and 1 Bronze Awards |
 | 2022 | The 26th National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition<br>Primary 6 Category | First Prize |
@@ -48,6 +52,9 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | Singapore Youth Science Fair | Distinctions <br>Grp 1: Avantika (6J), Sahasra (6F) and Sailakshmi (6F)<br>Grp 2:Leanne (5L), Adele (5L), Clara (5H) and Haelyn (5H)
+| 2023 | Singapore Primary Science Olympiad | Bronze Award <br> Iliana, 5L |
+| 2023 | West Zone Junior Science Whiz Challenge | Champion |
 | 2023 | West Zone Junior Science Whiz Challenge | Champion |
 | 2023 | International STEM Olympiad | 2 Bronze<br>1 Silver |
 | 2022 | Singapore Primary Science Olympiad | 3 Bronze<br>3 Merit |

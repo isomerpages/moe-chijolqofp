@@ -12,6 +12,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 |Netball Tiered Competition Junior Division Girls (NSG) | Champion |
 | 2023 | NSG Netball West Zone Championships Senior Division | Champion |
 | 2022 | NSG Netball West Zone Championships Senior Division | 3rd |
 | 2022 | NSG Netball West Zone Championships Junior Division | 1st |
@@ -26,6 +27,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | Softball Tier 2 Competition Junior Girls Championships (NSG) | 1st Place |
 | 2023 | National Softball Senior Division | Champion |
 | 2022 | NSG Softball National Championships Senior Division | 4th |
 | 2022 | NSG Softball National Championships Junior Division | Tier 1 - Achievement Pins |
@@ -46,6 +48,8 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | Singapore International Choral Festival | Gold |
+| 2023 | Singapore Youth Festival Arts Presentation | Certificate of Participation |
 | 2022 | Singapore Youth Festival Arts Presentation | Certificate of Participation |
 | 2019 | Singapore International Choral Festival (SICF) | Silver |
 
@@ -107,6 +111,7 @@ third_nav_title: Students
 
 | Year | Competitions | Placing |
 |:---:|:---:|:---:|
+| 2023 | Chief Commissioner’s Badge Award|<br>Xyra Khawaja (6 Faith)<br>Reshma d/o Ramesh (6Joy) <br>Ang Suen Neng (6 Joy) |
 | 2022 | Chief Commissioner’s Badge Award | 4 Recipients |
 | 2022 | West Division Day | First Place for “Eye for Life” Poster Competition”<br>Second Runner Up in “Let’s Get Physical Zumba” competition.<br>Bronze award for “Get Creative with TikTok’competition”. |
 | 2021 | West Division Day | Bronze award for “Caption the Moment”.<br>Gold Award in a Skit competition.<br>Bronze award for “Get Creative with TikTok’competition”. |
