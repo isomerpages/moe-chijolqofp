@@ -55,6 +55,40 @@ In Term 2, the focus was on the school value of Truth. Among the virtues in the 
 
 | Class: | Name: |
 |:---:|:---:|
+|1 Charity | 	DANIELLE|
+|1 Faith |	SOFIA|
+|1 Hope |	BELYNN|
+|1 Joy |	KIRTHI |
+|1 Love |	SHEA|
+|1 Peace |	CHARLIZE |
+|2 Charity |	YINING |
+|2 Faith |	SARAH |
+|2 Hope |	AUDREY |
+|2 Joy |	SOFEA|
+|2 Love |	WEN RUI|
+|2 Peace |	ADELYN |
+|3 Faith |	OLIVINE|
+|3 Hope |	SAHIRA|
+|3 Joy |	STELLA|
+|3 Love |	CADENCE|
+|3 Peace |	ALISON|
+|4 Faith |	VICTORIA |
+|4 Hope |	KAYCIA |
+|4 Joy |	NICOLE |
+|4 Love |	CARINNE |
+|4 Peace |	TIFFANY |
+|5 Faith |	LOVELLE |
+|5 Hope |	REBECCA |
+|5 Joy |	MIYAH |
+|5 Love |	CHLOE |
+|5 Peace |	VANESSA 
+|6 Faith |	SAILAKSHMI|
+|6 Hope |	RIA |
+|6 Joy |	NEELESH |
+|6 Love |	ADELINE |
+|6 Peace |	LETICIA| 
+
+
 
 In Term 3, the focus was on the school value of Justice. The virtues of patience and peacefulness guided our students to practise and view Justice as establishing equality in our everyday lives. With Justice comes peace and to achieve Justice comes with patience. Students led by example to seek first to understand, then to be understood with their peers and teachers. We are proud to nominate them as our Term 3 CCE Role Models!
 
