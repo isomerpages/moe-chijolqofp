@@ -94,6 +94,38 @@ In Term 3, the focus was on the school value of Justice. The virtues of patience
 
 | Class: | Name: |
 |:---:|:---:|
+|1 Charity | 	AIREEN| 
+|1 Faith |	DEBORAH | 
+|1 Hope |	ARYSSA | 
+|1 Joy |	SERENA | 
+|1 Love |	ELISE | 
+|1 Peace |	LEE JIA | 
+|2 Charity |	RACHELLE| 
+|2 Faith |	EVELYN | 
+|2 Hope |	ELIZABETH | 
+|2 Joy |	MIRANDA | 
+|2 Love |	AMELIA | 
+|2 Peace |	CLARA | 
+|3 Faith |	TIFFANY | 
+|3 Hope |	KELLY| 
+|3 Joy |	JANELLE| 
+|3 Love |	AALIYYA| 
+|3 Peace |	ASHLEY| 
+|4 Faith |	GLORIA | 
+|4 Hope |	CLAIR | 
+|4 Joy |	ZHILING | 
+|4 Love |	KRISTIN| 
+|4 Peace |	SHERVON | 
+|5 Faith |	RENETTE| 
+|5 Hope |	GRACIELLA| 
+|5 Joy |	SOPHIE | 
+|5 Love |	ALEXIS | 
+|5 Peace |	ELENA | 
+|6 Faith |	SERENE| 
+|6 Hope |	ANNABEL| 
+|6 Joy |	WING WEI| 
+|6 Love |	ANAND| 
+|6 Peace |	ALYSON | 
 
 In Term 4, the focus was on the school value of Freedom. In promotion of freedom, it relates to the power of success. To achieve success, it comes with the practise of the virtues of diligence and determination. With diligence, it helps one to get things done by giving your absolute best. The virtue of determination helps channel your focus and efforts on a task. With these virtues, it leads us to achieve what we want and we are honour to nominate the following students as our Term 4 CCE Role Models!
 
