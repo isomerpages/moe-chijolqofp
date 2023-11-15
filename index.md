@@ -15,15 +15,9 @@ sections:
   - infobar:
       title: Find Us On Facebook
       description: <iframe
-        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fchijolqp.official&amp;tabs=timeline&amp;width=500&amp;height=500&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId=551472119606120"
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fchijolqp.official&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=551472119606120"
         width="500" height="500" style="border:none;overflow:hidden"
         scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
-        clipboard-write; encrypted-media; picture-in-picture; web-share"
-        contenteditable="false"></iframe>
-  - infobar:
-      title: Calendar
-      description: '<iframe
-        src="https://calendar.google.com/calendar/embed?src=olqpsch%40gmail.com&ctz=Asia%2FSingapore"
-        style="border: 0" width="800" height="600" frameborder="0"
-        scrolling="no"></iframe>'
+        clipboard-write; encrypted-media; picture-in-picture;
+        web-share"></iframe>
 ---
