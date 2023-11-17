@@ -2,6 +2,7 @@
 title: Executive Committee
 permalink: /olqp-family/executive-committee/
 description: ""
+variant: markdown
 ---
 ### Executive Committee
 
@@ -42,4 +43,4 @@ description: ""
 | English Language | Mrs Regina Julian | [regina\_arulanandan@moe.edu.sg](mailto:regina_arulanandan@moe.edu.sg) |
 | Mathematics | Mrs Christine Lee | [christine\_wong\_moi\_eng@moe.edu.sg](mailto:christine_wong_moi_eng@moe.edu.sg) |
 | Tamil Language | Mrs Devanathan | [vijayalakshmi\_devanathan @moe.edu.sg](mailto:vijayalakshmi_devanathan%20@moe.edu.sg) |
-| Educational Support (Learning Needs) | Mrs Delphine Minjoot | [lim\_poh\_gek\_delphine@moe.edu.sg](mailto:lim_poh_gek_delphine@moe.edu.sg) |
+| Learning Needs (Educational Support) | Mrs Delphine Minjoot | [lim\_poh\_gek\_delphine@moe.edu.sg](mailto:lim_poh_gek_delphine@moe.edu.sg) |

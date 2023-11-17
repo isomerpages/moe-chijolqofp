@@ -55,11 +55,77 @@ In Term 2, the focus was on the school value of Truth. Among the virtues in the 
 
 | Class: | Name: |
 |:---:|:---:|
+|1 Charity | 	DANIELLE|
+|1 Faith |	SOFIA|
+|1 Hope |	BELYNN|
+|1 Joy |	KIRTHI |
+|1 Love |	SHEA|
+|1 Peace |	CHARLIZE |
+|2 Charity |	YINING |
+|2 Faith |	SARAH |
+|2 Hope |	AUDREY |
+|2 Joy |	SOFEA|
+|2 Love |	WEN RUI|
+|2 Peace |	ADELYN |
+|3 Faith |	OLIVINE|
+|3 Hope |	SAHIRA|
+|3 Joy |	STELLA|
+|3 Love |	CADENCE|
+|3 Peace |	ALISON|
+|4 Faith |	VICTORIA |
+|4 Hope |	KAYCIA |
+|4 Joy |	NICOLE |
+|4 Love |	CARINNE |
+|4 Peace |	TIFFANY |
+|5 Faith |	LOVELLE |
+|5 Hope |	REBECCA |
+|5 Joy |	MIYAH |
+|5 Love |	CHLOE |
+|5 Peace |	VANESSA 
+|6 Faith |	SAILAKSHMI|
+|6 Hope |	RIA |
+|6 Joy |	NEELESH |
+|6 Love |	ADELINE |
+|6 Peace |	LETICIA| 
+
+
 
 In Term 3, the focus was on the school value of Justice. The virtues of patience and peacefulness guided our students to practise and view Justice as establishing equality in our everyday lives. With Justice comes peace and to achieve Justice comes with patience. Students led by example to seek first to understand, then to be understood with their peers and teachers. We are proud to nominate them as our Term 3 CCE Role Models!
 
 | Class: | Name: |
 |:---:|:---:|
+|1 Charity | 	AIREEN| 
+|1 Faith |	DEBORAH | 
+|1 Hope |	ARYSSA | 
+|1 Joy |	SERENA | 
+|1 Love |	ELISE | 
+|1 Peace |	LEE JIA | 
+|2 Charity |	RACHELLE| 
+|2 Faith |	EVELYN | 
+|2 Hope |	ELIZABETH | 
+|2 Joy |	MIRANDA | 
+|2 Love |	AMELIA | 
+|2 Peace |	CLARA | 
+|3 Faith |	TIFFANY | 
+|3 Hope |	KELLY| 
+|3 Joy |	JANELLE| 
+|3 Love |	AALIYYA| 
+|3 Peace |	ASHLEY| 
+|4 Faith |	GLORIA | 
+|4 Hope |	CLAIR | 
+|4 Joy |	ZHILING | 
+|4 Love |	KRISTIN| 
+|4 Peace |	SHERVON | 
+|5 Faith |	RENETTE| 
+|5 Hope |	GRACIELLA| 
+|5 Joy |	SOPHIE | 
+|5 Love |	ALEXIS | 
+|5 Peace |	ELENA | 
+|6 Faith |	SERENE| 
+|6 Hope |	ANNABEL| 
+|6 Joy |	WING WEI| 
+|6 Love |	ANAND| 
+|6 Peace |	ALYSON | 
 
 In Term 4, the focus was on the school value of Freedom. In promotion of freedom, it relates to the power of success. To achieve success, it comes with the practise of the virtues of diligence and determination. With diligence, it helps one to get things done by giving your absolute best. The virtue of determination helps channel your focus and efforts on a task. With these virtues, it leads us to achieve what we want and we are honour to nominate the following students as our Term 4 CCE Role Models!
 
