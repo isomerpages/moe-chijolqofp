@@ -1,11 +1,16 @@
 ---
 title: Academic
-permalink: /achievements/academic
+permalink: /achievements/academic/
 description: ""
+variant: markdown
 ---
 ### Academic
 
 #### Math Department
+##### 2023
+**2023 National Mathematical Olympiad of Singapore (NMOS)**  <br>
+Bronze - 2<br>
+Honourable Mention - 14
 ##### 2021
 
 **National Mathematical Olympiad of Singapore (NMOS)**  <br>
@@ -15,9 +20,9 @@ Bronze - 2
   
 
 **Singapore Mathematical Olympiad (SMOP)**  
-<br> Silver - 1 
+<br> Silver - 1&nbsp;
 <br> Bronze - 3
- <br> Honourable mention - 10
+&nbsp;<br> Honourable mention - 10
 
 **English Department**
 
@@ -31,7 +36,7 @@ Bronze Award - 2021 Moo-O Reading Awards
 
   
 
-2021 Wits & Words: Inter-school Debate Championship 2021 Participation in Online Friendlies  
+2021 Wits &amp; Words: Inter-school Debate Championship 2021 Participation in Online Friendlies  
 
 Upload Anvantika's feature here
 
@@ -56,7 +61,7 @@ Gold Award - 2020 Moo-O Reading Awards
 | Judges Award 	| Suu Myo Wai 	|
 
 **Junior Science Whiz Challenge**
-<br> Top 24th position – Chua Ya Ting
+<br> Top 24th&nbsp;position – Chua Ya Ting
 
 **Singapore Science Olympiad**  
 <br> Merit Award – Isabelle Tiong Mae Shyuen
@@ -65,10 +70,10 @@ Gold Award - 2020 Moo-O Reading Awards
 <br> Merit Award – Tasha Lingaraj
 <br> Gold Award – Xiao Feilin  
 
-**ezi Go-Green Competition** 
+**ezi Go-Green Competition**&nbsp;
 <br> Bronze Award  
 
-**Youth Science Fair**  <br>Commendation Award - Chua Ya Ting <br> Commendation Award - Kang Si Qi, Amelia (Jiang Shiqi)
+**Youth Science Fair**  <br>Commendation Award -&nbsp;Chua Ya Ting <br> Commendation Award - Kang Si Qi, Amelia (Jiang Shiqi)
 <br> Commendation Award - Lee Yi Xuan Frances
 
   
@@ -79,17 +84,17 @@ Gold Award - 2020 Moo-O Reading Awards
 
 ##### 2020
 
-*   Science Buskers ( 2nd Runner Up ) 
+*   Science Buskers ( 2nd Runner Up )&nbsp;
 
 ##### 2019
 
-*   2019 Science Buskers ( 2nd Runner Up ) 
+*   2019 Science Buskers ( 2nd Runner Up )&nbsp;
 *   2019 Science Buskers ( Judges' Award )
 *   2019 Science Buskers ( Judges' Award )
 
 ##### 2018  
 
-*   2018 Science Buskers (Champion Team) 
+*   2018 Science Buskers (Champion Team)&nbsp;
 *   2018 Science Buskers ( 2nd Runner Up)
 *   Vanda Miss Joaquim Award in the SEC-StarHub School Green Awards (SGA) 2018  
  
@@ -100,5 +105,5 @@ Gold Award - 2020 Moo-O Reading Awards
 *   2017 Science Buskers (Champion team)
 *   2017 Science Buskers (2nd Runner Up)
 *   2017 Science Buskers (Voter's Choice)
-*   2017 Science Buskers ( Judges' Award )
+*   2017 Science Buskers&nbsp;( Judges' Award )
 *   Lotus Sustained Achievement Award
