@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Administrative Staff
 
-##### Administrative Manager 1
+##### Administrative Manager 
 <br> Mdm Heng Huay Lee&nbsp;[heng_huay_lee@moe.edu.sg](mailto:heng_huay_lee@moe.edu.sg)
 
 ##### Operations Manager
