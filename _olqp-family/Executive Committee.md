@@ -2,45 +2,6 @@
 title: Executive Committee
 permalink: /olqp-family/executive-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Executive Committee
-
-#### Head of Departments
-
-| Department 	| HOD 	| Email Address 	|
-|:---:	|:---:	|:---:	|
-| School Staff Developer 	| Mr Daniel Wong 	| [wong_mun_onn@moe.edu.sg](mailto:wong_mun_onn@moe.edu.sg) 	|
-| English Language 	| Mdm Daphne Koh 	| [koh_li_ping_daphne@moe.edu.sg](mailto: ) 	|
-| Mother Tongue Language 	| Ms Lai Pey Chyi 	| [lai_pey_chyi@moe.edu.sg](mailto:lai_pey_chyi@moe.edu.sg) 	|
-| Physical Education/ CCA/Aesthetics 	| Ms Yeo Yan Yan  	| [yeo_yan_yan@moe.edu.sg](mailto:yeo_yan_yan@moe.edu.sg) 	|
-| ICT 	| Ms Lily Tan 	| [tan_lily_a@moe.edu.sg](mailto:tan_lily_a@moe.edu.sg)	|
-| CCE  	| Ms Celine Teo Hui Jing 	| [teo_hui_jing@moe.edu.sg](mailto:teo_hui_jing@moe.edu.sg)	|
-| Year Head (P1-P2) 	| Mrs Kelly Ng-Tan  	| [tan_hui_ting@moe.edu.sg](mailto:tan_hui_ting@moe.edu.sg) 	|
-| Year Head (P3-P4) 	| Mdm Tinawati Ariffin 	| [tinawati_ariffin@moe.edu.sg](mailto:tinawati_ariffin@moe.edu.sg)	|
-| Year Head (P5-P6) 	| Ms Serene Ng 	| [ng_xiang_ning_serene@moe.edu.sg](mailto:ng_xiang_ning_serene@moe.edu.sg)	|
-
-#### Subject Heads
-
-| Department | SH | Email Address |
-|:---:|:---:|:---:|
-| Mathematics | Mrs Clarissa Pang | [hum\_xin\_yi\_clarissa@moe.edu.sg](mailto:hum_xin_yi_clarissa@moe.edu.sg) |
-| Science | Mrs Vivian Quek | [teh\_xiuwen\_vivian@moe.edu.sg](mailto:teh_xiuwen_vivian@moe.edu.sg) |
-| Aesthetics | Ms Adeline Tan | [tan\_adeline@moe.edu.sg](mailto:tan_adeline@moe.edu.sg) |
-| Student Management | Mr Iskandar Shah | [Iskandar\_Shah\_Abu\_Bakar@moe.edu.sg](mailto:Iskandar_Shah_Abu_Bakar@moe.edu.sg) |
-| Student Well-Being | Mrs Denise Chia | [low\_qiong\_xia@moe.edu.sg](mailto:low_qiong_xia@moe.edu.sg) |
-
-#### Lead Teacher
-
-| Department 	| LT 	| Email Address 	|
-|:---:	|:---:	|:---:	|
-| Chinese Language 	| Mdm Chen Meiqing 	| [chen_meiqing@moe.edu.sg](mailto:chen_meiqing@moe.edu.sg) 	|
-
-#### Senior Teachers
-
-| Department | ST | Email Address |
-|:---:|:---:|:---:|
-| English Language | Mrs Regina Julian | [regina\_arulanandan@moe.edu.sg](mailto:regina_arulanandan@moe.edu.sg) |
-| Mathematics | Mrs Christine Lee | [christine\_wong\_moi\_eng@moe.edu.sg](mailto:christine_wong_moi_eng@moe.edu.sg) |
-| Tamil Language | Mrs Devanathan | [vijayalakshmi\_devanathan @moe.edu.sg](mailto:vijayalakshmi_devanathan%20@moe.edu.sg) |
-| Learning Needs (Educational Support) | Mrs Delphine Minjoot | [lim\_poh\_gek\_delphine@moe.edu.sg](mailto:lim_poh_gek_delphine@moe.edu.sg) |
+<h3>Executive Committee</h3><h4>Head of Departments</h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Department</p></th><th rowspan="1" colspan="1"><p>HOD</p></th><th rowspan="1" colspan="1"><p>Email Address</p></th></tr><tr><td rowspan="1" colspan="1"><p>School Staff Developer</p></td><td rowspan="1" colspan="1"><p>Mr Daniel Wong</p></td><td rowspan="1" colspan="1"><p><a href="mailto:wong_mun_onn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_mun_onn@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>English Language</p></td><td rowspan="1" colspan="1"><p>Mdm Daphne Koh</p></td><td rowspan="1" colspan="1"><p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">koh_li_ping_daphne@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mathematics</p></td><td rowspan="1" colspan="1"><p>Mrs Clarissa Pang</p></td><td rowspan="1" colspan="1"><p><a href="mailto:hum_xin_yi_clarissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hum_xin_yi_clarissa@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Science</p></td><td rowspan="1" colspan="1"><p>Mrs Vivian Quek</p></td><td rowspan="1" colspan="1"><p><a href="mailto:teh_xiuwen_vivian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_xiuwen_vivian@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mother Tongue Language</p></td><td rowspan="1" colspan="1"><p>Ms Lai Pey Chyi</p></td><td rowspan="1" colspan="1"><p><a href="mailto:lai_pey_chyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_pey_chyi@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Physical Education/ CCA/Aesthetics</p></td><td rowspan="1" colspan="1"><p>Ms Yeo Yan Yan</p></td><td rowspan="1" colspan="1"><p><a href="mailto:yeo_yan_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yan_yan@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>ICT</p></td><td rowspan="1" colspan="1"><p>Ms Lily Tan</p></td><td rowspan="1" colspan="1"><p><a href="mailto:tan_lily_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lily_a@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>CCE</p></td><td rowspan="1" colspan="1"><p>Ms Celine Teo Hui Jing</p></td><td rowspan="1" colspan="1"><p><a href="mailto:teo_hui_jing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hui_jing@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Student Management</p></td><td rowspan="1" colspan="1"><p>Mr Iskandar Shah</p></td><td rowspan="1" colspan="1"><p><a href="mailto:Iskandar_Shah_Abu_Bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Iskandar_Shah_Abu_Bakar@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Year Head (P1-P2)</p></td><td rowspan="1" colspan="1"><p>Mrs Kelly Ng-Tan</p></td><td rowspan="1" colspan="1"><p><a href="mailto:tan_hui_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_ting@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Year Head (P3-P4)</p></td><td rowspan="1" colspan="1"><p>Mdm Tinawati Ariffin</p></td><td rowspan="1" colspan="1"><p><a href="mailto:tinawati_ariffin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tinawati_ariffin@moe.edu.sg</a></p></td></tr></tbody></table><h4>Subject Heads</h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Department</p></th><th rowspan="1" colspan="1"><p>SH</p></th><th rowspan="1" colspan="1"><p>Email Address</p></th></tr><tr><td rowspan="1" colspan="1"><p>Aesthetics</p></td><td rowspan="1" colspan="1"><p>Aesthetics</p></td><td rowspan="1" colspan="1"><p><a href="mailto:tan_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_adeline@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Student Well-Being</p></td><td rowspan="1" colspan="1"><p>Mrs Denise Chia</p></td><td rowspan="1" colspan="1"><p><a href="mailto:low_qiong_xia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_qiong_xia@moe.edu.sg</a></p></td></tr></tbody></table><p></p><h4>Lead Teacher</h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Department</p></th><th rowspan="1" colspan="1"><p>LT</p></th><th rowspan="1" colspan="1"><p>Email Address</p></th></tr><tr><td rowspan="1" colspan="1"><p>Chinese Language</p></td><td rowspan="1" colspan="1"><p>Mdm Chen Meiqing</p></td><td rowspan="1" colspan="1"><p><a href="mailto:chen_meiqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_meiqing@moe.edu.sg</a></p></td></tr></tbody></table><h4>Senior Teachers</h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Department</p></th><th rowspan="1" colspan="1"><p>ST</p></th><th rowspan="1" colspan="1"><p>Email Address</p></th></tr><tr><td rowspan="1" colspan="1"><p>English Language</p></td><td rowspan="1" colspan="1"><p>Mrs Regina Julian</p></td><td rowspan="1" colspan="1"><p><a href="mailto:regina_arulanandan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">regina_arulanandan@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mathematics</p></td><td rowspan="1" colspan="1"><p>Mrs Christine Lee</p></td><td rowspan="1" colspan="1"><p><a href="mailto:christine_wong_moi_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christine_wong_moi_eng@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Tamil Language</p></td><td rowspan="1" colspan="1"><p>Mrs Devanathan</p></td><td rowspan="1" colspan="1"><p><a href="mailto:vijayalakshmi_devanathan%20@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vijayalakshmi_devanathan @moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Learning Needs (Educational Support)</p></td><td rowspan="1" colspan="1"><p>Mrs Delphine Minjoot</p></td><td rowspan="1" colspan="1"><p><a href="mailto:lim_poh_gek_delphine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_poh_gek_delphine@moe.edu.sg</a></p></td></tr></tbody></table><p></p>
