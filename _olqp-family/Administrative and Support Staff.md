@@ -2,6 +2,7 @@
 title: Administrative and Support Staff
 permalink: /olqp-family/administrative-and-support-staff/
 description: ""
+variant: markdown
 ---
 ### Administrative Staff
 
@@ -35,7 +36,7 @@ Mdm Christina De Silva
 ##### Desktop Engineers
 
 Mr Muhammed Imran Bin Abdul Latiff<br>
-Mr Siva
+Mr Sivasangkaran S/O Prathasam
 
   
 
