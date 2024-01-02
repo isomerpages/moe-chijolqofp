@@ -2,10 +2,11 @@
 title: Mathematics
 permalink: /olqp-experience/mathematics/
 description: ""
+variant: markdown
 ---
 ### Mathematics
 
-In CHIJ OLQP, we aim to make the learning of mathematics come **_A.L.I.V.E_** as we build a strong foundation in the subject.
+In CHIJ OLQP, we aim to make the learning of mathematics come&nbsp;**_A.L.I.V.E_**&nbsp;as we build a strong foundation in the subject.
 
   
 
@@ -54,6 +55,6 @@ Enrichment programmes, such as Math Excellence 2000 (E2K) and Math Olympiad Trai
 
   
 
-In addition, the after-school support and enrichment programme is conducted for students who need additional help in reinforcing their foundation in mathematics. Smaller group settings here provide for a more conducive learning environment.
+In addition, the after-school support programme is conducted for students who need additional help in reinforcing their foundation in mathematics. Smaller group settings here provide for a more conducive learning environment.
 
 <img src="/images/mathematics.png" style="width:80%">
