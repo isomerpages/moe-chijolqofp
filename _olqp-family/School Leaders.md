@@ -2,6 +2,7 @@
 title: School Leaders
 permalink: /olqp-family/school-leaders/
 description: ""
+variant: markdown
 ---
 ### School Leaders
 
@@ -9,7 +10,7 @@ description: ""
 Mrs Karen Tan 
 
 #### Vice Principal 
-Ms Cecilia Tan
+Mrs Adeline Kee
 
 #### Vice Principal(Admin)
 
