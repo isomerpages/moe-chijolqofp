@@ -3,7 +3,8 @@ title: IJ Board of Management
 permalink: /discover-olqp/School-Information/ij-board-of-management/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
 ### IJ Board of Management
 
- [IJ Board of Management 2023](/files/2023%20ij%20bom%20members%20photo%20chart.pdf)
+[IJ Board of Management 2024](/files/IJBOM/ij_bom_members_photo_chart_20240102.pdf)
