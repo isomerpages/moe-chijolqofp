@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<p><a href="https://go.gov.sg/chijolqpmobile" rel="noopener noreferrer nofollow" target="_blank">Mobile Phone Parental Request Form</a></p>
+<p>Please click on this link for the form: <a href="https://go.gov.sg/chijolqpmobile" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/chijolqpmobile</a></p>
