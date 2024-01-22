@@ -3,7 +3,6 @@ title: Sexuality Education
 permalink: /useful-links/For-Parents/sexuality-education/
 description: ""
 third_nav_title: For Parents
+variant: tiptap
 ---
-### Sexuality Education
-
-[MOE Sexuality Education in Schools](/files/2023%20Info%20on%20SEd%20for%20schs%20website%20CHIJ%20OLQP.pdf)
+<h3>Sexuality Education</h3><p><a href="/files/For parents/2024_Info_on_SEd_for_schs_website__Primary_Schools__FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Sexuality Education in Schools</a></p>
