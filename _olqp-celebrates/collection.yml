@@ -1,0 +1,13 @@
+collections:
+  olqp-celebrates:
+    output: true
+    order:
+      - Students/Academic.md
+      - Students/Non–Academic.md
+      - Students/CCE Role Models.md
+      - Students/Mother Mathilde Award.md
+      - Students/Sister Deirdre O’Loan Award.md
+      - Students/.keep
+      - School.md
+      - Staff.md
+      - Bouquets for Staff.md

@@ -1,0 +1,21 @@
+collections:
+  olqp-experience:
+    output: true
+    order:
+      - Applied Learning Programme.md
+      - Learn for Life Programme.md
+      - English Language.md
+      - Mother Tongue Languages.md
+      - Mathematics.md
+      - Science.md
+      - Aesthetics/Overview.md
+      - Aesthetics/Arts.md
+      - Aesthetics/Music.md
+      - Aesthetics/.keep
+      - Physical and Health Education/Overview.md
+      - Physical and Health Education/Programme for Active Learning (PAL).md
+      - Physical and Health Education/.keep
+      - Information Communication Technology.md
+      - Character and Citizenship Education.md
+      - Religious Education.md
+      - Co–Curricular Activities.md

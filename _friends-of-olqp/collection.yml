@@ -1,0 +1,7 @@
+collections:
+  friends-of-olqp:
+    output: true
+    order:
+      - Parent Support Group.md
+      - Alumni.md
+      - Organisations.md

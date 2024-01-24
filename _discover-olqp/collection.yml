@@ -1,0 +1,16 @@
+collections:
+  discover-olqp:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Information/.keep
+      - School Information/School Mission, Vision, Values, Motto, School
+        History.md
+      - School Information/School Crest.md
+      - School Information/School Song.md
+      - School Information/General Information.md
+      - School Information/IJ Board of Management.md
+      - School Information/Personal Data Protection Act.md
+      - OLQP Learning Spaces.md
+      - OLQP Experience.md
+      - Supporting OLQP.md
