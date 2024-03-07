@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - NICHE eNewletter.md
-      - OLQP Experience/.keep
       - Principal's Message.md
       - School Information/.keep
       - School Information/School Mission, Vision, Values, Motto, School
