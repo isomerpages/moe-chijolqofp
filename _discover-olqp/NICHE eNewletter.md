@@ -15,4 +15,5 @@ purposefully through a smorgasbord of activities throughout 2023.
 <br>Let us read about the learning experiences from our various stakeholders.
 <br>
 </p>
-<p></p>
+<p><a href="/files/NICHE/Newsletter_54_FA.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 NICHE e-Newsletter</a>
+</p>
