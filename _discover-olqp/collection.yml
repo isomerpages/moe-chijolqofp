@@ -2,8 +2,6 @@ collections:
   discover-olqp:
     output: true
     order:
-      - NICHE eNewletter.md
-      - OLQP Experience.md
       - Principal's Message.md
       - School Information/.keep
       - School Information/School Mission, Vision, Values, Motto, School
@@ -14,4 +12,6 @@ collections:
       - School Information/IJ Board of Management.md
       - School Information/Personal Data Protection Act.md
       - OLQP Learning Spaces.md
+      - OLQP Experience.md
+      - NICHE eNewletter.md
       - Supporting OLQP.md
