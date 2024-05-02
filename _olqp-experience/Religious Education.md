@@ -2,6 +2,7 @@
 title: Religious Education
 permalink: /olqp-experience/religious-education/
 description: ""
+variant: markdown
 ---
 ### Religious Education
 
@@ -11,11 +12,11 @@ _“Our task is to serve, to mould and to cultivate those who are entrusted to u
 
   
 
-**Faith Formation** in CHIJ OLQP seeks to give our students a holistic education for life and love. In line with Blessed Nicolas Barre’s vision of serving, moulding and cultivating the young minds and hearts that are entrusted to the school, CHIJ OLQP’s Spiritual, Religious and Moral Formation efforts are made through the Curriculum, Environment and People.
+**Faith Formation**&nbsp;in CHIJ OLQP seeks to give our students a holistic education for life and love. In line with Blessed Nicolas Barre’s vision of serving, moulding and cultivating the young minds and hearts that are entrusted to the school, CHIJ OLQP’s Spiritual, Religious and Moral Formation efforts are made through the Curriculum, Environment and People.
 
 Catechism Curriculum
 
-<img src="/images/redu1.png" style="width:183px;height:240px;margin-right:25px;" align = "left"> 
+<img src="/images/redu1.png" style="width:183px;height:240px;margin-right:25px;" align="left"> 
 
 *   ‘Walking with Jesus’ series for Catechism Lessons
 *   Para-liturgies and activities aligned to the Liturgical Calendar
@@ -23,7 +24,7 @@ Catechism Curriculum
 
 Our Environment
 
-<img src="/images/redu2.png" style="width:183px;height:240px;margin-right:25px;" align = "left">  
+<img src="/images/redu2.png" style="width:183px;height:240px;margin-right:25px;" align="left">  
 
 *   Eucharistic Celebrations, Masses, Daily Prayers and Hymns, Rosary Devotions
 *   School-wide Liturgical Activities
@@ -32,9 +33,9 @@ Our Environment
 
 Our People
 
-<img src="/images/redu3.png" style="width:183px;height:240px;margin-right:25px;" align = "left">  
+<img src="/images/redu3.png" style="width:183px;height:240px;margin-right:25px;" align="left">  
 
-*   School Chaplain Rev Fr Valerian Chong
+*   School Chaplain Rev Fr Valerian Cheong
 *   Led by the School Chaplaincy Team
 *   Supported by the Gloire De Dieu Ministry
 *   Catholic Teachers
