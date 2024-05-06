@@ -304,7 +304,7 @@ variant: tiptap
 <p>26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Es'Tee</p>
+<p>Ms Es'tee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team)</p>
