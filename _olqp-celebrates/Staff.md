@@ -73,7 +73,7 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Valerie Low Baoqin</p>
+<p>Padmavathy Subramanian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MOE Long Service Award (5 Years)</p>
@@ -84,7 +84,7 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Padmavathy Subramanian</p>
+<p>Mohammad Ihsan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MOE Long Service Award (5 Years)</p>
@@ -95,17 +95,6 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohammad Ihsan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOE Long Service Award (5 Years)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Sng Poh Geok</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lau Quck Woon</p>
@@ -125,7 +114,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hum Xin Yi Clarissa</p>
@@ -136,7 +125,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Low Qiong Xia</p>
@@ -147,7 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lim Wang Muay Joyce</p>
@@ -158,7 +147,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dong Shuling Melissa</p>
@@ -169,7 +158,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Naelah Nor Binte Othman</p>
@@ -180,7 +169,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tinawati Bte Ariffin</p>
@@ -191,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Clarissa Pang</p>
@@ -202,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kelly Ng</p>
@@ -213,7 +202,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Vivian Quek</p>
@@ -224,7 +213,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Daniel Wong</p>
@@ -235,7 +224,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20</p>
+<p>19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Pearlyn Er</p>
@@ -246,7 +235,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21</p>
+<p>20</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Celine Teo</p>
@@ -257,7 +246,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
+<p>21</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Yan Yan</p>
@@ -268,7 +257,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23</p>
+<p>22</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Rose Choo</p>
@@ -279,7 +268,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24</p>
+<p>23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Christina Yip</p>
@@ -290,7 +279,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25</p>
+<p>24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Delphine Minjoot</p>
@@ -301,7 +290,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26</p>
+<p>25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Es'tee</p>
@@ -312,7 +301,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27</p>
+<p>26</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Prasad</p>
@@ -323,7 +312,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28</p>
+<p>27</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Regina Julian</p>
@@ -334,7 +323,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29</p>
+<p>28</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Celestine Kok</p>
@@ -345,7 +334,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30</p>
+<p>29</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Daniel Wong</p>
