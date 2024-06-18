@@ -6,7 +6,12 @@ variant: tiptap
 ---
 <h3>Academic Staff</h3>
 <h4>Primary 1</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -94,19 +99,22 @@ variant: tiptap
 <p>1 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen I Chun
-<br>Ms Kuan Poey Han</p>
+<p>Ms Kuan Poey Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank"><u>chen_i_chun@moe.edu.sg</u></a> 
-<br><a href="mailto:kuan_poey_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kuan_poey_han@moe.edu.sg</u></a>
+<p><a href="mailto:kuan_poey_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kuan_poey_han@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Primary 2</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -204,7 +212,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 3</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -264,11 +277,11 @@ variant: tiptap
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fadhilah
+<p>
 <br>Mr Tan Yih Chyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_fadhilah_sanib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_fadhilah_sanib@moe.edu.sg</u></a> 
+<p>
 <br><a href="mailto:tan_yih_chyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yih_chyn@moe.edu.sg</u></a>
 </p>
 </td>
@@ -290,7 +303,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 4</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -377,7 +395,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 5</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -465,7 +488,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 6</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -551,7 +579,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Mother Tongue Teachers</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -569,46 +602,10 @@ variant: tiptap
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen I Chun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">chen_i_chun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Chen Meiqing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_meiqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_meiqing@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chen Miao Miao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chen_miaomiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_miaomiao@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jareen Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_hwee_bin_jareen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hwee_bin_jareen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -771,7 +768,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Non-Form Teachers</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -943,7 +945,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Special Needs Officers</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
