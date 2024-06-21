@@ -22,7 +22,7 @@ Thank you for visiting https://www.chijourladyqueenofpeace.moe.edu.sg/. By acces
 
 **Privacy Policy**
 
-5\. Click here to review this Web Site Privacy Statement.
+5\. Click [here](https://www.chijourladyqueenofpeace.moe.edu.sg/privacy/) to review this Web Site Privacy Statement.
 
 **Restrictions on Use of Materials**
 
