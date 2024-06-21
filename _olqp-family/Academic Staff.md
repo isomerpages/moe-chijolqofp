@@ -286,7 +286,7 @@ variant: tiptap
 <br>Mr Tan Yih Chyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><a href="lye_aye_ju_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye_aye_ju_wendy@moe.edu.sg</a>
 <br><a href="mailto:tan_yih_chyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yih_chyn@moe.edu.sg</u></a>
 </p>
 </td>
