@@ -98,8 +98,8 @@ variant: tiptap
 <p>1 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kuan Poey Han</p>
-<p>Mdm Daphne Koh</p>
+<p>Ms Kuan Poey Han
+<br>Mdm Daphne Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kuan_poey_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kuan_poey_han@moe.edu.sg</u></a>
@@ -134,8 +134,8 @@ variant: tiptap
 <p>2 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Michelle Goh</p>
-<p>Mrs Tse-Lok Hsiu Lee</p>
+<p>Mrs Michelle Goh
+<br>Mrs Tse-Lok Hsiu Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Michelle_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Michelle_goh@moe.edu.sg</u></a>
@@ -345,8 +345,8 @@ variant: tiptap
 <p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms E Vidtheya</p>
-<p>Mrs Laura Lai</p>
+<p>Ms E Vidtheya
+<br>Mrs Laura Lai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:e_vidtheya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">e_vidtheya@moe.edu.sg</a>
@@ -790,18 +790,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Music</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wendy Lye</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lye_aye_ju_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lye_aye_ju_wendy@moe.edu.sg</u></a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
