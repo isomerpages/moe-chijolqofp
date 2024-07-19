@@ -3,11 +3,10 @@ title: School Song
 permalink: /discover-olqp/School-Information/school-song/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
-
 ### School Song
 
-Insert audio clip here
 
 **1st Verse**
 
@@ -17,7 +16,7 @@ Guide us in our studies Oh Lord we pray<br>
 Wisdom, Courage and Charity,
 Strengthen in us each day.
 
-**Chorus**<Br>
+**Chorus**<br>
 Solidly united in our motto sound<br>
 Simple in virtue<br>
 Strong in duty bound.
