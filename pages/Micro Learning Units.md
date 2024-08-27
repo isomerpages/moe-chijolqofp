@@ -32,7 +32,7 @@ variant: tiptap
 </p>
 <p><a href="https://youtu.be/8Pf5Z8JULMw" rel="noopener nofollow" target="_blank">Student Well-being (Part 1)</a>
 </p>
-<p><a href="https://youtu.be/8Pf5Z8JULMw" rel="noopener nofollow" target="_blank">Student Well-being (Part 2)</a>
+<p><a href="https://youtu.be/spB-8Gwapvg" rel="noopener nofollow" target="_blank">Student Well-being (Part 2)</a>
 </p>
 <p>Please give us your feedback on MLU:</p>
 <div class="isomer-image-wrapper">
