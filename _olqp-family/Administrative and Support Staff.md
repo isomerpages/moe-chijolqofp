@@ -19,11 +19,7 @@ variant: tiptap
 <p>
 <br>Mdm Teo Yi Wen
 <br><a href="mailto:teo_yi_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yi_wen@moe.edu.sg</a>
-</p>
-<h5>ICT Associate</h5>
-<p>
-<br>Mr Mohd Ihsan
-<br><a href="mailto:Mohammad_ihsan_mohd_yaccob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mohammad_ihsan_mohd_yaccob@moe.edu.sg</a>
+<br>
 </p>
 <h5>Corporate Support Officer</h5>
 <p>
