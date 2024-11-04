@@ -3,6 +3,7 @@ title: Overview
 permalink: /useful-links/For-Students/overview/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 ### For Students
 
@@ -13,8 +14,6 @@ third_nav_title: For Students
 *   [Moo-O Online Portfolio](https://www.moo-o.com/)
 
 *   [Pazhahutamil.com](https://www.pazhahutamil.com/)
-
-*   [Raz-Kids eReading Platform](https://www.kidsa-z.com/main/Login)
 
 *   [Singapore Student Learning Space](https://www.learning.moe.edu.sg/sls/students/index.html)
 
