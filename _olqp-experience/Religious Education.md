@@ -49,7 +49,6 @@ Our People
 |---|---|
 | Rev Fr Valerian Chong | School Chaplain |
 | Mr Daniel Wong | Chairperson and Catechist |
-| Mr Luke Goh | Coordinator and Catechist |
 | Mrs Clarissa Pang | Member |
 | Ms Celestine Kok | Member and Catechist |
 | Mrs Rose Choo | Member and Catechist |
