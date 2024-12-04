@@ -3,67 +3,156 @@ title: Academic
 permalink: /olqp-celebrates/Students/academic/
 description: ""
 third_nav_title: Students
+variant: tiptap
 ---
-### Academic
-
-#### English Language Department
-
-| Year | Competitions | Placing |
-|:---:|:---:|:---:|
-| 2023 |Mythos Competition | Finalist (Group)<br> 4th Best Performer (Inidividual-Isabella Rai, 5L) |
-| 2023 |The Moo-O Awards 2023 National Children' Digital Story Reading Team Competition | Certificate of Merit |
-| 2022 | ACJC MYTHOS Junior Orators | Certificate of Merit |
-| 2022 | Moo-O Reading Awards | Best Costume<br>Semi-Finalist |
-| 2021 | ACJC Mythos - Junior Orators | Top 20 Outstanding Performers |
-| 2021 | Moo-O Reading Awards | Bronze |
-
-#### Mathematics Department
-
-| Year | Competitions | Placing |
-|:---:|:---:|:---:|
-| 2023 | Asia-Pacific Mathematical Olympiad for Primary Schools 2023 | 1 Bronze |
-| 2022 | National Mathematical Olympiad of Singapore (NMOS) | 4 Bronze<br>6 Honourable Mention |
-| 2022 | Singapore Mathematical Olympiad For Primary Schools (SMOPS) | 1 Bronze |
-| 2021 | National Mathematical Olympiad of Singapore (NMOS) | 2 Silver<br>2 Bronze |
-| 2021 | Singapore Mathematical Olympiad For Primary Schools (SMOPS) | 1 Silver<br>3 Bronze<br>10 Honourable Mention |
-
-#### Mother Tongue Language Department
-
-| Year | Competitions | Placing |
-|:---:|:---:|:---:|
-| 2023 | National Vlog Competition for Singapore Primary School Students (CL) – Lower &amp; Middle Pri Category | Excellence Award|
-| 2023 | 11th Singapore Brush and Pen Calligraphy Grand Competition | Excellence Award<br> Wu Yu Xuan, 6F|
-| 2023 | Kolam Ayer CC IAEC &amp; Kolam Ayer Youth Network –  Inter School Tamil Language Competitions 2023 <br>a) Role-Play Competition<br>b) Translation Competition| <br>3a) 2nd Prize-Sujitha, 3L <br>3b) 3rd Prize-Reshma, 6J|
-| 2023 | Mago Nationa Tamil Story Telling Competition | Special Award - Judge's Choice|
-| 2022 | [5th Text Recital Competition for Primary and Secondary Schools](https://www.cpcll.sg/events/reading-group/text-recital-competition-for-primary-and-secondary-schools/3039576)<br>Lower Primary (Individual)<br>Lower Primary (Group)<br>Middle Primary (Individual)<br>Upper Primary (Group) | 2 Silver Awards<br>1 Silver and 1 Bronze Awards<br>1 Bronze Awards<br>1 Silver and 1 Bronze Awards |
-| 2022 | The 26th National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition<br>Primary 6 Category | First Prize |
-| 2022 | 2022 National Vlog Competition for Singapore Primary School Students (CL)<br>Lower Primary Category | Second Prize &amp;<br>Excellent Award |
-| 2022 | 2022 National ML Story Telling Competition (ML) | 3rd place &amp; a consolation prize |
-| 2022 | 2022 Rakan Bahasa Translation Competition (ML)<br>2022 National Creative Writing Competition (ML)<br><br>2022 Comic drawing based on Proverbs | 4th place<br>2nd place, 1 Silver and 4 Gold Award<br>5th Place |
-| 2022 | Muthamizh VizhaPrimary 1 &amp; 2 Fancy Dress Competition (TL) | 2nd round qualifier |
-| 2022 | Annual Tamil Poetry Telling Competition (TL) | 1st Prize |
-| 2021 | [4th Text Recital Competition for Primary and Secondary Schools](https://www.cpcll.sg/events/reading-group/text-recital-competition-for-primary-and-secondary-schools/3039576)<br>Upper Primary Group | Silver Award |
-| 2021 | Young Cartoonist Competition (ML) | 3rd place &amp;<br>consolation prize |
-| 2021 | Thirukkurral VizhaPrimary 5 &amp; 6 Oratory Competition (TL) | 1st Prize &amp; 3rd Prize |
-| 2021 | Thirukkurral VizhaPrimary 1 &amp; 2 Thirukkurral Recitation (TL) | 1st Prize |
-| 2021 | Muthamizh VizhaPrimary 1 &amp; 2 Fancy Dress (TL) | 2nd round qualifier |
-
-#### Science Department
-
-| Year | Competitions | Placing |
-|:---:|:---:|:---:|
-| 2023 | Singapore Youth Science Fair | Distinctions <br>Grp 1: Avantika (6J), Sahasra (6F) and Sailakshmi (6F)<br>Grp 2:Leanne (5L), Adele (5L), Clara (5H) and Haelyn (5H)
-| 2023 | Singapore Primary Science Olympiad | Bronze Award <br> Iliana, 5L |
-| 2023 | West Zone Junior Science Whiz Challenge | Champion |
-| 2023 | West Zone Junior Science Whiz Challenge | Champion |
-| 2023 | International STEM Olympiad | 2 Bronze<br>1 Silver |
-| 2022 | Singapore Primary Science Olympiad | 3 Bronze<br>3 Merit |
-| 2022 | International STEM Olympiad | 2 Bronze |
-| 2022 | Raffles Science Olympiad | 1 Bronze |
-| 2021 | Singapore Science buskers | Judges Award |
-| 2021 | Junior Science Whiz Challenge | Top 24th Position (Individual Category) |
-| 2021 | Singapore Primary Science Olympiad | 1 Gold<br>4 Merit |
-| 2021 | ezi Go-Green Competition | Bronze |
-| 2021 | Youth Science Fair | Commendation |
-| 2021 | Community in Bloom | Gold |
-| 2021 | Vanda Miss Joaquim | Sustained Achievement Award (School Green Awards) |
+<h3>Academic</h3>
+<h4>Math Department</h4>
+<h5>2024</h5>
+<p><strong>2024 National Mathematical Olympiad of Singapore (NMOS)</strong> 
+<br>Gold - 1&nbsp;
+<br>Bronze - 7
+<br>Honourable mention - 9</p>
+<p><strong>2024 Asia-Pacific Mathematical Olympiad for Primary Schools </strong> 
+<br>Silver - 1</p>
+<h5>2023</h5>
+<p><strong>2023 National Mathematical Olympiad of Singapore (NMOS)</strong> 
+<br>Bronze - 2
+<br>Honourable Mention - 14</p>
+<h5>2021</h5>
+<p><strong>National Mathematical Olympiad of Singapore (NMOS)</strong> 
+<br>Silver - 2
+<br>Bronze - 2</p>
+<p><strong>Singapore Mathematical Olympiad (SMOP)</strong>
+<br>
+<br>Silver - 1&nbsp;
+<br>Bronze - 3 &nbsp;
+<br>Honourable mention - 10</p>
+<p><strong>English Department</strong>
+</p>
+<h5>2021</h5>
+<p>Top 20 Outstanding Performers 2021 ACJC Mythos: Junior Orators</p>
+<p>Bronze Award - 2021 Moo-O Reading Awards</p>
+<p>2021 Wits &amp; Words: Inter-school Debate Championship 2021 Participation
+in Online Friendlies</p>
+<p>Upload Anvantika's feature here</p>
+<p><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/images/Shahana%209%20March.png" rel="noopener noreferrer nofollow" target="_blank">9 March 2021 issue of the Little Red Dot - Shahana's Article Feature</a>
+</p>
+<h5>2020</h5>
+<p>Gold Award - 2020 Moo-O Reading Awards</p>
+<h4>Science Department</h4>
+<p><strong>2021</strong>
+</p>
+<p><strong>Singapore Science Buskers 2021</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Judges Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shaheera Binti Mohamad Ameen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Judges Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tham Jing Lin Gisele</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Judges Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Suu Myo Wai</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Junior Science Whiz Challenge</strong>
+<br>Top 24th&nbsp;position – Chua Ya Ting</p>
+<p><strong>Singapore Science Olympiad</strong>
+<br>
+<br>Merit Award – Isabelle Tiong Mae Shyuen
+<br>Merit Award – Kang Si Qi, Amelia (Jiang Shiqi)
+<br>Merit Award – Lam Fong Yu Faith
+<br>Merit Award – Tasha Lingaraj
+<br>Gold Award – Xiao Feilin</p>
+<p><strong>ezi Go-Green Competition</strong>&nbsp;
+<br>Bronze Award</p>
+<p><strong>Youth Science Fair</strong> 
+<br>Commendation Award -&nbsp;Chua Ya Ting
+<br>Commendation Award - Kang Si Qi, Amelia (Jiang Shiqi)
+<br>Commendation Award - Lee Yi Xuan Frances</p>
+<p><strong>Community in Bloom</strong>
+<br>Gold Award
+<br>Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)</p>
+<h5>2020</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Science Buskers ( 2nd Runner Up )&nbsp;</p>
+</li>
+</ul>
+<h5>2019</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>2019 Science Buskers ( 2nd Runner Up )&nbsp;</p>
+</li>
+<li>
+<p>2019 Science Buskers ( Judges' Award )</p>
+</li>
+<li>
+<p>2019 Science Buskers ( Judges' Award )</p>
+</li>
+</ul>
+<h5>2018</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>2018 Science Buskers (Champion Team)&nbsp;</p>
+</li>
+<li>
+<p>2018 Science Buskers ( 2nd Runner Up)</p>
+</li>
+<li>
+<p>Vanda Miss Joaquim Award in the SEC-StarHub School Green Awards (SGA)
+2018</p>
+</li>
+</ul>
+<h4>2017</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>2017 Sony Science Award Whiz Kid (Commendation Award for Unique Idea -
+Joanna Chong)</p>
+</li>
+<li>
+<p>2017 Science Buskers (Champion team)</p>
+</li>
+<li>
+<p>2017 Science Buskers (2nd Runner Up)</p>
+</li>
+<li>
+<p>2017 Science Buskers (Voter's Choice)</p>
+</li>
+<li>
+<p>2017 Science Buskers&nbsp;( Judges' Award )</p>
+</li>
+<li>
+<p>Lotus Sustained Achievement Award</p>
+</li>
+</ul>
+<p></p>
