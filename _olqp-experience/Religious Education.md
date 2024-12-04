@@ -22,7 +22,7 @@ and Liturgical activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cw_Slide3.jpg">
 </div>
-<p>Friday Morning Prayer Sessions</p>
+<p>Friday Morning Prayer Sessions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cw_Slide4.jpg">
 </div>
