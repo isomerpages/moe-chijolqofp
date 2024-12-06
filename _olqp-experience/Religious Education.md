@@ -2,57 +2,46 @@
 title: Religious Education
 permalink: /olqp-experience/religious-education/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Religious Education
-
-_“Our task is to serve, to mould and to cultivate those who are entrusted to us.”_
-
-**Blessed Nicolas Barre**
-
-  
-
-**Faith Formation**&nbsp;in CHIJ OLQP seeks to give our students a holistic education for life and love. In line with Blessed Nicolas Barre’s vision of serving, moulding and cultivating the young minds and hearts that are entrusted to the school, CHIJ OLQP’s Spiritual, Religious and Moral Formation efforts are made through the Curriculum, Environment and People.
-
-Catechism Curriculum
-
-<img src="/images/redu1.png" style="width:183px;height:240px;margin-right:25px;" align="left"> 
-
-*   ‘Walking with Jesus’ series for Catechism Lessons
-*   Para-liturgies and activities aligned to the Liturgical Calendar
-*   Character Lives In My Behaviour (CLIMB) Character Education Programme
-
-Our Environment
-
-<img src="/images/redu2.png" style="width:183px;height:240px;margin-right:25px;" align="left">  
-
-*   Eucharistic Celebrations, Masses, Daily Prayers and Hymns, Rosary Devotions
-*   School-wide Liturgical Activities
-*   Enhanced School Environment for a ‘Christ Experience’
-<br><br><br>
-
-Our People
-
-<img src="/images/redu3.png" style="width:183px;height:240px;margin-right:25px;" align="left">  
-
-*   School Chaplain Rev Fr Valerian Cheong
-*   Led by the School Chaplaincy Team
-*   Supported by the Gloire De Dieu Ministry
-*   Catholic Teachers
-*   Catchists
-*   Partnership with Parent Volunteers and Catholic Churches
-*   Continual Faith Formation and Development of Staff
-
-**Members of the School Chaplaincy Team**
-
-|  |  |
-|---|---|
-| Rev Fr Valerian Chong | School Chaplain |
-| Mr Daniel Wong | Chairperson and Catechist |
-| Mrs Clarissa Pang | Member |
-| Ms Celestine Kok | Member and Catechist |
-| Mrs Rose Choo | Member and Catechist |
-| Ms Es'tee Odelia Lim | Member and Catechist |
-| Mrs Christina Yip | Member |
-| Mdm Daphne Koh | Member |
-| Ms Wendy Lye | Member |
+<h3>Religious Education</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cw_Slide1.jpg">
+</div>
+<p>In line with our Founder’s vision of serving, moulding and cultivating
+the young minds and hearts that are entrusted to us, CHIJ OLQP’s Spiritual,
+Religious &amp; Moral Formation efforts are made through our Curriculum,
+Environment and People.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cw_Slide2.jpg">
+</div>
+<p>Our Religious Education comprises of Monthly Masses, Weekly Prayer sessions
+and Liturgical activities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cw_Slide3.jpg">
+</div>
+<p>Friday Morning Prayer Sessions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cw_Slide4.jpg">
+</div>
+<p>Stations of The Cross at St Joseph’s Church and Maundy Thursday during
+the season of Lent.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cw_Slide5.jpg">
+</div>
+<p>Celebration of Catholic Education Sunday.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cw_Slide6.jpg">
+</div>
+<p>Our Lady Queen of Peace Feast Day Mass.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cw_Slide7.jpg">
+</div>
+<p>Primary 6 Year-End Retreat.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cw_Slide8.jpg">
+</div>
+<p>Learning Journey to the Church of St Mary’s of The Angels.</p>
+<p></p>
