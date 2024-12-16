@@ -12,7 +12,7 @@ variant: tiptap
 <br>Gold - 1&nbsp;
 <br>Bronze - 7
 <br>Honourable mention - 9</p>
-<p><strong>2024 Asia-Pacific Mathematical Olympiad for Primary Schools </strong> 
+<p><strong>2024 Asia-Pacific Mathematical Olympiad for Primary Schools </strong>
 <br>Silver - 1</p>
 <h5>2023</h5>
 <p><strong>2023 National Mathematical Olympiad of Singapore (NMOS)</strong> 
@@ -102,57 +102,4 @@ in Online Friendlies</p>
 <p><strong>Community in Bloom</strong>
 <br>Gold Award
 <br>Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)</p>
-<h5>2020</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Science Buskers ( 2nd Runner Up )&nbsp;</p>
-</li>
-</ul>
-<h5>2019</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>2019 Science Buskers ( 2nd Runner Up )&nbsp;</p>
-</li>
-<li>
-<p>2019 Science Buskers ( Judges' Award )</p>
-</li>
-<li>
-<p>2019 Science Buskers ( Judges' Award )</p>
-</li>
-</ul>
-<h5>2018</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>2018 Science Buskers (Champion Team)&nbsp;</p>
-</li>
-<li>
-<p>2018 Science Buskers ( 2nd Runner Up)</p>
-</li>
-<li>
-<p>Vanda Miss Joaquim Award in the SEC-StarHub School Green Awards (SGA)
-2018</p>
-</li>
-</ul>
-<h4>2017</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>2017 Sony Science Award Whiz Kid (Commendation Award for Unique Idea -
-Joanna Chong)</p>
-</li>
-<li>
-<p>2017 Science Buskers (Champion team)</p>
-</li>
-<li>
-<p>2017 Science Buskers (2nd Runner Up)</p>
-</li>
-<li>
-<p>2017 Science Buskers (Voter's Choice)</p>
-</li>
-<li>
-<p>2017 Science Buskers&nbsp;( Judges' Award )</p>
-</li>
-<li>
-<p>Lotus Sustained Achievement Award</p>
-</li>
-</ul>
 <p></p>
