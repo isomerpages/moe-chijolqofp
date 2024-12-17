@@ -70,61 +70,6 @@ variant: tiptap
 <p>1st</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SPSSC Netball National Championships Senior Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SPSSC Netball National Championships Junior Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SPSSC Netball West Zone Championships Junior Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SPSSC Netball West Zone Championships Senior Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Sports School Netball Carnival (Champion pool)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Softball</h4>
