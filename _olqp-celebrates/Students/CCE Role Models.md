@@ -423,7 +423,7 @@ Models!</p>
 <p>3 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAHIRA</p>
+<p>SHREYA</p>
 </td>
 </tr>
 <tr>
@@ -431,7 +431,7 @@ Models!</p>
 <p>3 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STELLA</p>
+<p>ELISE</p>
 </td>
 </tr>
 <tr>
@@ -439,7 +439,7 @@ Models!</p>
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CADENCE</p>
+<p>ZHI YAN</p>
 </td>
 </tr>
 <tr>
@@ -447,7 +447,7 @@ Models!</p>
 <p>3 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ALISON</p>
+<p>RUI XIN</p>
 </td>
 </tr>
 <tr>
@@ -455,7 +455,7 @@ Models!</p>
 <p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VICTORIA</p>
+<p>OLIVINE</p>
 </td>
 </tr>
 <tr>
