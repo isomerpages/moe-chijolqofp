@@ -326,10 +326,10 @@ variant: tiptap
 <p>28</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Celestine Kok</p>
+<p>Ms Adeline Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Contribution Award (Team)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -337,10 +337,10 @@ variant: tiptap
 <p>29</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Wong</p>
+<p>Mrs Regina Julian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Contribution Award (Team)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
