@@ -345,10 +345,98 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Teo Hui Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Contribution Award (Team)- Strategic Planning Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Adeline Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Contribution Award (Team)- Strategic Planning Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Qu Yu Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Contribution Award (Team)- Strategic Planning Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tony Khoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Contribution Award (Team)- Strategic Planning Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Seok Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Contribution Award (Team)- Strategic Planning Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Renuka Thiyagarajan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Contribution Award (Team)- Strategic Planning Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Brenda Seet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Contribution Award (Team)- Strategic Planning Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alingalan Roy Calvin Arales</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Contribution Award (Team)- Strategic Planning Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Iskandar Shah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team)- Strategic Planning Team</p>
