@@ -263,7 +263,7 @@ variant: tiptap
 <p>Mdm Daphne Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Team)- Organising Team for IJ 170</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +274,7 @@ variant: tiptap
 <p>Ms Teo Hui Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Team)- Organising Team for IJ 170</p>
 </td>
 </tr>
 <tr>
@@ -285,7 +285,7 @@ variant: tiptap
 <p>Mr Iskandar Shah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Team)- Organising Team for IJ 170</p>
 </td>
 </tr>
 <tr>
@@ -296,7 +296,7 @@ variant: tiptap
 <p>Mr Hor Wai Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Team)- Organising Team for IJ 170</p>
 </td>
 </tr>
 <tr>
@@ -307,7 +307,7 @@ variant: tiptap
 <p>Mdm Heng Huay Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Team)- Organising Team for IJ 170</p>
 </td>
 </tr>
 <tr>
@@ -318,7 +318,7 @@ variant: tiptap
 <p>Ms Es'tee Odelia Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Team)- Organising Team for IJ 170</p>
 </td>
 </tr>
 <tr>
@@ -329,7 +329,7 @@ variant: tiptap
 <p>Ms Adeline Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Team)- Organising Team for IJ 170</p>
 </td>
 </tr>
 <tr>
@@ -340,7 +340,18 @@ variant: tiptap
 <p>Mrs Regina Julian</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Outstanding Contribution Award (Team)- Organising Team for IJ 170</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Contribution Award (Team)- Strategic Planning Team</p>
 </td>
 </tr>
 </tbody>
