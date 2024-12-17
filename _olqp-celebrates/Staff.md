@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Staff</h3>
-<h4>2023</h4>
+<h4>2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -51,10 +51,10 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patricia Tan Hwee Hoon</p>
+<p>Mdm Chen Meiqing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Long Service Award (5 Years)</p>
+<p>IJ Long Service Award (20 Years)</p>
 </td>
 </tr>
 <tr>
