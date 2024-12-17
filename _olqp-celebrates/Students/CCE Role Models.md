@@ -733,7 +733,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GLORIA</p>
+<p>ISOBEL</p>
 </td>
 </tr>
 <tr>
@@ -741,7 +741,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CLAIR</p>
+<p>KAYLA</p>
 </td>
 </tr>
 <tr>
