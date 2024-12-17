@@ -669,7 +669,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MIRANDA</p>
+<p>QIAOYUE</p>
 </td>
 </tr>
 <tr>
@@ -677,7 +677,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>2 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AMELIA</p>
+<p>ALEXA</p>
 </td>
 </tr>
 <tr>
@@ -685,7 +685,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>2 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CLARA</p>
+<p>SARAH</p>
 </td>
 </tr>
 <tr>
