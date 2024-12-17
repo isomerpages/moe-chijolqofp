@@ -81,7 +81,7 @@ Models!</p>
 <p>1 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ZOEY</p>
+<p>ELSA</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ Models!</p>
 <p>2 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CAYLEIGH</p>
+<p>ERIYANNA</p>
 </td>
 </tr>
 <tr>
