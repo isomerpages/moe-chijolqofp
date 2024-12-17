@@ -161,10 +161,10 @@ variant: tiptap
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Naelah Nor Binte Othman</p>
+<p>Mr Tan Yih Chyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Long Service Award (20 Years)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -172,10 +172,10 @@ variant: tiptap
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tinawati Bte Ariffin</p>
+<p>Mr Teo Beng Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ Long Service Award (10 Years)</p>
+<p></p>
 </td>
 </tr>
 <tr>
