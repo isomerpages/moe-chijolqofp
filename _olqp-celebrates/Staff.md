@@ -249,10 +249,10 @@ variant: tiptap
 <p>21</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Yan Yan</p>
+<p>Mr Daniel Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Team)- Organising Team for IJ 170</p>
 </td>
 </tr>
 <tr>
