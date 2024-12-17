@@ -701,7 +701,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>3 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KELLY</p>
+<p>JOE</p>
 </td>
 </tr>
 <tr>
@@ -709,7 +709,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>3 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JANELLE</p>
+<p>AMAYA</p>
 </td>
 </tr>
 <tr>
@@ -717,7 +717,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AALIYYA</p>
+<p>ALEXIS</p>
 </td>
 </tr>
 <tr>
