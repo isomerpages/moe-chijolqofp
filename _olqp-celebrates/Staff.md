@@ -260,7 +260,7 @@ variant: tiptap
 <p>22</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rose Choo</p>
+<p>Mdm Daphne Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -271,7 +271,7 @@ variant: tiptap
 <p>23</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Christina Yip</p>
+<p>Ms Teo Hui Jing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -282,7 +282,7 @@ variant: tiptap
 <p>24</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Delphine Minjoot</p>
+<p>Mr Iskandar Shah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
