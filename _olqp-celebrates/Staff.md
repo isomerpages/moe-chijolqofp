@@ -139,10 +139,10 @@ variant: tiptap
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Wang Muay Joyce</p>
+<p>Ms Adeline Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Long Service Award (15 Years)</p>
+<p>Outstanding Contribution Award (Team)- Organising Team for Family FunFest</p>
 </td>
 </tr>
 <tr>
