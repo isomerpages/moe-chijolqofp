@@ -383,7 +383,7 @@ Models!</p>
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AUDREY</p>
+<p>AURORA</p>
 </td>
 </tr>
 <tr>
