@@ -367,7 +367,7 @@ Models!</p>
 <p>2 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YINING</p>
+<p>YONG XUAN</p>
 </td>
 </tr>
 <tr>
@@ -375,7 +375,7 @@ Models!</p>
 <p>2 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SARAH</p>
+<p>GRACE</p>
 </td>
 </tr>
 <tr>
