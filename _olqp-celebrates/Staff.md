@@ -164,7 +164,7 @@ variant: tiptap
 <p>Mr Tan Yih Chyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Team)- Organising Team for Family FunFest</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ variant: tiptap
 <p>Mr Teo Beng Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Team)- Organising Team for Family FunFest</p>
 </td>
 </tr>
 <tr>
@@ -186,7 +186,7 @@ variant: tiptap
 <p>Ms Wong Shu Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Team)- Organising Team for Family FunFest</p>
 </td>
 </tr>
 <tr>
@@ -197,7 +197,7 @@ variant: tiptap
 <p>Ms Es'tee Odelia Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Team)- Organising Team for Family FunFest</p>
 </td>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ variant: tiptap
 <p>Mrs Michelle Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Team)- Organising Team for Family FunFest</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ variant: tiptap
 <p>Mdm Heng Huay Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Team)- Organising Team for Family FunFest</p>
 </td>
 </tr>
 <tr>
@@ -227,10 +227,10 @@ variant: tiptap
 <p>19</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Pearlyn Er</p>
+<p>Ms Yeo Yan Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Contribution Award (Team)</p>
+<p>Outstanding Contribution Award (Team)- Organising Team for Family FunFest</p>
 </td>
 </tr>
 <tr>
@@ -238,10 +238,10 @@ variant: tiptap
 <p>20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Celine Teo</p>
+<p>Mr Hor Wai Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Contribution Award (Team)</p>
+<p>Outstanding Contribution Award (Team)- Organising Team for Family FunFest</p>
 </td>
 </tr>
 <tr>
@@ -252,7 +252,7 @@ variant: tiptap
 <p>Ms Yeo Yan Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Contribution Award (Team)</p>
+<p></p>
 </td>
 </tr>
 <tr>
