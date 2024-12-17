@@ -87,8 +87,7 @@ variant: tiptap
 <p>Mdm Low Qiong Xia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IJ Long Service Award</p>
-<p>(10 Years)</p>
+<p>IJ Long Service Award (10 Years)</p>
 </td>
 </tr>
 <tr>
