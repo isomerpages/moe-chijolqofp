@@ -32,7 +32,7 @@ variant: tiptap
 <p>Ms Teo Hui Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Day Awards The Commendation Medal 2024</p>
+<p>National Day Awards Commendation Medal 2024</p>
 </td>
 </tr>
 <tr>
