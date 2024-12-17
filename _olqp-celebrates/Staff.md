@@ -62,10 +62,10 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tang Bee Shin</p>
+<p>Mdm Chua Dok Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IJ Long Service Award (5 Years)</p>
+<p>IJ Long Service Award (10 Years)</p>
 </td>
 </tr>
 <tr>
@@ -73,10 +73,10 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Padmavathy Subramanian</p>
+<p>Mdm Lim Tze Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IJ Long Service Award (5 Years)</p>
+<p>IJ Long Service Award (10 Years)</p>
 </td>
 </tr>
 <tr>
@@ -84,11 +84,11 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohammad Ihsan</p>
+<p>Mdm Low Qiong Xia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>IJ Long Service Award</p>
-<p>(5 Years)</p>
+<p>(10 Years)</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sng Poh Geok</p>
+<p>Ms Teh Xiuwen Vivian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>IJ Long Service Award (10 Years)</p>
