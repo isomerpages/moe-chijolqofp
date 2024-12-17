@@ -597,7 +597,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>1 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AIREEN</p>
+<p>REANNA</p>
 </td>
 </tr>
 <tr>
@@ -605,7 +605,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>1 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DEBORAH</p>
+<p>ARIELLE</p>
 </td>
 </tr>
 <tr>
@@ -613,7 +613,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>1 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ARYSSA</p>
+<p>NICOLE</p>
 </td>
 </tr>
 <tr>
@@ -621,7 +621,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SERENA</p>
+<p>ANDREA</p>
 </td>
 </tr>
 <tr>
@@ -629,7 +629,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>1 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ELISE</p>
+<p>PORTIA</p>
 </td>
 </tr>
 <tr>
@@ -637,7 +637,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>1 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LEE JIA</p>
+<p>NATALIE</p>
 </td>
 </tr>
 <tr>
