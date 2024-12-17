@@ -463,7 +463,7 @@ Models!</p>
 <p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KAYCIA</p>
+<p>SHIRLEY</p>
 </td>
 </tr>
 <tr>
@@ -471,7 +471,7 @@ Models!</p>
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NICOLE</p>
+<p>CHLOE</p>
 </td>
 </tr>
 <tr>
@@ -479,7 +479,7 @@ Models!</p>
 <p>4 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CARINNE</p>
+<p>MACRINA</p>
 </td>
 </tr>
 <tr>
@@ -487,7 +487,7 @@ Models!</p>
 <p>4 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TIFFANY</p>
+<p>SUFIYYA</p>
 </td>
 </tr>
 <tr>
@@ -495,7 +495,7 @@ Models!</p>
 <p>5 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LOVELLE</p>
+<p>MEGAN</p>
 </td>
 </tr>
 <tr>
@@ -503,7 +503,7 @@ Models!</p>
 <p>5 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>REBECCA</p>
+<p>NAOMI</p>
 </td>
 </tr>
 <tr>
