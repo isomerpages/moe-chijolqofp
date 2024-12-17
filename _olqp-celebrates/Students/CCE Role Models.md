@@ -645,7 +645,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>2 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RACHELLE</p>
+<p>LAURA</p>
 </td>
 </tr>
 <tr>
@@ -653,7 +653,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>2 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EVELYN</p>
+<p>REBEKAH</p>
 </td>
 </tr>
 <tr>
@@ -661,7 +661,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ELIZABETH</p>
+<p>JAZREEL</p>
 </td>
 </tr>
 <tr>
