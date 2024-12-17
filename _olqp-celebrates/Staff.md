@@ -216,10 +216,10 @@ variant: tiptap
 <p>18</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Wong</p>
+<p>Mdm Heng Huay Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Contribution Award (Team)</p>
+<p></p>
 </td>
 </tr>
 <tr>
