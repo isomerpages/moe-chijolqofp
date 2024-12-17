@@ -65,7 +65,7 @@ variant: tiptap
 <p>Tang Bee Shin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Long Service Award (5 Years)</p>
+<p>IJ Long Service Award (5 Years)</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ variant: tiptap
 <p>Padmavathy Subramanian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Long Service Award (5 Years)</p>
+<p>IJ Long Service Award (5 Years)</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,8 @@ variant: tiptap
 <p>Mohammad Ihsan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Long Service Award (5 Years)</p>
+<p>IJ Long Service Award</p>
+<p>(5 Years)</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +99,7 @@ variant: tiptap
 <p>Sng Poh Geok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Long Service Award (10 Years)</p>
+<p>IJ Long Service Award (10 Years)</p>
 </td>
 </tr>
 <tr>
