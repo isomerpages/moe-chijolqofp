@@ -183,10 +183,10 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Clarissa Pang</p>
+<p>Ms Wong Shu Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Contribution Award (Team)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -194,10 +194,10 @@ variant: tiptap
 <p>16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kelly Ng</p>
+<p>Ms Es'tee Odelia Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Contribution Award (Team)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -205,10 +205,10 @@ variant: tiptap
 <p>17</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Vivian Quek</p>
+<p>Mrs Michelle Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Contribution Award (Team)</p>
+<p></p>
 </td>
 </tr>
 <tr>
