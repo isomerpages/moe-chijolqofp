@@ -511,7 +511,7 @@ Models!</p>
 <p>5 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MIYAH</p>
+<p>CHERYL</p>
 </td>
 </tr>
 <tr>
@@ -519,7 +519,7 @@ Models!</p>
 <p>5 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHLOE</p>
+<p>TSZ YIU</p>
 </td>
 </tr>
 <tr>
@@ -527,7 +527,7 @@ Models!</p>
 <p>5 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VANESSA</p>
+<p>TESVINA</p>
 </td>
 </tr>
 <tr>
