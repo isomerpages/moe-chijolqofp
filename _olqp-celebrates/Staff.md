@@ -150,10 +150,10 @@ variant: tiptap
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dong Shuling Melissa</p>
+<p>Ms Qu Yu Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Long Service Award (15 Years)</p>
+<p>Outstanding Contribution Award (Team)- Organising Team for Family FunFest</p>
 </td>
 </tr>
 <tr>
