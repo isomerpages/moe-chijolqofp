@@ -693,7 +693,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>3 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TIFFANY</p>
+<p>YUHUI</p>
 </td>
 </tr>
 <tr>
