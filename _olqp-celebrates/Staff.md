@@ -29,10 +29,10 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Iskandar Shah Abu Bakar</p>
+<p>Ms Teo Hui Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Day Awards Commendation Medal 2023</p>
+<p>National Day Awards The Commendation Medal 2024</p>
 </td>
 </tr>
 <tr>
