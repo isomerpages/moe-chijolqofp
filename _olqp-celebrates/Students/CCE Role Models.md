@@ -535,7 +535,7 @@ Models!</p>
 <p>6 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAILAKSHMI</p>
+<p>RYKIEL</p>
 </td>
 </tr>
 <tr>
@@ -543,7 +543,7 @@ Models!</p>
 <p>6 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RIA</p>
+<p>SANJANAA</p>
 </td>
 </tr>
 <tr>
@@ -551,7 +551,7 @@ Models!</p>
 <p>6 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NEELESH</p>
+<p>BALASUBRAMANIAN</p>
 </td>
 </tr>
 <tr>
@@ -559,7 +559,7 @@ Models!</p>
 <p>6 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ADELINE</p>
+<p>CHALENE</p>
 </td>
 </tr>
 <tr>
@@ -567,7 +567,7 @@ Models!</p>
 <p>6 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LETICIA</p>
+<p>MEERA</p>
 </td>
 </tr>
 </tbody>
