@@ -749,7 +749,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ZHILING</p>
+<p>AVA</p>
 </td>
 </tr>
 <tr>
@@ -757,7 +757,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>4 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KRISTIN</p>
+<p>KATHERINE</p>
 </td>
 </tr>
 <tr>
@@ -765,7 +765,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>4 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SHERVON</p>
+<p>EMMA</p>
 </td>
 </tr>
 <tr>
@@ -773,7 +773,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>5 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RENETTE</p>
+<p>MARIANNA</p>
 </td>
 </tr>
 <tr>
@@ -781,7 +781,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>5 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GRACIELLA</p>
+<p>KYRA</p>
 </td>
 </tr>
 <tr>
@@ -789,7 +789,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>5 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SOPHIE</p>
+<p>SEINA</p>
 </td>
 </tr>
 <tr>
@@ -797,7 +797,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>5 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ALEXIS</p>
+<p>ARIN</p>
 </td>
 </tr>
 <tr>
@@ -805,7 +805,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>5 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ELENA</p>
+<p>XIN NING</p>
 </td>
 </tr>
 <tr>
@@ -813,7 +813,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>6 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SERENE</p>
+<p>LOVELLE</p>
 </td>
 </tr>
 <tr>
@@ -821,7 +821,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>6 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ANNABEL</p>
+<p>CLARA</p>
 </td>
 </tr>
 <tr>
@@ -829,7 +829,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>6 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WING WEI</p>
+<p>VERA</p>
 </td>
 </tr>
 <tr>
@@ -837,7 +837,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>6 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ANAND</p>
+<p>CHLOE</p>
 </td>
 </tr>
 <tr>
@@ -845,7 +845,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>6 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ALYSON</p>
+<p>DAINA</p>
 </td>
 </tr>
 </tbody>
