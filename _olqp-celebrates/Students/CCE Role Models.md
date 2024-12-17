@@ -319,7 +319,7 @@ Models!</p>
 <p>1 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DANIELLE</p>
+<p>ZI TONG</p>
 </td>
 </tr>
 <tr>
@@ -327,7 +327,7 @@ Models!</p>
 <p>1 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SOFIA</p>
+<p>MIKAYLA</p>
 </td>
 </tr>
 <tr>
@@ -335,7 +335,7 @@ Models!</p>
 <p>1 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BELYNN</p>
+<p>MILLICENT</p>
 </td>
 </tr>
 <tr>
@@ -343,7 +343,7 @@ Models!</p>
 <p>1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KIRTHI</p>
+<p>MA HOPE</p>
 </td>
 </tr>
 <tr>
@@ -351,7 +351,7 @@ Models!</p>
 <p>1 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SHEA</p>
+<p>SI ROU</p>
 </td>
 </tr>
 <tr>
@@ -359,7 +359,7 @@ Models!</p>
 <p>1 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHARLIZE</p>
+<p>SARAH</p>
 </td>
 </tr>
 <tr>
