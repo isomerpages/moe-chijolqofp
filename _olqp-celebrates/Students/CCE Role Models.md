@@ -169,7 +169,7 @@ Models!</p>
 <p>3 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ALYSSA</p>
+<p>RUTHRA</p>
 </td>
 </tr>
 <tr>
