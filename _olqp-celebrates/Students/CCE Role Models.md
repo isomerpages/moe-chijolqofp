@@ -65,7 +65,7 @@ Models!</p>
 <p>1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ARIEL</p>
+<p>SIERRA</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ Models!</p>
 <p>1 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CLAIRE</p>
+<p>SOPHIE</p>
 </td>
 </tr>
 <tr>
