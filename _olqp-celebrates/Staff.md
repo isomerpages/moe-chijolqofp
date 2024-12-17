@@ -107,10 +107,10 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lau Quck Woon</p>
+<p>Ms Teo Hui Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Long Service Award (10 Years)</p>
+<p>Outstanding Contribution Award (Individual)</p>
 </td>
 </tr>
 <tr>
