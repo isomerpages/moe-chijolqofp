@@ -117,28 +117,6 @@ variant: tiptap
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hum Xin Yi Clarissa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOE Long Service Award (10 Years)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Low Qiong Xia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOE Long Service Award (10 Years)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Adeline Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,7 +125,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Qu Yu Ting</p>
@@ -158,7 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Yih Chyn</p>
@@ -169,7 +147,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Beng Wee</p>
@@ -180,7 +158,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Shu Xian</p>
@@ -191,7 +169,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Es'tee Odelia Lim</p>
@@ -202,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Michelle Goh</p>
@@ -213,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Heng Huay Lee</p>
@@ -224,7 +202,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Yan Yan</p>
@@ -235,7 +213,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hor Wai Chew</p>
@@ -246,7 +224,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21</p>
+<p>19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Daniel Wong</p>
@@ -257,7 +235,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
+<p>20</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Daphne Koh</p>
@@ -268,7 +246,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23</p>
+<p>21</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Teo Hui Jing</p>
@@ -279,7 +257,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24</p>
+<p>22</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Iskandar Shah</p>
@@ -290,7 +268,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25</p>
+<p>23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hor Wai Chew</p>
@@ -301,7 +279,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26</p>
+<p>24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Heng Huay Lee</p>
@@ -312,7 +290,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27</p>
+<p>25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Es'tee Odelia Lim</p>
@@ -323,7 +301,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28</p>
+<p>26</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Adeline Tan</p>
@@ -334,7 +312,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29</p>
+<p>27</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Regina Julian</p>
@@ -345,7 +323,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30</p>
+<p>28</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Teo Hui Jing</p>
@@ -356,7 +334,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31</p>
+<p>29</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Adeline Tan</p>
@@ -367,7 +345,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>32</p>
+<p>30</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Qu Yu Ting</p>
@@ -378,7 +356,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>33</p>
+<p>31</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tony Khoo</p>
@@ -389,7 +367,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>34</p>
+<p>32</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Seok Peng</p>
@@ -400,7 +378,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>35</p>
+<p>33</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Renuka Thiyagarajan</p>
@@ -411,7 +389,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>36</p>
+<p>34</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Brenda Seet</p>
@@ -422,7 +400,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>37</p>
+<p>35</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alingalan Roy Calvin Arales</p>
@@ -433,7 +411,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>38</p>
+<p>36</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Iskandar Shah</p>
