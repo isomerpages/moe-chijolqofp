@@ -399,7 +399,7 @@ Models!</p>
 <p>2 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WEN RUI</p>
+<p>AVERY</p>
 </td>
 </tr>
 <tr>
@@ -407,7 +407,7 @@ Models!</p>
 <p>2 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ADELYN</p>
+<p>HANNA</p>
 </td>
 </tr>
 <tr>
@@ -415,7 +415,7 @@ Models!</p>
 <p>3 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OLIVINE</p>
+<p>AUDREY</p>
 </td>
 </tr>
 <tr>
