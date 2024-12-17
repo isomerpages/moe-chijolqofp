@@ -293,10 +293,10 @@ variant: tiptap
 <p>25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Es'tee</p>
+<p>Mr Hor Wai Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Contribution Award (Team)</p>
+<p></p>
 </td>
 </tr>
 <tr>
