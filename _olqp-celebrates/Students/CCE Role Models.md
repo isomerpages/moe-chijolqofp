@@ -177,7 +177,7 @@ Models!</p>
 <p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MEGAN</p>
+<p>TING XUAN</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ Models!</p>
 <p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KIRANA</p>
+<p>DANIELLE</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +193,7 @@ Models!</p>
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MEGAN</p>
+<p>HANNAH</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ Models!</p>
 <p>4 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GISELLE</p>
+<p>MAYA</p>
 </td>
 </tr>
 <tr>
@@ -209,7 +209,7 @@ Models!</p>
 <p>4 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEINA</p>
+<p>SANJANA</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ Models!</p>
 <p>5 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RYKEIL</p>
+<p>QUINNIE</p>
 </td>
 </tr>
 <tr>
@@ -225,7 +225,7 @@ Models!</p>
 <p>5 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KATIE</p>
+<p>DANIELLE</p>
 </td>
 </tr>
 <tr>
@@ -233,7 +233,7 @@ Models!</p>
 <p>5 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHLOE</p>
+<p>SHANAYA</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +241,7 @@ Models!</p>
 <p>5 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ADELE</p>
+<p>SHERMIN</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +249,7 @@ Models!</p>
 <p>5 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JANICE</p>
+<p>LEANNE</p>
 </td>
 </tr>
 <tr>
@@ -257,7 +257,7 @@ Models!</p>
 <p>6 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MAJELLA</p>
+<p>CHARVELLE</p>
 </td>
 </tr>
 <tr>
@@ -265,7 +265,7 @@ Models!</p>
 <p>6 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NINA</p>
+<p>MYRA</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +273,7 @@ Models!</p>
 <p>6 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JESSICA</p>
+<p>MIYAH</p>
 </td>
 </tr>
 <tr>
@@ -281,7 +281,7 @@ Models!</p>
 <p>6 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AUDREY</p>
+<p>ELIE</p>
 </td>
 </tr>
 <tr>
@@ -289,7 +289,7 @@ Models!</p>
 <p>6 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KAVI</p>
+<p>RACHAEL</p>
 </td>
 </tr>
 </tbody>
