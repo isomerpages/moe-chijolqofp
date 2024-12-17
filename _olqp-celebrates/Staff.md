@@ -40,7 +40,7 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wendy Lye Aye Ju</p>
+<p>Ms Tan Lily</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Day Long Service Medal</p>
