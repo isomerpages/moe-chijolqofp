@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/school_website_banner_new.gif
+      background: /images/banner.gif
       key_highlights:
         - title: Announcements & Quick Links
           description: ""
