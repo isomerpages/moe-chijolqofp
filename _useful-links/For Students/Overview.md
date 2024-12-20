@@ -29,10 +29,22 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a>
+<br>
+</p>
+</li>
+</ul>
+<h3>Cyber Wellness Resources</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Crime Prevention Council – ScamShield</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=youth" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Resources</a>
+<p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">S.U.R.E. by National Library Board</a>
+</p>
+</li>
+<li>
+<p><a href="https://csa.gov.sg/programmes/sg-cyber-safe-students" rel="noopener noreferrer nofollow" target="_blank">Cyber Security Agency</a>
 </p>
 </li>
 </ul>
