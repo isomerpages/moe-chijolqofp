@@ -12,18 +12,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login" rel="noopener noreferrer nofollow" target="_blank">iMTL Portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moo-o.com/" rel="noopener noreferrer nofollow" target="_blank">Moo-O Online Portfolio</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.pazhahutamil.com/" rel="noopener noreferrer nofollow" target="_blank">Pazhahutamil.com</a>
-</p>
-</li>
-<li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore Student Learning Space</a>
 </p>
 </li>
