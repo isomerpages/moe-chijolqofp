@@ -5,68 +5,43 @@ description: ""
 variant: tiptap
 ---
 <h3>Principal's Message</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%;" height="auto" width="100%" src="/images/pmsg.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ms_Pham_edit_01.jpg">
 </div>
 <p>
 <br>
 </p>
-<p>It is my greatest joy and blessing to be a part of the CHIJ Our Lady Queen
-of Peace (CHIJ OLQP) family. An IJ girl myself, I had the privilege of
-experiencing the IJ education in primary and secondary school. Grounded
-in values and Christian teaching, the 10 years of IJ education has indeed
-played a major part in developing me as a person and an educator. Being
-an IJ alumnus, I believe strongly in wanting to share the IJ experience
-and culture with our staff, students and parents, and in so doing, enable
-the IJ legacy to live on through the current and future cohorts of students.</p>
-<p>CHIJ OLQP anchors our educational beliefs on the work of our founder,
-Blessed Nicolas Barre, and that of the Infant Jesus (IJ) Sisters who came
-to Singapore to set up the CHIJ schools. As a Catholic school, we believe
-in developing our students in their God-given uniqueness and to help them
-be the best that they can be.</p>
-<p>In line with the vision of an “Enthusiastic Learner, Humble Leader and
-Gracious Lady”, our school places great emphasis on Character Education
-throughout the 6 years of a CHIJ OLQP girl’s educational experience. The
-Virtues Project is used to inculcate values in our students and is used
-in tandem with The Leader in Me: 7 Habits of Happy Kids. Students learn
-the values, skills and attitudes needed to help them grow in character
-and confidence, while developing the 21st&nbsp;Century Competencies. Leadership
-skills are also developed to help students lead and serve with love and
-humility within the school and in the community. This paves the way for
-our students to experience and exemplify the IJ mission as well as our
-motto “Simple in Virtue, Steadfast in Duty”.</p>
-<p>The school prides itself in providing a holistic educational experience
-for our students, drawing a fine balance between the academic and non-academic
-domains. Through the academic and non-academic areas, e.g., sports and
-aesthetics, students’ talents and potential are developed using a variety
-of platforms such as enrichment programmes, competitions and showcase opportunities.
-These experiences enable students to stretch themselves and reach their
-fullest potential. The many accolades received are testimony to the excellent
-work of our students, staff and parents coming together. In living out
-the mission of a CHIJ school, support is given to the disadvantaged in
-our midst. Many helping hands come together to enable our students to shine
-amidst the challenges faced at home or in school.</p>
-<p>The staff of CHIJ OLQP are committed to providing student-centric learning
-experiences for their students, believing in the value of strong teacher-student
-relationships and a caring and loving environment. Our staff speak the
-Language of Virtues daily in their quest to help our students develop good
-character traits. Teachers also come together to develop engaging lesson
-ideas and classroom strategies to enhance students’ learning in and out
-of the classroom.</p>
-<p>Blessed with the strong support from parents and families, our students
-receive the love and care necessary to develop into confident young ladies.
-The synergy between the home and school provides a safe and secure backdrop
-for the well-being of our students. Working collaboratively with external
-partners, the school extends and enriches our students’ development through
-a variety of out-of-classroom experiences.</p>
-<p>The CHIJ OLQP family draws strength from our Christ-centred mission. As
-we work for the development of each child, we seek God’s grace and wisdom
-in all that we do. May the light of faith lead us in our journey and grant
-us goodness and blessings in the days ahead. We look forward to celebrating
-our 70th&nbsp;anniversary in 2024 - 70 years of the CHIJ OLQP experience
-- igniting the minds and touching the hearts of many cohorts before, and
-creating an exciting pathway for the future ahead.</p>
-<p>The IJ Spirit Lives On in CHIJ OLQP!</p>
-<p>Your partner-in-education,
-<br>Mrs Karen Tan
-<br>Principal</p>
+<p>Welcome to Our Lady Queen of Peace (OLQP) website. We hope you will enjoy
+learning more about how our IJ dream is lived out through the various programmes
+and student experiences.</p>
+<p>At OLQP, we believe that every child is gifted with God-given talents,
+and we are committed to provide a holistic education that extends beyond
+academics to shape character and foster a strong sense of social responsibility.
+Together with our teachers, we live out the IJ Dream and instill the values
+of Truth, Justice, Freedom, and Love in our girls, guiding them to use
+their gifts and talents in service to others—especially those who are disadvantaged.
+We will integrate academic excellence with the cultivation of virtues to
+equip our girls to be leaders of tomorrow— who are not only skilled and
+think critically but are compassionate and act kindly. Our girls would
+have many opportunities to engage in a variety of learning experiences
+which empower them to discover their unique strengths, work collaboratively
+with others, and embrace challenges. Through exploring their passions and
+making meaningful contributions to the school and the wider community,
+our students develop a deep sense of purpose. This equips them with the
+dispositions, skills and moral compass needed to navigate the complexities
+of tomorrow. Through these experiences, our girls grow to become an “Enthusiastic
+Learner, Humble Leader and Gracious Lady”.</p>
+<p>In 2025, we celebrate our school’s 70th anniversary - “Love &amp; Peace:
+Our Heritage, Our Legacy”, a milestone that reflects decades of learning,
+growth and excellence as a community. To commemorate this special occasion,
+we have planned a variety of events and opportunities for everyone to come
+together and celebrate. Highlights will include fundraising, a musical
+showcasing the incredible talents of our girls, as well as a special Mass
+to give thanks for our shared journey and blessings. We warmly invite all
+parents to join us in these celebrations, as your support and participation
+are integral to making this milestone a memorable and meaningful one. More
+details will follow, and we look forward to celebrating with you!</p>
+<p>Ms Phyllis Pham</p>
+<p>Your Partner-in-Education</p>
+<p></p>
