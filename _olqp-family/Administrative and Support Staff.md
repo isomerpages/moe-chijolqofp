@@ -10,11 +10,11 @@ variant: tiptap
 <br><a rel="noopener noreferrer nofollow" target="_blank">heng_huay_lee@moe.edu.sg</a>
 </p>
 <h4>Infocom Technology (ICT) Manager</h4>
-<p>Mr Joseph <a rel="noopener noreferrer nofollow" target="_blank">Lim<br>lim_kiat_siong_a@moe.edu.sg</a>
+<p>Mr Joseph Lim<a rel="noopener noreferrer nofollow" target="_blank"><br>lim_kiat_siong_a@moe.edu.sg</a>
 <br>
 </p>
 <h4>Operations Manager</h4>
-<p>Mdm Tang Sue <a rel="noopener noreferrer nofollow" target="_blank">Wei<br>tang_sue_wei@moe.edu.sg</a>
+<p>Mdm Tang Sue Wei<a rel="noopener noreferrer nofollow" target="_blank"><br>tang_sue_wei@moe.edu.sg</a>
 <br>
 </p>
 <h4>Administration&nbsp;Executive</h4>
