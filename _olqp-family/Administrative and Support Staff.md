@@ -31,9 +31,10 @@ variant: tiptap
 </p>
 <h4>Operations Support Officer</h4>
 <p>Mr Sani Bin Salleh
+<br>Mr Rajantheran
 <br>Mdm Teo Lee Yong
 <br>Mdm Ess Christina
-<br>Mdm Teo Lee Yong
+<br>
 <br>
 </p>
 <h4>Desktop Engineers</h4>
