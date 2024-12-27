@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
+<p>Vice-Principal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Adeline Kee</p>
