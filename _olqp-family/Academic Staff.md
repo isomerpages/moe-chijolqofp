@@ -229,13 +229,11 @@ variant: tiptap
 <p>3 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Melissa Lee
-<br>Mr Kenneth Teo</p>
+<p>Mdm Wong Seok Peng
+<br>Mr Owen Lau Quck Woon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Dong_Shu_Ling_Melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dong_shu_ling_melissa@moe.edu.sg</u></a> 
-<br><a href="mailto:teo_beng_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_beng_wee@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -243,13 +241,11 @@ variant: tiptap
 <p>3 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Prasad
-<br>Mrs Stephanie Wong</p>
+<p>Mrs Looi-Tan Lee Ling
+<br>Ms Grace Chick Yuet Fun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Prasad_Palamani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Prasad_Palamani@moe.edu.sg</u></a> 
-<br><a href="mailto:stephanie_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>stephanie_wong@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -257,13 +253,11 @@ variant: tiptap
 <p>3 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Ling
-<br>Mdm Tinawati Ariffin</p>
+<p>Ms Joyce Lim
+<br>Mrs Clarissa Pang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:michelle_ling_mujun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>michelle_ling_mujun@moe.edu.sg</u></a> 
-<br><a href="mailto:tinawati_ariffin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tinawati_ariffin@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -271,13 +265,11 @@ variant: tiptap
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wendy Lye
-<br>Mr Tan Yih Chyn</p>
+<p>Ms Fong Yuen Han
+<br>Mdm Naelah Nor Bte Othman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lye_aye_ju_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye_aye_ju_wendy@moe.edu.sg</a>
-<br><a href="mailto:tan_yih_chyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yih_chyn@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
