@@ -829,7 +829,8 @@ variant: tiptap
 <p>Ms Michelle Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:michelle_ling_mujun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_ling_mujun@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -837,7 +838,8 @@ variant: tiptap
 <p>Muhammad Taufiq Mohd Shahlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Muhammad_Taufiq_Mohd_Shahlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Taufiq_Mohd_Shahlan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -845,7 +847,8 @@ variant: tiptap
 <p>Mdm Raihana Bte Snin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:raihana_snin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raihana_snin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -853,7 +856,8 @@ variant: tiptap
 <p>Ms Chai Hwee Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Chai_Hwee_Han_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chai_Hwee_Han_A@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -869,7 +873,8 @@ variant: tiptap
 <p>Ms Sheila Rabot</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:N_B_Sheila@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">N_B_Sheila@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -877,7 +882,8 @@ variant: tiptap
 <p>Ms Gina Siew Jin Er</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:SIEW_JIN_ER_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">SIEW_JIN_ER_A@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -885,7 +891,8 @@ variant: tiptap
 <p>Ms Pamela Gordon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Gordon_Pamela_Caroline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Gordon_Pamela_Caroline@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -893,7 +900,8 @@ variant: tiptap
 <p>Ms Pavri Goritti-Ann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:PAVRI_GORITTIANN_C@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">PAVRI_GORITTIANN_C@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
