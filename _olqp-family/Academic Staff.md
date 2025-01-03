@@ -492,12 +492,11 @@ variant: tiptap
 <p>6 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Melina Esther Chua</p>
+<p>Ms Melina Esther Chua
+<br>Ms Es'tee Odelia Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:manjula_naidu_ramaraj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>manjula_naidu_ramaraj@moe.edu.sg</u></a> 
-<br><a href="mailto:yvonne_tan_lian_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yvonne_tan_lian_zhi@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
