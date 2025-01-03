@@ -310,12 +310,11 @@ variant: tiptap
 <p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Melissa Lee</p>
+<p>Mrs Melissa Lee
+<br>Mdm Wu Qianfang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fong_yuen_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fong_yuen_han@moe.edu.sg</u></a> 
-<br><a href="mailto:Wong_Seok_Peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Wong_Seok_Peng@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -323,13 +322,11 @@ variant: tiptap
 <p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms E Vidtheya
-<br>Mrs Laura Lai</p>
+<p>Mr Prasad
+<br>Ms Ong Si Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:e_vidtheya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">e_vidtheya@moe.edu.sg</a>
-<br><a href="mailto:ho_wan_ghin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ho_wan_ghin@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -338,11 +335,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Patricia Tan
+<br>Ms Cheryl Loh Ju Ling
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hwee_hoon_patricia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_hwee_hoon_patricia@moe.edu.sg</u></a> 
+<p>
 <br>
 </p>
 </td>
@@ -352,11 +350,11 @@ variant: tiptap
 <p>4 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Looi-Tan Lee Ling
+<p>Mr Tan Yih Chyn Anthony
 <br>Ms Tan Lily</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:looi-tan_lee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">looi-tan_lee_ling@moe.edu.sg</a> 
+<p>
 <br><a href="mailto:tan_lily_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_lily_a@moe.edu.sg</u></a>
 </p>
 </td>
@@ -366,13 +364,11 @@ variant: tiptap
 <p>4 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joyce Lim
-<br>Mdm Zakiah Zainol</p>
+<p>Mrs Ng-Foo Li May
+<br>Ms Nur Hana Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_wang_muay_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_wang_muay_joyce@moe.edu.sg</u></a> 
-<br><a href="mailto:zakiah_zainol_abidin_mar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zakiah_zainol_abidin_mar@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
