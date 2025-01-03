@@ -536,7 +536,8 @@ variant: tiptap
 <br>Ms Es'tee Odelia Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:estee_odelia_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">estee_odelia_lim@moe.edu.sg</a>
+<p><a href="mailto:chua_xin_jie_melina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_xin_jie_melina@moe.edu.sg</a>
+<br><a href="mailto:estee_odelia_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">estee_odelia_lim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
