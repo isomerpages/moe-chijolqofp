@@ -478,8 +478,9 @@ variant: tiptap
 <p>6 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Christine Lee
-<br>Ms Qu Yuting</p>
+<p>Ms Brenda Seet
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:christine_wong_moi_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>christine_wong_moi_eng@moe.edu.sg</u></a> 
