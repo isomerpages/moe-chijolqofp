@@ -29,8 +29,8 @@ variant: tiptap
 <p>1 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Vijayalakshmi Devanathan
-<br>Ms Zhu Keyu</p>
+<p>Mdm Padmavathy
+<br>Ms Yeo Yan Yan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vijayalakshmi_devanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>vijayalakshmi_devanathan@moe.edu.sg</u></a>
@@ -43,7 +43,8 @@ variant: tiptap
 <p>1 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mahani Khamin</p>
+<p>Mdm Lily Hoi
+<br>Ms Lim Jing Xian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mahani_khamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mahani_khamin@moe.edu.sg</u></a> 
@@ -56,8 +57,8 @@ variant: tiptap
 <p>1 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Celestine Chia
-<br>Ms Lai Pey Chyi</p>
+<p>Ms Ng Gek Hooi
+<br>Mrs Laura Lai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:celestine_kok_chu_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>celestine_kok_chu_wei@moe.edu.sg</u></a> 
@@ -70,8 +71,8 @@ variant: tiptap
 <p>1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Pek Wei Meow
-<br>Mrs Kelly Ng</p>
+<p>Ms Qu Yuting</p>
+<p>Mrs Tse-Loh Hsiu Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pek_wei_meow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pek_wei_meow@moe.edu.sg</u></a> 
@@ -852,7 +853,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Educational Support and Guidance </h4>
+<h4>Educational Support and Guidance</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
