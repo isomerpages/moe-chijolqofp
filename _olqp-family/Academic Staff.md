@@ -85,8 +85,8 @@ variant: tiptap
 <p>1 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Delphine Minjoot
-<br>Mdm Lim Tze Ying</p>
+<p>Mrs Michelle Goh
+<br>Ms Lim Su Bing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_poh_gek_delphine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_poh_gek_delphine@moe.edu.sg</u></a> 
@@ -99,8 +99,8 @@ variant: tiptap
 <p>1 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kuan Poey Han
-<br>Mdm Daphne Koh</p>
+<p>Mdm Zakiah
+<br>Mrs Rose Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kuan_poey_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kuan_poey_han@moe.edu.sg</u></a>
