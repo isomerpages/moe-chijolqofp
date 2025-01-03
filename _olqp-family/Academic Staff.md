@@ -484,9 +484,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:christine_wong_moi_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>christine_wong_moi_eng@moe.edu.sg</u></a> 
-<br><a href="mailto:qu_yuting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qu_yuting@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -494,8 +492,7 @@ variant: tiptap
 <p>6 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Manjula Menon
-<br>Mdm Yvonne Tan</p>
+<p>Ms Melina Esther Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:manjula_naidu_ramaraj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>manjula_naidu_ramaraj@moe.edu.sg</u></a> 
