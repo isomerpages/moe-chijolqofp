@@ -469,7 +469,9 @@ variant: tiptap
 <br>Mrs Denise Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:regina_arulanandan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">regina_arulanandan@moe.edu.sg</a>
+<br><a href="mailto:low_qiong_xia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_qiong_xia@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -481,7 +483,9 @@ variant: tiptap
 <br>Ms Shoon Li Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wu_shemei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_shemei@moe.edu.sg</a>
+<br><a href="SHOOn_Li_Ling@moe.edu.sg" rel="noopener nofollow" target="_blank">SHOOn_Li_Ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
