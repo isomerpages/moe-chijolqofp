@@ -584,9 +584,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Mother Tongue Teachers</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -598,14 +597,8 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chen Meiqing</p>
 </td>
@@ -616,9 +609,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lai Pey Chyi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -627,9 +617,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Tze Ying</p>
 </td>
@@ -640,9 +627,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Yvonne Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -651,9 +635,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wu Shemei</p>
 </td>
@@ -664,9 +645,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Wong Seok Peng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -675,9 +653,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mrs Looi-Tan Lee Ling</p>
 </td>
@@ -688,9 +663,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Fayth Ong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -699,9 +671,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Li Ying</p>
 </td>
@@ -712,9 +681,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Zakiah Zainol</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -723,9 +689,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Malay Language</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Naelah Nor Othman</p>
 </td>
@@ -736,9 +699,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Iskandar Shah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -747,9 +707,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Tamil Language</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mrs Devanathan</p>
 </td>
@@ -760,9 +717,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tamil Language</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Renuka Thiyagarajan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -771,9 +725,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Tamil Language</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms E Vidtheya</p>
 </td>
@@ -785,17 +736,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Non-Form Teachers</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics/ Science</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Owen Lau</p>
 </td>
@@ -806,9 +753,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics/ Science</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Rebecca Loh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -817,9 +761,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics/ Science</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Melina Chua</p>
 </td>
@@ -830,9 +771,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Fayth Ong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -841,9 +779,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Li Ying</p>
 </td>
@@ -854,9 +789,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Angelina Chung</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -865,9 +797,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Sheila Rabot</p>
 </td>
@@ -878,9 +807,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Doris Loo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -889,9 +815,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mrs Janet Chua</p>
 </td>
@@ -902,9 +825,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Christina Yip</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -913,9 +833,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Valerie Chong</p>
 </td>
@@ -926,9 +843,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Muhammad Taufiq Mohd Shahlan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -938,7 +852,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Special Needs Officers</h4>
+<h4>Educational Support and Guidance </h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -983,7 +897,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Counsellor</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jill Lim</p>
