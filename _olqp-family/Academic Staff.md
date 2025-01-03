@@ -394,6 +394,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_li_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_li_may@moe.edu.sg</a>
+<br><a href="Nur_Hana_TAY@moe.edu.sg" rel="noopener nofollow" target="_blank">Nur_Hana_TAY@moe.edu.sg</a>
 </p>
 </td>
 </tr>
