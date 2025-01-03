@@ -136,8 +136,8 @@ variant: tiptap
 <p>2 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Michelle Goh
-<br>Mrs Tse-Lok Hsiu Lee</p>
+<p>Ms Zhu Keyu
+<br>Mrs Stephanie Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Michelle_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Michelle_goh@moe.edu.sg</u></a>
@@ -151,8 +151,8 @@ variant: tiptap
 <p>2 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lily Hoi
-<br>Ms Renuka Thiyagarajan</p>
+<p>Mdm Mahani Khamin
+<br>Ms Ng Jia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hoi_lei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoi_lei_ling@moe.edu.sg</a> 
@@ -165,8 +165,8 @@ variant: tiptap
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Gek Hooi
-<br>Mrs Vivian Quek</p>
+<p>Mr Martin Leong
+<br>Ms Lai Pey Chyi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:NG_Gek_Hooi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NG_Gek_Hooi@moe.edu.sg</a> 
@@ -179,8 +179,7 @@ variant: tiptap
 <p>2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Padmavathy
-<br>Ms Adeline Tan</p>
+<p>Mrs Evelyn Zhong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Padmavathy_SUBRAMANIAN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Padmavathy_SUBRAMANIAN@moe.edu.sg</a> 
