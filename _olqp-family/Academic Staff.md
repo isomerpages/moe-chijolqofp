@@ -433,13 +433,11 @@ variant: tiptap
 <p>5 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wu Shemei
-<br>Mr Iskandar Shah</p>
+<p>Mrs Regina Julian
+<br>Mrs Denise Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wu_shemei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wu_shemei@moe.edu.sg</u></a> 
-<br><a href="mailto:Iskandar_Shah_Abu_Bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Iskandar_Shah_Abu_Bakar@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -447,13 +445,11 @@ variant: tiptap
 <p>5 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alingalan Roy Calvin Arales
-<br>Mrs Clarissa Pang</p>
+<p>Mdm Wu Shemei
+<br>Ms Shoon Li Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alingalan_roy_calvin_arales@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alingalan_roy_calvin_arales@moe.edu.sg</a> 
-<br><a href="mailto:hum_xin_yi_clarissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hum_xin_yi_clarissa@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
