@@ -409,13 +409,11 @@ variant: tiptap
 <p>5 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Evelyn Zhong
-<br>Ms Es’tee Odelia Lim</p>
+<p>Ms Patricia Tan
+<br>Mrs Vivian Quek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_yu_ting_evelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_yu_ting_evelyn@moe.edu.sg</u></a> 
-<br><a href="estee_odelia_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>estee_odelia_lim@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
