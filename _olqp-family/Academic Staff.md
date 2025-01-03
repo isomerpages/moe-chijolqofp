@@ -528,13 +528,11 @@ variant: tiptap
 <p>6 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Naelah Nor
-<br>Mr Daniel Wong</p>
+<p>Mr Alingalan Roy Calvin Arales
+<br>Mrs Rebecca Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:naelah_nor_othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>naelah_nor_othman@moe.edu.sg</u></a> 
-<br><a href="mailto:wong_mun_onn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_mun_onn@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
