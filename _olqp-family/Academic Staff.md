@@ -397,15 +397,11 @@ variant: tiptap
 <p>5 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Brenda Seet
-<br>Ms Celine Teo
-<br>
-</p>
+<p>Mrs Christine Lee
+<br>Mdm Chen Meiqing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Seet_Shuen_Lyn_Brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Seet_Shuen_Lyn_Brenda@moe.edu.sg</u></a> 
-<br><a href="mailto:teo_hui_jing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_hui_jing@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
