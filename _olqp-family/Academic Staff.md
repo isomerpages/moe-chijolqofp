@@ -33,8 +33,8 @@ variant: tiptap
 <br>Ms Yeo Yan Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vijayalakshmi_devanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>vijayalakshmi_devanathan@moe.edu.sg</u></a>
-<br><a href="mailto:zhu_keyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_keyu@moe.edu.sg</a>
+<p><a href="mailto:Padmavathy_SUBRAMANIAN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Padmavathy_SUBRAMANIAN@moe.edu.sg</a>
+<br><a href="mailto:yeo_yan_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yan_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -47,7 +47,8 @@ variant: tiptap
 <br>Ms Lim Jing Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mahani_khamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mahani_khamin@moe.edu.sg</u></a> 
+<p><a href="mailto:hoi_lei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoi_lei_ling@moe.edu.sg</a>
+<br><a href="mailto:lim_jing_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jing_xian@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -61,8 +62,9 @@ variant: tiptap
 <br>Mrs Laura Lai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:celestine_kok_chu_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>celestine_kok_chu_wei@moe.edu.sg</u></a> 
-<br><a href="mailto:lai_pey_chyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lai_pey_chyi@moe.edu.sg</u></a>
+<p><a href="mailto:NG_Gek_Hooi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NG_Gek_Hooi@moe.edu.sg</a>
+</p>
+<p><a href="mailto:ho_wan_ghin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wan_ghin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
