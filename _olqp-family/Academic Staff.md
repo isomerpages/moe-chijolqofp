@@ -504,13 +504,11 @@ variant: tiptap
 <p>6 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Raihana Snin
-<br>Mdm Wu Qianfang</p>
+<p>Ms Wong Shu Xian
+<br>Mr Daniel Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:raihana_snin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>raihana_snin@moe.edu.sg</u></a> 
-<br><a href="mailto:wu_qian_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wu_qian_fang@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -519,12 +517,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tony Khoo
-<br>Mdm Chen Meiqing</p>
+<br>Mdm Daphne Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khoo_yong_seng_tony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>khoo_yong_seng_tony@moe.edu.sg</u></a> 
-<br><a href="mailto:chen_meiqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chen_meiqing@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
