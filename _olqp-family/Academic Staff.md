@@ -421,13 +421,11 @@ variant: tiptap
 <p>5 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharon Chua
-<br>Ms Wong Shuxian</p>
+<p>Mrs Manjula Menon
+<br>Ms Yeo Gek Yong Rena</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_ai_gek_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_ai_gek_sharon@moe.edu.sg</u></a> 
-<br><a href="mailto:wong_shu_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_shu_xian@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
