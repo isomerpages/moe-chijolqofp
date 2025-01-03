@@ -427,7 +427,9 @@ variant: tiptap
 <br>Mdm Chen Meiqing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:christine_wong_moi_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christine_wong_moi_eng@moe.edu.sg</a>
+<br><a href="mailto:chen_meiqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_meiqing@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -439,7 +441,9 @@ variant: tiptap
 <br>Mrs Vivian Quek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_hwee_hoon_patricia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hwee_hoon_patricia@moe.edu.sg</a>
+<br><a href="mailto:teh_xiuwen_vivian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_xiuwen_vivian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -451,7 +455,9 @@ variant: tiptap
 <br>Ms Yeo Gek Yong Rena</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:manjula_naidu_ramaraj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">manjula_naidu_ramaraj@moe.edu.sg</a>
+<br><a href="yeo_gek_yong_rena@moe.edu.sg" rel="noopener nofollow" target="_blank">yeo_gek_yong_rena@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
