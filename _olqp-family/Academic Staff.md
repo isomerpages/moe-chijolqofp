@@ -366,7 +366,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lye_aye_ju_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye_aye_ju_wendy@moe.edu.sg</a>
-<br>
+<br><a href="mailto:lye_aye_ju_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye_aye_ju_wendy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -379,7 +379,7 @@ variant: tiptap
 <br>Ms Tan Lily</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><a href="mailto:tan_yih_chyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yih_chyn@moe.edu.sg</a>
 <br><a href="mailto:tan_lily_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_lily_a@moe.edu.sg</u></a>
 </p>
 </td>
@@ -393,7 +393,8 @@ variant: tiptap
 <br>Ms Nur Hana Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:foo_li_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_li_may@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
