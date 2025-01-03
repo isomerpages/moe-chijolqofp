@@ -63,8 +63,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:NG_Gek_Hooi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NG_Gek_Hooi@moe.edu.sg</a>
-</p>
-<p><a href="mailto:ho_wan_ghin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wan_ghin@moe.edu.sg</a>
+<br><a href="mailto:ho_wan_ghin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wan_ghin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -77,8 +76,9 @@ variant: tiptap
 <p>Mrs Tse-Loh Hsiu Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pek_wei_meow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pek_wei_meow@moe.edu.sg</u></a> 
-<br><a href="mailto:tan_hui_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_hui_ting@moe.edu.sg</u></a>
+<p><a href="mailto:qu_yuting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qu_yuting@moe.edu.sg</a>
+</p>
+<p><a href="mailto:tse_nan_shing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tse_nan_shing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -91,8 +91,8 @@ variant: tiptap
 <br>Ms Lim Su Bing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_poh_gek_delphine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_poh_gek_delphine@moe.edu.sg</u></a> 
-<br><a href="mailto:lim_tze_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_tze_ying@moe.edu.sg</u></a>
+<p><a href="mailto:Michelle_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Michelle_goh@moe.edu.sg</a>
+<br><a href="mailto:Lim_Su_Bing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Su_Bing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -105,9 +105,8 @@ variant: tiptap
 <br>Mrs Rose Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kuan_poey_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kuan_poey_han@moe.edu.sg</u></a>
-</p>
-<p><a href="koh_li_ping_daphne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_li_ping_daphne@moe.edu.sg</a>
+<p><a href="mailto:zakiah_zainol_abidin_mar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zakiah_zainol_abidin_mar@moe.edu.sg</a>
+<br><a href="mailto:lam_choy_yoke_rose@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_choy_yoke_rose@moe.edu.sg</a>
 </p>
 </td>
 </tr>
