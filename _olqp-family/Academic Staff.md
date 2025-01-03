@@ -277,13 +277,11 @@ variant: tiptap
 <p>3 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng-Foo Li May
-<br>Ms Yeo Yan Yan</p>
+<p>Mr Teo Beng Wee Kenneth
+<br>Mrs Janet Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_li_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>foo_li_may@moe.edu.sg</u></a> 
-<br><a href="mailto:yeo_yan_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yeo_yan_yan@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -312,8 +310,7 @@ variant: tiptap
 <p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fong Yuen Han
-<br>Mdm Wong Seok Peng</p>
+<p>Mrs Melissa Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fong_yuen_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fong_yuen_han@moe.edu.sg</u></a> 
