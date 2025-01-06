@@ -196,6 +196,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_tze_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tze_ying@moe.edu.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">leong_whye_ting_B@moe.edu.sg</a>
 <br>
 </p>
 </td>
@@ -829,7 +830,9 @@ variant: tiptap
 <p>Mdm Winnie Lee Oi Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">Winnie_Lee_Oi_Lin@moe.edu</a>
+<a href="mailto:Winnie_Lee_Oi_Lin@moe.edu.sgsg" rel="noopener noreferrer nofollow" target="_blank">.sgsg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -837,7 +840,7 @@ variant: tiptap
 <p>Ms Sheila Rabot</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:N_B_Sheila@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">N_B_Sheila@moe.edu.sg</a>
+<p><a href="sheila_anne_ rabot@moe.edu.sg" rel="noopener nofollow" target="_blank">sheila_anne_ rabot@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -864,7 +867,7 @@ variant: tiptap
 <p>Ms Pavri Goritti-Ann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:PAVRI_GORITTIANN_C@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">PAVRI_GORITTIANN_C@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Pavri_Gorittiann_B@moe.edu.sg</a>
 </p>
 </td>
 </tr>
