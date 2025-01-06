@@ -840,7 +840,7 @@ variant: tiptap
 <p>Ms Sheila Rabot</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:N_B_Sheila@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">N_B_Sheila@moe.edu.sg</a>
+<p><a href="sheila_anne_ rabot@moe.edu.sg" rel="noopener nofollow" target="_blank">sheila_anne_ rabot@moe.edu.sg</a>
 </p>
 </td>
 </tr>
