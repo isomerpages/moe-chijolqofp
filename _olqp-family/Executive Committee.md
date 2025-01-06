@@ -113,10 +113,10 @@ variant: tiptap
 <p>CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Celine Teo Hui Jing</p>
+<p>Ms Ong Si Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_hui_jing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hui_jing@moe.edu.sg</a>
+<p><a href="mailto:ong_si_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_han@schools.gov.sg</a>
 </p>
 </td>
 </tr>
