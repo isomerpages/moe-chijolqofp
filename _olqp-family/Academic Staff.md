@@ -785,7 +785,7 @@ variant: tiptap
 <p>Mdm She Meilan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:SIEW_JIN_ER_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">SIEW_JIN_ER_A@moe.edu.sg</a>
+<p><a href="mailto:she_meilan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">she_meilan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
