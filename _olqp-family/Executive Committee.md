@@ -134,7 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P1, P2 ,P6)</p>
+<p>Year Head (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kelly Ng-Tan</p>
@@ -146,13 +146,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P3, P4, P5)</p>
+<p>Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tinawati Ariffin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tinawati_ariffin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tinawati_ariffin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Upper Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Caroline Manonmani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:caroline_manonmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">caroline_manonmani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
