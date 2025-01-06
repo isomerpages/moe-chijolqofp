@@ -72,8 +72,8 @@ variant: tiptap
 <p>1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Qu Yuting</p>
-<p>Mrs Tse-Loh Hsiu Lee</p>
+<p>Ms Qu Yuting
+<br>Mrs Tse-Loh Hsiu Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:qu_yuting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qu_yuting@moe.edu.sg</a>
