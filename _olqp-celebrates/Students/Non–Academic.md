@@ -736,6 +736,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Young Playwright</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 entries shortlisted</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
