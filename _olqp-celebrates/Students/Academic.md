@@ -40,9 +40,7 @@ in Online Friendlies</p>
 <h5>2020</h5>
 <p>Gold Award - 2020 Moo-O Reading Awards</p>
 <h4>Science Department</h4>
-<p><strong>2021</strong>
-</p>
-<p><strong>Singapore Science Buskers 2021</strong>
+<p><strong>2024</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -51,39 +49,48 @@ in Online Friendlies</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Judges Award</p>
+<p>Raffles Science Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shaheera Binti Mohamad Ameen</p>
+<p>1 Gold Award</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Judges Award</p>
+<p>i-STEM Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tham Jing Lin Gisele</p>
+<p>2 Gold, 2 Silver, 6 Bronze</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Judges Award</p>
+<p>Singapore Primary Science Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Suu Myo Wai</p>
+<p>1 Gold, 2 Silver, 3 Bronze, 9 Merits</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Green Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vanda Miss Joaquim Sustained Achievement Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Green Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Environment Achievement Award</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Junior Science Whiz Challenge</strong>
 <br>Top 24th&nbsp;position – Chua Ya Ting</p>
 <p><strong>Singapore Science Olympiad</strong>
