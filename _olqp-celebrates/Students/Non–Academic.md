@@ -28,10 +28,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Netball National Championships Senior Division (League 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Netball National Championships Junior Division (Tier 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Netball Tiered Competition Junior Division Girls (NSG)</p>
+<p>NSG Netball National Championships Junior Division (Tier 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Champion</p>
