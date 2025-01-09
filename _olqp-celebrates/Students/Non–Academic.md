@@ -28,10 +28,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Netball National Championships Senior Division (League 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Netball National Championships Junior Division (Tier 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Netball Tiered Competition Junior Division Girls (NSG)</p>
+<p>NSG Netball National Championships Junior Division (Tier 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Champion</p>
@@ -93,6 +115,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Softball National Championships Senior Division (League 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Softball National Championships Junior Division (League 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,7 +151,7 @@ variant: tiptap
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Softball Senior Division</p>
+<p>NSG Softball National Championships Senior Division</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Champion</p>
@@ -158,13 +202,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nationa School Games</p>
+<p>NSG Rhythmic Gymnastics Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Bronze (Rope Level 2) 3 Achievement Pin (Ball Level 2)</p>
+<p>Level 2 Individual – 21st position out of 87 participants
+<br>
+</p>
+<p>Level 3 Individual – 15th position out of 66 participants
+<br>
+</p>
+<p>Stage 1 Individual – 5th out of 45 participants (Bronze medal)</p>
 </td>
 </tr>
 <tr>
@@ -172,11 +222,10 @@ variant: tiptap
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rhythmic Gymnastics</p>
+<p>NSG Rhythmic Gymnastics Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Bronze
-<br>3 Achievement Pin</p>
+<p>1 Bronze (Rope Level 2) 3 Achievement Pin (Ball Level 2)</p>
 </td>
 </tr>
 <tr>
@@ -211,6 +260,17 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Placing</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -268,6 +328,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -322,6 +393,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -355,6 +437,41 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4>Guitar Ensemble</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competitions</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Placing</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Art Club</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -373,6 +490,17 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Placing</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Category A - Certificate of Recognition</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -419,6 +547,51 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Placing</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019 - 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Green Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vanda Miss Joaquim
+<br>Sustained Achievement Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Green Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Environmental Project (Primary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SembWaste Recycling League</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Green Living Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -563,6 +736,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Young Playwright</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 entries shortlisted</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -621,16 +805,57 @@ Club)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner’s Badge Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Recipients</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Thinking Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold award for “WTD TikTok’competition”.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 3 Bronze awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chief Commissioner’s Badge Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Xyra Khawaja (6 Faith)
-<br>Reshma d/o Ramesh (6Joy)
-<br>Ang Suen Neng (6 Joy)</p>
+<p>3 Recipients</p>
 </td>
 </tr>
 <tr>
