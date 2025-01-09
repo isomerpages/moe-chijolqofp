@@ -115,6 +115,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Softball National Championships Senior Division (League 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Softball National Championships Junior Division (League 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +151,7 @@ variant: tiptap
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Softball Senior Division</p>
+<p>NSG Softball National Championships Senior Division</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Champion</p>
