@@ -202,13 +202,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nationa School Games</p>
+<p>NSG Rhythmic Gymnastics Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Bronze (Rope Level 2) 3 Achievement Pin (Ball Level 2)</p>
+<p>Level 2 Individual – 21st position out of 87 participants
+<br>
+</p>
+<p>Level 3 Individual – 15th position out of 66 participants
+<br>
+</p>
+<p>Stage 1 Individual – 5th out of 45 participants (Bronze medal)</p>
 </td>
 </tr>
 <tr>
@@ -216,11 +222,10 @@ variant: tiptap
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rhythmic Gymnastics</p>
+<p>NSG Rhythmic Gymnastics Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Bronze
-<br>3 Achievement Pin</p>
+<p>1 Bronze (Rope Level 2) 3 Achievement Pin (Ball Level 2)</p>
 </td>
 </tr>
 <tr>
