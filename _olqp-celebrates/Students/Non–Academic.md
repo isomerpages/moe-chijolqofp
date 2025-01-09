@@ -437,6 +437,41 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4>Guitar Ensemble</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competitions</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Placing</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Art Club</h4>
 <table style="minWidth: 75px">
 <colgroup>
