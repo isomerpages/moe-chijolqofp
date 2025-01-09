@@ -805,16 +805,57 @@ Club)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner’s Badge Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Recipients</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Thinking Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold award for “WTD TikTok’competition”.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 3 Bronze awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chief Commissioner’s Badge Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Xyra Khawaja (6 Faith)
-<br>Reshma d/o Ramesh (6Joy)
-<br>Ang Suen Neng (6 Joy)</p>
+<p>3 Recipients</p>
 </td>
 </tr>
 <tr>
