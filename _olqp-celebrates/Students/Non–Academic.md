@@ -550,6 +550,51 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2019 - 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Green Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vanda Miss Joaquim
+<br>Sustained Achievement Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Green Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Environmental Project (Primary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SembWaste Recycling League</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Green Living Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022
 <br>2021
 <br>2020
