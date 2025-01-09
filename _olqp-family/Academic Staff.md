@@ -656,6 +656,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Yeo Gek Yong Rena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_gek_yong_rena@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_gek_yong_rena@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Jing Xian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_jing_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jing_xian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Jia Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jia_hui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Si Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_si_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_han@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Zakiah Zainol</p>
 </td>
 <td rowspan="1" colspan="1">
