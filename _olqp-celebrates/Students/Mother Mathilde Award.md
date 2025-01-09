@@ -51,7 +51,7 @@ Mathilde Award.</p>
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Foo Jing Xuan, Charmaine Jean</p>
+<p>Foo Jing Xuan, Charmaine</p>
 </td>
 </tr>
 <tr>
