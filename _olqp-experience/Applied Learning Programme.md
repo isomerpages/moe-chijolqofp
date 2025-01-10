@@ -66,12 +66,18 @@ and inclusivity, cultivating both empathy and inventive thinking.</p>
 global issues but also develop a lifelong commitment to sustainability
 and innovation.</p>
 <h4>Makerspace@OLQP</h4>
+<p>Maker Education at CHIJ OLQP provides students with opportunities to collaborate
+and solve problems through hands-on exploration and free play. Makerspace@OLQP
+offers a dedicated learning space where students can engage in the design
+thinking process, brainstorming ideas, creating prototypes, and testing
+their solutions during recess. These exciting activities spark the joy
+of learning and inspire students to think critically and creatively to
+solve problems in innovative ways.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/makerspace.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_26_at_15_04_03.jpg">
 </div>
-<p>Maker Education in CHIJ OLQP creates opportunities for our students to
-come together and solve problems through free play. Makerspace@OLQP provides
-a learning space for our students ideate, tinker with digital or physical
-fabrication tools to construct objects during their free time at recess.
-The exciting activities promote joy of learning and our students are encouraged
-to think out of the box to solve problems creatively.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_26_at_15_04_03__1_.jpg">
+</div>
+<p></p>
