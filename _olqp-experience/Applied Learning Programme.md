@@ -80,4 +80,20 @@ solve problems in innovative ways.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_26_at_15_04_03__1_.jpg">
 </div>
+<p>Primary 3 students explored the exciting world of 3D printing, applying
+their newly acquired skills to create intricate shapes. These designs were
+used to decorate table organizers they crafted from recycled materials,
+blending creativity with sustainability.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_26_at_15_05_00.jpg">
+</div>
+<p>Primary 4 students applied their Math and Engineering skills to design
+intricate shapes for creative playground models using Strawbees.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_26_at_15_04_02.jpg">
+</div>
+<p>Primary 5 students designed their dream houses using LED lights and conductive
+tapes, fostering creativity, critical thinking, and collaboration.</p>
 <p></p>
