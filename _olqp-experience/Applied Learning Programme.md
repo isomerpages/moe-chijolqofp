@@ -62,6 +62,9 @@ and inclusivity, cultivating both empathy and inventive thinking.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241106_153404.jpg">
 </div>
+<p>By participating in these programmes, students not only tackle pressing
+global issues but also develop a lifelong commitment to sustainability
+and innovation.</p>
 <h4>Makerspace@OLQP</h4>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/makerspace.jpg">
