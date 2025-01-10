@@ -35,6 +35,33 @@ food sustainability challenges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240515_114805.jpg">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p><u>Primary 4: STEM in Energy Sustainability</u>
+<br>Students explore energy-related issues and reimagine learning spaces to
+make them more energy-efficient, combining innovation with practical applications
+for sustainability.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240516_WA0016.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><u>Primary 5: Sustainable Cities and Communities</u>
+<br>Students develop empathy by understanding the challenges faced by people
+with physical disabilities. They design prototypes aimed at improving accessibility
+and inclusivity, cultivating both empathy and inventive thinking.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/27.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241106_153404.jpg">
+</div>
 <h4>Makerspace@OLQP</h4>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/makerspace.jpg">
