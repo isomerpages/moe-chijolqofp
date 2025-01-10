@@ -2,25 +2,98 @@
 title: Applied Learning Programme
 permalink: /olqp-experience/alp/
 description: ""
+variant: tiptap
 ---
-### Applied Learning Programme
-
-The Applied Learning Programme (ALP) in CHIJ OLQP aims to promote authentic and practice-oriented learning experiences. It seeks to foster in our students the ability to integrate interdisciplinary knowledge and exhibit varied levels of metacognition. Programmes such as Makerspace and STEM in Sustainability equip our students with the fundamentals of computational thinking, inventive thinking and critical thinking skills.
-
-#### STEM in Sustainability (Coding Curriculum)
-
-Primary 3 to 6 students learn basic programming concepts through the use of programming software such as Scratch, Makey Makey and CoderZ. They apply the codes learnt to devise coding-based solutions to solve real world problems. Some examples of projects include:
-
-  
-
-*   Creating a humidity sensor and simple self-watering planter to optimise plant growth. In this project, our students learn to find innovative ways to solve food sustainability problems.
-
-*   Building a prototype of a street lamp that only lights up the path and does not disturb the wildlife living in proximity. To achieve this, our students learn to use paper coding to code for sustainable use of lighting by solar panels.
-
-<img src="/images/alp100.png" style="width:100%">
-
-#### Makerspace@OLQP
-
-<img src="/images/makerspace.jpg" style="width:100%">
-
-Maker Education in CHIJ OLQP creates opportunities for our students to come together and solve problems through free play. Makerspace@OLQP provides a learning space for our students ideate, tinker with digital or physical fabrication tools to construct objects during their free time at recess. The exciting activities promote joy of learning and our students are encouraged to think out of the box to solve problems creatively.
+<h3>Applied Learning Programme</h3>
+<p><strong>Applied Learning Programme (ALP) at CHIJ Our Lady Queen of Peace</strong>
+</p>
+<p>The Applied Learning Programme (ALP) at CHIJ OLQP offers students authentic
+and hands-on learning experiences that integrate interdisciplinary knowledge
+and develop critical metacognitive skills. Through initiatives like the
+STEM in Sustainability programme and Makerspace, students build essential
+competencies in computational, inventive, and critical thinking.</p>
+<h4>STEM in Sustainability</h4>
+<p>Aligned with the United Nations Sustainable Development Goals and Singapore’s
+Green Plan, <em>STEM in Sustainability</em> engages Primary 3 to 5 students
+in solving real-world challenges. By applying programming concepts through
+tools like Micro:bit, students explore innovative solutions while gaining
+practical skills.</p>
+<p><strong>Programme Highlights:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><u>Primary 3: STEM in Food Sustainability</u>
+<br>Students design a humidity sensor and a self-watering planter to optimize
+plant growth. This project fosters creative problem-solving skills in addressing
+food sustainability challenges.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240515_092246.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240515_114805.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><u>Primary 4: STEM in Energy Sustainability</u>
+<br>Students explore energy-related issues and reimagine learning spaces to
+make them more energy-efficient, combining innovation with practical applications
+for sustainability.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240516_WA0016.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><u>Primary 5: Sustainable Cities and Communities</u>
+<br>Students develop empathy by understanding the challenges faced by people
+with physical disabilities. They design prototypes aimed at improving accessibility
+and inclusivity, cultivating both empathy and inventive thinking.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/27.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241106_153404.jpg">
+</div>
+<p>By participating in these programmes, students not only tackle pressing
+global issues but also develop a lifelong commitment to sustainability
+and innovation.</p>
+<h4>Makerspace@OLQP</h4>
+<p>Maker Education at CHIJ OLQP provides students with opportunities to collaborate
+and solve problems through hands-on exploration and free play. Makerspace@OLQP
+offers a dedicated learning space where students can engage in the design
+thinking process, brainstorming ideas, creating prototypes, and testing
+their solutions during recess. These exciting activities spark the joy
+of learning and inspire students to think critically and creatively to
+solve problems in innovative ways.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_26_at_15_04_03.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_26_at_15_04_03__1_.jpg">
+</div>
+<p>Primary 3 students explored the exciting world of 3D printing, applying
+their newly acquired skills to create intricate shapes. These designs were
+used to decorate table organizers they crafted from recycled materials,
+blending creativity with sustainability.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_26_at_15_05_00.jpg">
+</div>
+<p>Primary 4 students applied their Math and Engineering skills to design
+intricate shapes for creative playground models using Strawbees.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_26_at_15_04_02.jpg">
+</div>
+<p>Primary 5 students designed their dream houses using LED lights and conductive
+tapes, fostering creativity, critical thinking, and collaboration.</p>
+<p></p>
