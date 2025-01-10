@@ -29,7 +29,11 @@ food sustainability challenges.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/alp100.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240515_092246.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240515_114805.jpg">
 </div>
 <h4>Makerspace@OLQP</h4>
 <div class="isomer-image-wrapper">
