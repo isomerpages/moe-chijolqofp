@@ -12,22 +12,20 @@ and hands-on learning experiences that integrate interdisciplinary knowledge
 and develop critical metacognitive skills. Through initiatives like the
 STEM in Sustainability programme and Makerspace, students build essential
 competencies in computational, inventive, and critical thinking.</p>
-<h4>STEM in Sustainability (Coding Curriculum)</h4>
-<p>Primary 3 to 6 students learn basic programming concepts through the use
-of programming software such as Scratch, Makey Makey and CoderZ. They apply
-the codes learnt to devise coding-based solutions to solve real world problems.
-Some examples of projects include:</p>
-<ul>
+<h4>STEM in Sustainability</h4>
+<p>Aligned with the United Nations Sustainable Development Goals and Singapore’s
+Green Plan, <em>STEM in Sustainability</em> engages Primary 3 to 5 students
+in solving real-world challenges. By applying programming concepts through
+tools like Micro:bit, students explore innovative solutions while gaining
+practical skills.</p>
+<p><strong>Programme Highlights:</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Creating a humidity sensor and simple self-watering planter to optimise
-plant growth. In this project, our students learn to find innovative ways
-to solve food sustainability problems.</p>
-</li>
-<li>
-<p>Building a prototype of a street lamp that only lights up the path and
-does not disturb the wildlife living in proximity. To achieve this, our
-students learn to use paper coding to code for sustainable use of lighting
-by solar panels.</p>
+<p><u>Primary 3: STEM in Food Sustainability</u>
+<br>Students design a humidity sensor and a self-watering planter to optimize
+plant growth. This project fosters creative problem-solving skills in addressing
+food sustainability challenges.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
