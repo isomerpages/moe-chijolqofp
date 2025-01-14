@@ -45,14 +45,19 @@ Under this tier, they lead by example and serve as an inspiration to all.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/art_01.jpg">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/art_02.jpg">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/art_03.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_04.jpg">
 </div>
 <p></p>
