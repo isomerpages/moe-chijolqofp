@@ -33,8 +33,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Phyllis Pham</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:phyllis_pham@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phyllis_pham@schools.gov.sg</a>
+<td rowspan="3" colspan="1">
+<p><a href="mailto:chijolqp@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijolqp@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -45,10 +45,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Adeline Kee</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Adeline_CHONG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Adeline_CHONG@schools.gov.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -56,10 +52,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Doris Sng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sng_poh_geok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sng_poh_geok@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 </tbody>
