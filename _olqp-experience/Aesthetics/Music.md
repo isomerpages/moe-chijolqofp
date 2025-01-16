@@ -42,22 +42,21 @@ Platforms such as our ‘Fantastic Fridays’ Pre-assembly programme, Arts
 in Us Recess Performances and various internal and external events provide
 opportunities for our students to showcase their talents through performances
 and showmanship. These students will continue to spread the joy of learning
-and inspire others with their love for music and the arts</p>
+and inspire others with their love for music.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music__4_.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_01.jpg">
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_03.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music__1_.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_04.jpg">
