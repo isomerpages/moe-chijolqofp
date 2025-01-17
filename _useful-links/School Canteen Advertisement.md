@@ -57,28 +57,41 @@ exhaustive and you may suggest other items , subject to school’s approval)</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Application Procedure</strong></h4>
+<p><strong>Application Procedure</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
 <p>Download and complete the application form. You may also request for a
 hardcopy from the School’s General Office.
 <br><a href="/files/school_canteen_form.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+<br>
 </p>
+</li>
+<li>
 <p>Attached the following documents together with the application form:
 <br>Photocopy of the NRIC (front and back)
 <br>List of proposed menu and pricing for all items
 <br>Photocopy of relevant certificates such as Basic Food Hygiene Course,
-etc</p>
+etc
+<br>
+</p>
+</li>
+<li>
 <p>Submit the completed application form and documents by closing date via
 email OR to the School’s General Office.</p>
+</li>
+</ol>
 <p>Address: 4 Chestnut Drive &nbsp;Singapore 679287
 <br>Contact No: 67691529
-<br>Email:&nbsp;<a href="mailto:chijolqp@moe.edu.sg" rel="noopener nofollow" target="_blank">chijolqp@moe.edu.sg </a>
+<br>Email:&nbsp;<a href="mailto:chijolqp@moe.edu.sg" rel="noopener nofollow" target="_blank">chijolqp@moe.edu.sg</a>
 <br>Contact Person: Mdm Heng Huay Lee</p>
-<h4><strong>How to get there?</strong></h4>
-<p>Nearest MRT: Downtown Line - Cashew (DT2) / Hillview (DT3)
+<p><strong>How to get there?</strong>
+<br>Nearest MRT: Downtown Line - Cashew (DT2) / Hillview (DT3)
 <br>Bus number: 67 / 75 / 170 / 176 / 178 / 184 / 961 / 963 / 970 (bus stop
-in front of St Joseph Church) <a href="https://maps.app.goo.gl/KWZgX8SGKetpypCb9" rel="noopener nofollow" target="_blank">Map</a>
+in front of St Joseph Church) (<a href="https://maps.app.goo.gl/F1bkAmN1hLJGuESK6" rel="noopener nofollow" target="_blank">map</a>)
+<br>
+<br><strong>Interest applicants must meet the following criteria:</strong>
 </p>
-<h4><strong>Interest applicants must meet the following criteria:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
@@ -100,7 +113,8 @@ Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools
 <p>Healthy and fit to operate the stall.</p>
 </li>
 </ul>
-<h4><strong>Applicants should preferably fulfill the following criteria:</strong></h4>
+<p><strong>Applicants should preferably fulfill the following criteria:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Successful applicant and stall assistant(s) must possess the WSQ Basic
@@ -114,5 +128,5 @@ Food Hygiene Certificate.</p>
 Singapore Food Agency (SFA).</p>
 </li>
 </ul>
-<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
+<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense</em>
 </p>
