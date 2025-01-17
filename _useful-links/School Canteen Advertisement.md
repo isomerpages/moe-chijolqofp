@@ -71,7 +71,7 @@ etc</p>
 email OR to the School’s General Office.</p>
 <p>Address: 4 Chestnut Drive &nbsp;Singapore 679287
 <br>Contact No: 67691529
-<br>Email:&nbsp;chijolqp@moe.edu.sg
+<br>Email:&nbsp;<a href="mailto:chijolqp@moe.edu.sg" rel="noopener nofollow" target="_blank">chijolqp@moe.edu.sg </a>
 <br>Contact Person: Mdm Heng Huay Lee</p>
 <h4><strong>How to get there?</strong></h4>
 <p>Nearest MRT: Downtown Line - Cashew (DT2) / Hillview (DT3)
