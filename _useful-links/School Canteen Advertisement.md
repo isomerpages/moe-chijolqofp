@@ -61,7 +61,8 @@ exhaustive and you may suggest other items , subject to school’s approval)</p>
 </p>
 <p>Download and complete the application form. You may also request for a
 hardcopy from the School’s General Office.
-<br>Application Form</p>
+<br><a href="/files/school_canteen_form.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+</p>
 <p>Attached the following documents together with the application form:
 <br>Photocopy of the NRIC (front and back)
 <br>List of proposed menu and pricing for all items
@@ -78,7 +79,6 @@ email OR to the School’s General Office.</p>
 <p>Nearest MRT: Downtown Line - Cashew (DT2) / Hillview (DT3)
 <br>Bus number: 67 / 75 / 170 / 176 / 178 / 184 / 961 / 963 / 970 (bus stop
 in front of St Joseph Church)
-<br>
 <br>
 </p>
 <p><strong>Interest applicants must meet the following criteria:</strong>
