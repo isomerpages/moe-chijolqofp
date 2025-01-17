@@ -76,7 +76,8 @@ email OR to the School’s General Office.</p>
 <h4><strong>How to get there?</strong></h4>
 <p>Nearest MRT: Downtown Line - Cashew (DT2) / Hillview (DT3)
 <br>Bus number: 67 / 75 / 170 / 176 / 178 / 184 / 961 / 963 / 970 (bus stop
-in front of St Joseph Church)
+in front of St Joseph Church) <a href="https://maps.app.goo.gl/KWZgX8SGKetpypCb9" rel="noopener nofollow" target="_blank">Map</a>
+<br>
 <br>
 </p>
 <h4><strong>Interest applicants must meet the following criteria:</strong></h4>
