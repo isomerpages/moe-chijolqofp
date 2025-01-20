@@ -5,13 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3>Principal's Message</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ms_Pham_edit_01.jpg">
-</div>
-<p>
-<br>
-</p>
 <p>Welcome to Our Lady Queen of Peace (OLQP) website. We hope you will enjoy
 learning more about how our IJ dream is lived out through the various programmes
 and student experiences.</p>
