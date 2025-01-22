@@ -891,15 +891,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pamela Gordon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Gordon_Pamela_Caroline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Gordon_Pamela_Caroline@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Pavri Goritti-Ann</p>
 </td>
 <td rowspan="1" colspan="1">
