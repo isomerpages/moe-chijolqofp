@@ -907,6 +907,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Amiruddin Abd Hazis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Muhammad_Amiruddin_Abd_Hazis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Amiruddin_Abd_Hazis@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Educational Support and Guidance</h4>
