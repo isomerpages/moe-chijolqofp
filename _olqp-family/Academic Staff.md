@@ -891,28 +891,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pamela Gordon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Gordon_Pamela_Caroline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Gordon_Pamela_Caroline@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Pavri Goritti-Ann</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Pavri_Gorittiann_B@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Amiruddin Abd Hazis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Muhammad_Amiruddin_Abd_Hazis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Amiruddin_Abd_Hazis@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -958,6 +940,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_hui_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hui_yen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Amiruddin Abd Hazis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Muhammad_Amiruddin_Abd_Hazis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Amiruddin_Abd_Hazis@moe.edu.sg</a>
 </p>
 </td>
 </tr>

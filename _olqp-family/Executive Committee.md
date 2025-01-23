@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCE</p>
+<p>Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Si Han</p>
@@ -198,6 +198,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_adeline@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character and Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shoon Li Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Shoon_Li_Ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
