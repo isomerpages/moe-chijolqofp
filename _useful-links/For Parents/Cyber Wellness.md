@@ -21,7 +21,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://csa.gov.sg/programmes/sg-cyber-safe-students" rel="noopener noreferrer nofollow" target="_blank">Cyber Security Agency</a>
+<p><a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/sg-cyber-safe-students/reading-and-printable-materials/cyber-safety-interactive-handbook---activity-books" rel="noopener noreferrer nofollow" target="_blank">Cyber Security Agency</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Guidance_on_Screen_Use_in_Children__18_Jan__clean.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance on Screen Use in Children by MOH (Jan 2025)</a>
 </p>
 </li>
 </ul>
