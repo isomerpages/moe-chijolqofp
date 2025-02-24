@@ -894,7 +894,7 @@ variant: tiptap
 <p>Ms Pavri Goritti-Ann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Pavri_Gorittiann_B@moe.edu.sg</a>
+<p><a href="mailto:PAVRI_GORITTIANN_C@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PAVRI_GORITTIANN_C@moe.gov.sg</a>
 </p>
 </td>
 </tr>
