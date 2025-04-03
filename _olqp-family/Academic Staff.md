@@ -351,7 +351,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Prasad_Palamani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Prasad_Palamani@moe.edu.sg</a>
-<br><a href="mailto:ong_si_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_han@schools.gov.sg</a>
+<br><a href="mailto:ong_si_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_han@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -366,7 +366,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Cheryl_Loh_ Ju_Ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Cheryl_Loh_ Ju_Ling@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">loh_ju_ling_cheryl@moe.edu.sg</a>
 <br><a href="mailto:lye_aye_ju_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye_aye_ju_wendy@moe.edu.sg</a>
 </p>
 </td>
