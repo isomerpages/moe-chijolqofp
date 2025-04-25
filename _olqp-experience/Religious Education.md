@@ -15,7 +15,7 @@ Religious &amp; Moral Formation efforts are made through our Curriculum,
 Environment and People.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cw_Slide2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/religious_education_update.jpg">
 </div>
 <p>Our Religious Education comprises of Monthly Masses, Weekly Prayer sessions
 and Liturgical activities.</p>
