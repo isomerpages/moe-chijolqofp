@@ -3,8 +3,9 @@ title: School Based Student Care Centre
 permalink: /useful-links/For-Parents/school-based-student-care-centre/
 description: ""
 third_nav_title: For Parents
+variant: tiptap
 ---
-### School-based Student Care Centre (SCC)
-
-Singapore Edusmart Learning Hub Pte Ltd<Br>
-SCC Tel : 67600360
+<h3>School-based Student Care Centre (SCC)</h3>
+<p>Commit Learning Schoolhouse Pte Ltd
+<br>Contact Us: <a rel="noopener noreferrer nofollow" target="_blank">feedback@commitlearning.com.sg</a>
+</p>
