@@ -866,8 +866,7 @@ variant: tiptap
 <p>Mdm Winnie Lee Oi Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">Winnie_Lee_Oi_Lin@moe.edu</a>
-<a href="mailto:Winnie_Lee_Oi_Lin@moe.edu.sgsg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:winnie_lee_oi_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">winnie_lee_oi_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
