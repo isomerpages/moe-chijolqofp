@@ -668,7 +668,7 @@ variant: tiptap
 <p>Ms Lim Jing Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_jing_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jing_xian@schools.gov.sg</a>
+<p><a href="mailto:lim_jing_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jing_xian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
