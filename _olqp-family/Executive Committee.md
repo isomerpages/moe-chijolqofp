@@ -116,7 +116,7 @@ variant: tiptap
 <p>Ms Ong Si Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_si_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_han@schools.gov.sg</a>
+<p><a href="mailto:ong_shi_han_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_han_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -313,18 +313,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vijayalakshmi_devanathan%20@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vijayalakshmi_devanathan @moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Learning Needs (Educational Support)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Delphine Minjoot</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_poh_gek_delphine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_poh_gek_delphine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
