@@ -316,18 +316,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Learning Needs (Educational Support)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Delphine Minjoot</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_poh_gek_delphine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_poh_gek_delphine@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
