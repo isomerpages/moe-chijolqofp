@@ -920,7 +920,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
+<p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Maisarah</p>
@@ -932,7 +932,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
+<p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Charmaine Choo</p>
@@ -944,13 +944,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
+<p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Amiruddin Abd Hazis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Muhammad_Amiruddin_Abd_Hazis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Amiruddin_Abd_Hazis@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kacey Chern</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chern_yeh_chi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
