@@ -910,5 +910,27 @@ Club)</p>
 </table>
 <p></p>
 <h3>Student Leadership</h3>
+<p>2024: 34 Primary 6 student leaders awarded The Butterfly Award.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NYAA_2024.png">
+</div>
+<p></p>
+<p>2025: 39 Primary 6 student leaders awarded The Butterfly Award.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NYAA_2025.png">
+</div>
+<p></p>
+<p>2025: Leader in Me International Speech Contest 2025</p>
+<p>8 of our Primary 6 student leaders were selected to take part and <strong>Gloria</strong> (6
+Faith) emerged as one of the <strong>Top 25 Global Finalists (overall)</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LIM___Gloria_6F_Top_25_Global_Finalists__Overall_.jpg">
+</div>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/BJsVGm1KC4o</a>
+</p>
 <p></p>
 <p></p>
+<p>2024: <strong>Alexis Yap </strong>(6 Love) awarded both Finalist and Regional
+Finalist 2024.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=KJWQOnyVoQs</a>
+</p>
