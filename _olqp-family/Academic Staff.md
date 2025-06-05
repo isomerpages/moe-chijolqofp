@@ -298,11 +298,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Beng Wee Kenneth
-<br>Mrs Janet Chua</p>
+<br>Mrs Deva</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_beng_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_beng_wee@moe.edu.sg</a>
-<br><a href="mailto:Janet_Chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Janet_Chua@moe.edu.sg</a>
+<br><a href="mailto:vijayalakshmi_devanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vijayalakshmi_devanathan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -351,7 +351,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Prasad_Palamani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Prasad_Palamani@moe.edu.sg</a>
-<br><a href="mailto:ong_shi_han_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_han_b@moe.edu.sg</a>
+<br><a href="mailto:ong_shi_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_han@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -441,10 +441,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Patricia Tan
 <br>Mrs Vivian Quek</p>
+<p>Ms Gina Siew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_hwee_hoon_patricia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hwee_hoon_patricia@moe.edu.sg</a>
 <br><a href="mailto:teh_xiuwen_vivian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_xiuwen_vivian@moe.edu.sg</a>
+</p>
+<p><a href="mailto:SIEW_JIN_ER_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">SIEW_JIN_ER_A@moe.edu.sg</a>
 </p>
 </td>
 </tr>
