@@ -7,6 +7,16 @@ variant: tiptap
 ---
 <h3>Academic</h3>
 <h4>Math Department</h4>
+<h5>2025</h5>
+<p><strong>2025 Asia-Pacific Mathematical Olympiad for Primary Schools </strong>
+<br>Silver - 1&nbsp;
+<br>Bronze - 3
+<br><strong>2025 Raffles Mathematical Olympiad </strong>
+<br>Junior Category: 2 Distinction Awards, 5 Merit Awards&nbsp;
+<br>Open Category - Round 1: 1 High Distinction Award, 3 Distinction Awards,
+8 Merit Awards
+<br>Open Category - Round 2: 1 Distinction Award</p>
+<p></p>
 <h5>2024</h5>
 <p><strong>2024 National Mathematical Olympiad of Singapore (NMOS)</strong> 
 <br>Gold - 1&nbsp;
@@ -23,12 +33,11 @@ variant: tiptap
 <br>Silver - 2
 <br>Bronze - 2</p>
 <p><strong>Singapore Mathematical Olympiad (SMOP)</strong>
-<br>
 <br>Silver - 1&nbsp;
 <br>Bronze - 3 &nbsp;
 <br>Honourable mention - 10</p>
-<p><strong>English Department</strong>
-</p>
+<p></p>
+<h4>English Department</h4>
 <h5>2021</h5>
 <p>Top 20 Outstanding Performers 2021 ACJC Mythos: Junior Orators</p>
 <p>Bronze Award - 2021 Moo-O Reading Awards</p>
@@ -90,11 +99,9 @@ in Online Friendlies</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Junior Science Whiz Challenge</strong>
 <br>Top 24th&nbsp;position – Chua Ya Ting</p>
 <p><strong>Singapore Science Olympiad</strong>
-<br>
 <br>Merit Award – Isabelle Tiong Mae Shyuen
 <br>Merit Award – Kang Si Qi, Amelia (Jiang Shiqi)
 <br>Merit Award – Lam Fong Yu Faith

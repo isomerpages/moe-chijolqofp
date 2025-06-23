@@ -352,7 +352,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Prasad_Palamani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Prasad_Palamani@moe.edu.sg</a>
-<br><a href="mailto:ong_shi_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_han@moe.edu.sg</a>
+<br><a href="mailto:ong_si_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_han@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -690,7 +690,7 @@ variant: tiptap
 <p>Ms Ong Si Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_shi_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_han@moe.edu.sg</a>
+<p><a href="mailto:ong_si_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_han@moe.edu.sg</a>
 </p>
 </td>
 </tr>
