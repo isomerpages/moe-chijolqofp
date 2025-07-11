@@ -912,14 +912,12 @@ Club)</p>
 <h3>Student Leadership</h3>
 <p>2024: 34 Primary 6 student leaders awarded The Butterfly Award.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NYAA_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NYAA_butterfly_award_2024_use_this.jpg">
 </div>
-<p></p>
 <p>2025: 39 Primary 6 student leaders awarded The Butterfly Award.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NYAA_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NYAA_butterfly_award_2025_use_this.jpg">
 </div>
-<p></p>
 <p>2025: Leader in Me International Speech Contest - 8 of our Primary 6 student
 leaders were selected to take part and <strong>Gloria</strong> (6 Faith)
 emerged as one of the <strong>Top 25 Global Finalists (overall)</strong>.</p>
