@@ -87,7 +87,7 @@ email OR to the School’s General Office.</p>
 <p>Contact Person: Mdm Heng Huay Lee</p>
 <p><strong>How to get there?</strong>
 </p>
-<p>Nearest MRT: Downtown Line - Cashew (DT2) / Hillview (DT3)</p>
+<p>Nearest MRT: Downtown Line - Cashew (DT2) / Hillview (DT3) (<a href="https://maps.app.goo.gl/SH5LChK4VRyyuqK56" rel="noopener nofollow" target="_blank">Map</a>)</p>
 <p>Bus number: 67 / 75 / 170 / 176 / 178 / 184 / 961 / 963 / 970 (bus stop
 in front of St Joseph Church)</p>
 <p><strong>Interest applicants must meet the following criteria:</strong>
