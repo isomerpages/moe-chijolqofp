@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - School canteen advertisement.md
       - For Students/.keep
       - For Students/Overview.md
       - For Students/Singapore Student Learning Space.md
@@ -17,3 +16,4 @@ collections:
       - For Parents/Cyber Wellness.md
       - For Parents/Parents Learning Series.md
       - Home Based Learning.md
+      - School canteen advertisement.md
