@@ -27,11 +27,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western Cuisine Stall&nbsp; <strong>OR</strong>
-</p>
-<p>Korean Cuisine Stall <strong>OR</strong>
-</p>
-<p>Japanese Cuisine Stall</p>
+<p>Western Cuisine Stall&nbsp; <strong>OR </strong>
+<br>Korean Cuisine Stall <strong>OR </strong>
+<br>Japanese Cuisine Stall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>28 Jul 2025</p>
