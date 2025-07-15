@@ -116,7 +116,7 @@ variant: tiptap
 <p>Ms Ong Si Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_shi_han_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_han_b@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ong_si_han@moe.edu.sg</a>
 </p>
 </td>
 </tr>
