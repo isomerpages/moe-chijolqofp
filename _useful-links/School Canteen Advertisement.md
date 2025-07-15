@@ -39,9 +39,9 @@ description: ""
 <p><strong><u>Western Cuisines</u></strong>
 </p>
 <p>Mashed Potatoes, Corn on a Cob, Corn Cup, Salad, Chicken Chop, Beef Steak
-with small serving of mixed vegetables, Bolognese Spaghetti, aglio Olio,
+with small serving of mixed vegetables, Bolognese Spaghetti, Aglio Olio,
 Soup of the Day. &nbsp;(List is not exhaustive and you may suggest other
-items , subject to school’s approval)</p>
+items, subject to school’s approval)</p>
 <p><strong><u>Korean Cuisine</u></strong>
 </p>
 <p>Bibimbap, Chicken Bulgogi, Kimchi-jjigae, Japchae Tteokbokki, Kimchi Fried
@@ -49,7 +49,7 @@ Rice, Japchae, Gimbap, Korean Dumpling (List is not exhaustive and you
 may suggest other items, subject to school’s approval)</p>
 <p>&nbsp;<strong><u>Japanese Cuisine</u></strong>
 </p>
-<p>Assorted Sushi (non-raw) ,&nbsp; Ramen, Udon, Miso Soup, Yakitori Rice
+<p>Assorted Sushi (non-raw),&nbsp; Ramen, Udon, Miso Soup, Yakitori Rice
 set&nbsp;or any other meat rice set, Okonomiyaki,</p>
 <p>Yaki Soba. (List is not exhaustive and you may suggest other items , subject
 to school’s approval)</p>
@@ -71,7 +71,7 @@ hardcopy from the School’s General Office.</p>
 <p>Photocopy of the NRIC (front and back)</p>
 <p>List of proposed menu and pricing for all items</p>
 <p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
-etc</p>
+etc.</p>
 </li>
 <li>
 <p>Submit the completed application form and documents by closing date via
