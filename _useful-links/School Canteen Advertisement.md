@@ -35,23 +35,23 @@ description: ""
 <p>28 Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Suggest Items</strong> :</p>
-<p><strong><u>Wester Cuisines</u></strong>
+<p><strong>Suggested Items</strong> :</p>
+<p><strong><u>Western Cuisines</u></strong>
 </p>
-<p>Mashed potatoes, corn on cob , cup corns , salad , chicken chop , beef
-steak with small serving of mixed vegetables , Bolognese spaghetti , Alio
-Olio , soup of the day. &nbsp;(List is not exhaustive and you may suggest
-other items , subject to school’s approval)</p>
+<p>Mashed Potatoes, Corn on a Cob, Corn Cup, Salad, Chicken Chop, Beef Steak
+with small serving of mixed vegetables, Bolognese Spaghetti, aglio Olio,
+Soup of the Day. &nbsp;(List is not exhaustive and you may suggest other
+items , subject to school’s approval)</p>
 <p><strong><u>Korean Cuisine</u></strong>
 </p>
-<p>Bibimbap , Chicken Bulgogi , Kimchi-jjigae , japchae Tteokbokki , Kimchi
-fried rice , Japchae , Gimbap , Korean dumpling (List is not exhaustive
-and you may suggest other items , subject to school’s approval)</p>
+<p>Bibimbap, Chicken Bulgogi, Kimchi-jjigae, Japchae Tteokbokki, Kimchi Fried
+Rice, Japchae, Gimbap, Korean Dumpling (List is not exhaustive and you
+may suggest other items, subject to school’s approval)</p>
 <p>&nbsp;<strong><u>Japanese Cuisine</u></strong>
 </p>
-<p>Assorted Sushi (non-raw) ,&nbsp; Ramen , udon, miso soup, yakitori rice
-set&nbsp; any other meat rice set , okonomiyaki,</p>
-<p>Yaki soba. (List is not exhaustive and you may suggest other items , subject
+<p>Assorted Sushi (non-raw) ,&nbsp; Ramen, Udon, Miso Soup, Yakitori Rice
+set&nbsp;or any other meat rice set, Okonomiyaki,</p>
+<p>Yaki Soba. (List is not exhaustive and you may suggest other items , subject
 to school’s approval)</p>
 </td>
 </tr>
