@@ -46,6 +46,8 @@ variant: tiptap
 </p>
 <p><a href="https://youtu.be/spB-8Gwapvg" rel="noopener nofollow" target="_blank">2024 Student Well-being (Part 2)</a>
 </p>
+<p><a href="https://youtu.be/ze8jjvA1VAM" rel="noopener nofollow" target="_blank">2025 PLS Science Toolkit for Science Learning</a>
+</p>
 <p>Please give us your feedback on MLU:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_feedback_on_microlearning_units.png">
