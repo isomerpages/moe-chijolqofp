@@ -32,7 +32,7 @@ description: ""
 <br>Japanese Cuisine Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Jul 2025</p>
+<p>31 Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Suggested Items</strong> :</p>
