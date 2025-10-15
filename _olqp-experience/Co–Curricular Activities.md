@@ -51,7 +51,7 @@ the CCA schedule</p>
 </p>
 <p><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Clubs-and-Societies/environmental-science-club" rel="noopener noreferrer nofollow" target="_blank">Environmental Science Club</a>
 <br><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Clubs-and-Societies/media-and-infocomm-club" rel="noopener noreferrer nofollow" target="_blank">Media Infocomm Club</a>
-<br><a href="https://www.chijourladyqueenofpeace.moe.edu.sg/little-lights-new/" rel="noopener nofollow" target="_blank">Little Lights</a>
+<br><a href="https://www.chijourladyqueenofpeace.moe.edu.sg/cca/Clubs-and-Societies/little-lights-new/" rel="noopener nofollow" target="_blank">Little Lights</a>
 </p>
 <p><strong>Uniformed Group</strong>
 </p>
