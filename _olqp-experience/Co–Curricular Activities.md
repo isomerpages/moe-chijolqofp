@@ -31,38 +31,30 @@ through experiential learning.</p>
 <h4>CCA Schedule</h4>
 <p>Click <a href="/files/CCA/CCA_Schedule_2025_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the CCA schedule</p>
-<ul>
-<li>
-<p>Sports and Games</p>
-<p>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Sports-and-Games/softball" rel="noopener noreferrer nofollow" target="_blank">Softball</a>
-<br>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Sports-and-Games/netball" rel="noopener noreferrer nofollow" target="_blank">Netball</a>
-<br>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Sports-and-Games/rhythmic-gymnastics" rel="noopener noreferrer nofollow" target="_blank">Rhythmic Gymnastics</a>
+<p><strong>Sports and Games</strong>
 </p>
-</li>
-<li>
-<p>&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>Performing Arts Groups</p>
-<p>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/choir" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
-<br>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/fusion-dance" rel="noopener noreferrer nofollow" target="_blank">Fusion Dance</a>
-<br>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/tap-dance" rel="noopener noreferrer nofollow" target="_blank">Tap Dance</a>
-<br>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/guitar-ensemble" rel="noopener noreferrer nofollow" target="_blank">Guitar Ensemble</a>
-<br>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/art-club" rel="noopener noreferrer nofollow" target="_blank">Art Club</a>
-<br>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/EL-Drama-club" rel="noopener noreferrer nofollow" target="_blank">English Language Drama Club</a>
+<p><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Sports-and-Games/softball" rel="noopener noreferrer nofollow" target="_blank">Softball</a>
+<br><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Sports-and-Games/netball" rel="noopener noreferrer nofollow" target="_blank">Netball</a>
+<br><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Sports-and-Games/rhythmic-gymnastics" rel="noopener noreferrer nofollow" target="_blank">Rhythmic Gymnastics</a>
+</p>
+<p><strong>Performing Arts Groups</strong>
+</p>
+<p><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/choir" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+<br><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/fusion-dance" rel="noopener noreferrer nofollow" target="_blank">Fusion Dance</a>
+<br><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/tap-dance" rel="noopener noreferrer nofollow" target="_blank">Tap Dance</a>
+<br><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/guitar-ensemble" rel="noopener noreferrer nofollow" target="_blank">Guitar Ensemble</a>
+<br><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/art-club" rel="noopener noreferrer nofollow" target="_blank">Art Club</a>
+<br><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Performing-Arts-Groups/EL-Drama-club" rel="noopener noreferrer nofollow" target="_blank">English Language Drama Club</a>
 <br>
 </p>
-</li>
-<li>
-<p>Clubs and Societies</p>
-<p>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Clubs-and-Societies/environmental-science-club" rel="noopener noreferrer nofollow" target="_blank">Environmental Science Club</a>
-<br>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Clubs-and-Societies/media-and-infocomm-club" rel="noopener noreferrer nofollow" target="_blank">Media Infocomm Club</a>
+<p><strong>Clubs and Societies</strong>
 </p>
-</li>
-<li>
-<p>Uniformed Group</p>
-<p>•<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Uniformed-Group/brownies" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
+<p><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Clubs-and-Societies/environmental-science-club" rel="noopener noreferrer nofollow" target="_blank">Environmental Science Club</a>
+<br><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Clubs-and-Societies/media-and-infocomm-club" rel="noopener noreferrer nofollow" target="_blank">Media Infocomm Club</a>
+<br><a href="https://www.chijourladyqueenofpeace.moe.edu.sg/little-lights-new/" rel="noopener nofollow" target="_blank">Little Lights</a>
 </p>
-</li>
-</ul>
+<p><strong>Uniformed Group</strong>
+</p>
+<p><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/cca/Uniformed-Group/brownies" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
+</p>
 <p></p>
