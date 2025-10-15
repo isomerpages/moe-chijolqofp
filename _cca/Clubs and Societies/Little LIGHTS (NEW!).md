@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<p><strong>Aims</strong>
-</p>
+<h4><strong>Aims</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Provide an enabling environment for girls to recognize and promote the
@@ -29,8 +28,7 @@ dignity of human persons, especially the disadvantaged.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>What We Do</strong>
-</p>
+<h4><strong>What We Do</strong></h4>
 <p>Guided by the mission of our Founder, Blessed Nicolas Barré, Mother Mathilde,
 and the Infant Jesus Sisters to serve with love and compassion—especially
 those who are disadvantaged — Little L.I.G.H.T.S. (Love In Giving Hope
