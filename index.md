@@ -12,6 +12,9 @@ sections:
         - title: Announcements & Quick Links
           description: ""
           url: /announcements-quick-links/overview/
+        - title: Year End Message from Chairperson, IJBOM
+          description: ""
+          url: /year-end-message-from-chairperson-ijbom/
   - infobar:
       title: Find Us On Facebook
       id: infobar
