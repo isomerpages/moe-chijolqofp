@@ -54,6 +54,5 @@ and non-teaching staff, students, parents and alumnae, now and always.
 </p>
 <p>With Thanksgiving and Love,</p>
 <p><strong>Vivienne Lim</strong>
-</p>
-<p>Chairperson</p>
-<p>IJ Board of Management</p>
+<br>Chairperson
+<br>IJ Board of Management</p>
