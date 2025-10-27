@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VL___Photo__23Oct2025_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VL___Photo__23Oct2025_.jpg">
 </div>
 <p></p>
 <p><strong>Message from Ms Vivienne Lim, Chairperson, IJ Board of Management</strong>
