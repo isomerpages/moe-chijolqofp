@@ -12,12 +12,15 @@ sections:
         - title: Announcements & Quick Links
           description: ""
           url: /announcements-quick-links/overview/
+        - title: Year End Message from Chairperson, IJBOM
+          description: ""
+          url: /year-end-message-from-chairperson-ijbom/
   - infobar:
       title: Find Us On Facebook
-      description: <iframe
-        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fchijolqp.official&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=551472119606120"
-        width="500" height="500" style="border:none;overflow:hidden"
-        scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
-        clipboard-write; encrypted-media; picture-in-picture;
-        web-share"></iframe>
+      id: infobar
+      description: <iframe allow="autoplay; clipboard-write; encrypted-media;
+        picture-in-picture; web-share" allowfullscreen="true" frameborder="0"
+        scrolling="no" style="border:none;overflow:hidden" height="500"
+        width="500"
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fchijolqp.official&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=551472119606120"></iframe>
 ---
