@@ -23,9 +23,22 @@ different levels progressively.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DI_image.png">
 </div>
+<p>For example, our Primary 1 students will learn touch typing skills, learn
+to operate and navigate in multiple forms of user interface (e.g. SLS).
+At Primary 2, they learn a higher level of touch-typing skills, and learn
+skills to locate, collect and sort information (Find) and create a short
+document (Create). Primary 3 - 6 students will acquire the knowledge and
+skills to search for and evaluate digital information (Find) at a higher
+level, use information ethically to create or remix digital artefacts,
+exchange information (Create) and contribute productively in an online
+community (Create). Relevant digital skills are also infused in Project
+Work from Primary 2 to 6 so that students can apply and reinforce their
+learning. For example, students get to apply their search skills and create
+different digital products using Google Slides, Google Site, Canva, etc.</p>
 <p>To develop students’ computational thinking for problem solving, all Primary
-1 to 6 students learn Coding in our school-based programme. These include
-programming for Dash, Makey Makey, Sphero, etc. This helps to nurture their
-critical thinking and creativity which are essential skills in the 21st
-Century.</p>
+1 to 6 students learn Coding in our school-based and IMDA’s Code for Fun
+programmes. These include programming for Scratch, Dash, Sphero, Pictoblox,
+Teachable Machine, etc which provide opportunities for students to learn
+more about Artificial Intelligence (AI) to enhance their digital and AI-related
+skills.</p>
 <p></p>
