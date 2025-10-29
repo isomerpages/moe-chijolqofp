@@ -42,3 +42,11 @@ Teachable Machine, etc which provide opportunities for students to learn
 more about Artificial Intelligence (AI) to enhance their digital and AI-related
 skills.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_29_at_14_05_36.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_29_at_14_06_01.jpg">
+</div>
+<p></p>
