@@ -54,3 +54,7 @@ skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_29_at_14_06_02.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_edit.jpg">
+</div>
+<p></p>
