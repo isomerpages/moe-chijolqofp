@@ -61,6 +61,7 @@ skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_29_at_14_05_13__1_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_29_at_14_05_13.jpg">
 </div>
