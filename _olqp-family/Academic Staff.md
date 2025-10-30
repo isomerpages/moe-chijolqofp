@@ -930,18 +930,6 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Amiruddin Abd Hazis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Muhammad_Amiruddin_Abd_Hazis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Amiruddin_Abd_Hazis@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Special Education Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Kacey Chern</p>
 </td>
 <td rowspan="1" colspan="1">
