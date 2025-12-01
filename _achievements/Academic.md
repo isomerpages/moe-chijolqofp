@@ -2,108 +2,149 @@
 title: Academic
 permalink: /achievements/academic/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Academic
-
-#### Math Department
-##### 2023
-**2023 National Mathematical Olympiad of Singapore (NMOS)**  <br>
-Bronze - 2<br>
-Honourable Mention - 14
-##### 2021
-
-**National Mathematical Olympiad of Singapore (NMOS)**  <br>
-Silver - 2 <br>
-Bronze - 2
-
-  
-
-**Singapore Mathematical Olympiad (SMOP)**  
-<br> Silver - 1&nbsp;
-<br> Bronze - 3
-&nbsp;<br> Honourable mention - 10
-
-**English Department**
-
-##### 2021
-
-Top 20 Outstanding Performers 2021 ACJC Mythos: Junior Orators  
-
-  
-
-Bronze Award - 2021 Moo-O Reading Awards
-
-  
-
-2021 Wits &amp; Words: Inter-school Debate Championship 2021 Participation in Online Friendlies  
-
-Upload Anvantika's feature here
-
-[9 March 2021 issue of the Little Red Dot - Shahana's Article Feature](https://staging.d2yo7qbk5fhrwg.amplifyapp.com/images/Shahana%209%20March.png)
-
-
-##### 2020
-
-Gold Award - 2020 Moo-O Reading Awards  
-
-
-#### Science Department
-
-**2021**
-
-**Singapore Science Buskers 2021**
-
-|  	|  	|
-|---	|---	|
-| Judges Award 	| Shaheera Binti Mohamad Ameen 	|
-| Judges Award 	| Tham Jing Lin Gisele 	|
-| Judges Award 	| Suu Myo Wai 	|
-
-**Junior Science Whiz Challenge**
-<br> Top 24th&nbsp;position – Chua Ya Ting
-
-**Singapore Science Olympiad**  
-<br> Merit Award – Isabelle Tiong Mae Shyuen
-<br> Merit Award – Kang Si Qi, Amelia (Jiang Shiqi)
-<br> Merit Award – Lam Fong Yu Faith
-<br> Merit Award – Tasha Lingaraj
-<br> Gold Award – Xiao Feilin  
-
-**ezi Go-Green Competition**&nbsp;
-<br> Bronze Award  
-
-**Youth Science Fair**  <br>Commendation Award -&nbsp;Chua Ya Ting <br> Commendation Award - Kang Si Qi, Amelia (Jiang Shiqi)
-<br> Commendation Award - Lee Yi Xuan Frances
-
-  
-
-**Community in Bloom**
-<br> Gold Award
-<br> Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)
-
-##### 2020
-
-*   Science Buskers ( 2nd Runner Up )&nbsp;
-
-##### 2019
-
-*   2019 Science Buskers ( 2nd Runner Up )&nbsp;
-*   2019 Science Buskers ( Judges' Award )
-*   2019 Science Buskers ( Judges' Award )
-
-##### 2018  
-
-*   2018 Science Buskers (Champion Team)&nbsp;
-*   2018 Science Buskers ( 2nd Runner Up)
-*   Vanda Miss Joaquim Award in the SEC-StarHub School Green Awards (SGA) 2018  
- 
-
-#### 2017
-
-*   2017 Sony Science Award Whiz Kid (Commendation Award for Unique Idea - Joanna Chong)
-*   2017 Science Buskers (Champion team)
-*   2017 Science Buskers (2nd Runner Up)
-*   2017 Science Buskers (Voter's Choice)
-*   2017 Science Buskers&nbsp;( Judges' Award )
-*   Lotus Sustained Achievement Award
+<h3>Academic</h3>
+<h4>Math Department</h4>
+<h5>2023</h5>
+<p><strong>2023 National Mathematical Olympiad of Singapore (NMOS)</strong> 
+<br>Bronze - 2
+<br>Honourable Mention - 14</p>
+<h5>2021</h5>
+<p><strong>National Mathematical Olympiad of Singapore (NMOS)</strong> 
+<br>Silver - 2
+<br>Bronze - 2</p>
+<p><strong>Singapore Mathematical Olympiad (SMOP)</strong>
+<br>
+<br>Silver - 1&nbsp;
+<br>Bronze - 3 &nbsp;
+<br>Honourable mention - 10</p>
+<p><strong>English Department</strong>
+</p>
+<h5>2021</h5>
+<p>Top 20 Outstanding Performers 2021 ACJC Mythos: Junior Orators</p>
+<p>Bronze Award - 2021 Moo-O Reading Awards</p>
+<p>2021 Wits &amp; Words: Inter-school Debate Championship 2021 Participation
+in Online Friendlies</p>
+<p>Upload Anvantika's feature here</p>
+<p><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/images/Shahana%209%20March.png" rel="noopener noreferrer nofollow" target="_blank">9 March 2021 issue of the Little Red Dot - Shahana's Article Feature</a>
+</p>
+<h5>2020</h5>
+<p>Gold Award - 2020 Moo-O Reading Awards</p>
+<h4>Science Department</h4>
+<p><strong>2021</strong>
+</p>
+<p><strong>Singapore Science Buskers 2021</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Judges Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shaheera Binti Mohamad Ameen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Judges Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tham Jing Lin Gisele</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Judges Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Suu Myo Wai</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Junior Science Whiz Challenge</strong>
+<br>Top 24th&nbsp;position – Chua Ya Ting</p>
+<p><strong>Singapore Science Olympiad</strong>
+<br>
+<br>Merit Award – Isabelle Tiong Mae Shyuen
+<br>Merit Award – Kang Si Qi, Amelia (Jiang Shiqi)
+<br>Merit Award – Lam Fong Yu Faith
+<br>Merit Award – Tasha Lingaraj
+<br>Gold Award – Xiao Feilin</p>
+<p><strong>ezi Go-Green Competition</strong>&nbsp;
+<br>Bronze Award</p>
+<p><strong>Youth Science Fair</strong> 
+<br>Commendation Award -&nbsp;Chua Ya Ting
+<br>Commendation Award - Kang Si Qi, Amelia (Jiang Shiqi)
+<br>Commendation Award - Lee Yi Xuan Frances</p>
+<p><strong>Community in Bloom</strong>
+<br>Gold Award
+<br>Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)</p>
+<h5>2020</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Science Buskers ( 2nd Runner Up )&nbsp;</p>
+</li>
+</ul>
+<h5>2019</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>2019 Science Buskers ( 2nd Runner Up )&nbsp;</p>
+</li>
+<li>
+<p>2019 Science Buskers ( Judges' Award )</p>
+</li>
+<li>
+<p>2019 Science Buskers ( Judges' Award )</p>
+</li>
+</ul>
+<h5>2018</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>2018 Science Buskers (Champion Team)&nbsp;</p>
+</li>
+<li>
+<p>2018 Science Buskers ( 2nd Runner Up)</p>
+</li>
+<li>
+<p>Vanda Miss Joaquim Award in the SEC-StarHub School Green Awards (SGA)
+2018</p>
+</li>
+</ul>
+<h4>2017</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>2017 Sony Science Award Whiz Kid (Commendation Award for Unique Idea -
+Joanna Chong)</p>
+</li>
+<li>
+<p>2017 Science Buskers (Champion team)</p>
+</li>
+<li>
+<p>2017 Science Buskers (2nd Runner Up)</p>
+</li>
+<li>
+<p>2017 Science Buskers (Voter's Choice)</p>
+</li>
+<li>
+<p>2017 Science Buskers&nbsp;( Judges' Award )</p>
+</li>
+<li>
+<p>Lotus Sustained Achievement Award</p>
+</li>
+</ul>
+<p></p>
