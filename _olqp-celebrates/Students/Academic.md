@@ -391,10 +391,18 @@ Competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2024 National Malay Language</p>
+<p>Storytelling Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Gold</p>
+</li>
+<li>
+<p>1 Gold with Honours&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
