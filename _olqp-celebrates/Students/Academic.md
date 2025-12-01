@@ -364,7 +364,7 @@ Competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5></h5>
+<h5>2022</h5>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -372,10 +372,11 @@ Competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Chinese Language Vlog Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Second Prize
+<br>Outstanding Award</p>
 </td>
 </tr>
 <tr>
