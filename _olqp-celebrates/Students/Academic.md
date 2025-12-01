@@ -90,8 +90,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Top 20 Outstanding Performers 2021 ACJC Mythos: Junior Orators</p>
-<p>Bronze Award - 2021 Moo-O Reading Awards</p>
+<p>Top 20 Outstanding Performers 2021 ACJC Mythos: Junior Orators
+<br>Bronze Award - 2021 Moo-O Reading Awards</p>
 </td>
 </tr>
 <tr>
@@ -140,17 +140,28 @@ in Online Friendlies
 </tr>
 </tbody>
 </table>
-<h5></h5>
-<p></p>
-<h4>Science Department</h4>
-<p><strong>2024</strong>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Science Department</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2024</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Raffles Science Olympiad</p>
@@ -191,23 +202,63 @@ in Online Friendlies
 <p>Outstanding Environment Achievement Award</p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Junior Science Whiz Challenge</strong>
 <br>Top 24th&nbsp;position – Chua Ya Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Singapore Science Olympiad</strong>
 <br>Merit Award – Isabelle Tiong Mae Shyuen
 <br>Merit Award – Kang Si Qi, Amelia (Jiang Shiqi)
 <br>Merit Award – Lam Fong Yu Faith
 <br>Merit Award – Tasha Lingaraj
 <br>Gold Award – Xiao Feilin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>ezi Go-Green Competition</strong>&nbsp;
 <br>Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Youth Science Fair</strong> 
 <br>Commendation Award -&nbsp;Chua Ya Ting
 <br>Commendation Award - Kang Si Qi, Amelia (Jiang Shiqi)
 <br>Commendation Award - Lee Yi Xuan Frances</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Community in Bloom</strong>
 <br>Gold Award
 <br>Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
