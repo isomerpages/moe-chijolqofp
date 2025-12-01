@@ -6,8 +6,6 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h3>Academic</h3>
-<p></p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
