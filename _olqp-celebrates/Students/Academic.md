@@ -6,8 +6,25 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h3>Academic</h3>
+<p></p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>Math Department</h4>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <h5>2025</h5>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2025 Asia-Pacific Mathematical Olympiad for Primary Schools </strong>
 <br>Silver - 1&nbsp;
 <br>Bronze - 3
@@ -16,29 +33,79 @@ variant: tiptap
 <br>Open Category - Round 1: 1 High Distinction Award, 3 Distinction Awards,
 8 Merit Awards
 <br>Open Category - Round 2: 1 Distinction Award</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2024</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2024 National Mathematical Olympiad of Singapore (NMOS)</strong> 
 <br>Gold - 1&nbsp;
 <br>Bronze - 7
-<br>Honourable mention - 9</p>
-<p><strong>2024 Asia-Pacific Mathematical Olympiad for Primary Schools </strong>
+<br>Honourable mention - 9
+<br><strong>2024 Asia-Pacific Mathematical Olympiad for Primary Schools </strong>
 <br>Silver - 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2023</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2023 National Mathematical Olympiad of Singapore (NMOS)</strong> 
 <br>Bronze - 2
 <br>Honourable Mention - 14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2021</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>National Mathematical Olympiad of Singapore (NMOS)</strong> 
 <br>Silver - 2
-<br>Bronze - 2</p>
-<p><strong>Singapore Mathematical Olympiad (SMOP)</strong>
+<br>Bronze - 2
+<br><strong>Singapore Mathematical Olympiad (SMOP)</strong>
 <br>Silver - 1&nbsp;
 <br>Bronze - 3 &nbsp;
 <br>Honourable mention - 10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5></h5>
+<p></p>
+<h5></h5>
+<p></p>
 <p></p>
 <h4>English Department</h4>
-<h5>2021</h5>
+<p>2022
+<br>
+<br>Mythos: Junior Orators: Certificate of&nbsp;Merit
+<br>
+<br>2025</p>
 <p>Top 20 Outstanding Performers 2021 ACJC Mythos: Junior Orators</p>
 <p>Bronze Award - 2021 Moo-O Reading Awards</p>
 <p>2021 Wits &amp; Words: Inter-school Debate Championship 2021 Participation
