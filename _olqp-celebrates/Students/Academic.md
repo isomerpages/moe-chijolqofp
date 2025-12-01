@@ -305,15 +305,10 @@ in Online Friendlies
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2024 National Mathematical Olympiad of Singapore (NMOS)</strong> 
-<br>Gold - 1&nbsp;
-<br>Bronze - 7
-<br>Honourable mention - 9
-<br><strong>2024 Asia-Pacific Mathematical Olympiad for Primary Schools </strong>
-<br>Silver - 1</p>
+<p>2024 Zhang Shou Shi National School Chinese Painting and Calligraphy Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Merit Award</p>
 </td>
 </tr>
 <tr>
