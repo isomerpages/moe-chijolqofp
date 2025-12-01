@@ -324,8 +324,14 @@ in Online Friendlies
 <p>National Chinese Language Vlog Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Third in Lower Primary Category
-<br>Excellence Awards in Lower Primary Category</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Third in Lower Primary Category</p>
+</li>
+<li>
+<p>Excellence Awards in Lower Primary Category</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -391,8 +397,14 @@ Competition</p>
 <p>National Chinese Language Vlog Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Excellence Awards in Lower Primary
-<br>Excellence Awards in Middle Primary</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Excellence Awards in Lower Primary</p>
+</li>
+<li>
+<p>Excellence Awards in Middle Primary</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -432,16 +444,30 @@ Competition</p>
 <p>National Chinese Language Vlog Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Second Prize
-<br>Outstanding Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Second Prize</p>
+</li>
+<li>
+<p>Outstanding Award</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5></h5>
+<p>Malay Language National Story Telling Competition 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gold Award with Distinction
+<br>(3<sup>rd</sup> Place)</p>
+</li>
+<li>
+<p>Gold Award (Outstanding Achievement)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
