@@ -106,12 +106,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Merit Award - Moo-O Reading Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2022</h5>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mythos: Junior Orators: Certificate of&nbsp;Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Merit Award - Moo-O Reading Awards</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +145,7 @@ in Online Friendlies
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gold Award - 2020 Moo-O Reading Awards</p>
+<p>Gold Award - Moo-O Reading Awards</p>
 </td>
 </tr>
 </tbody>
