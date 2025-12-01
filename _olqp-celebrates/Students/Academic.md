@@ -339,6 +339,14 @@ Competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Text Recital Competition for Primary and Secondary Schools&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Silver Award &amp; 4 Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2023</h5>
 </td>
 <td rowspan="1" colspan="1">
@@ -369,6 +377,14 @@ Competition</p>
 <td rowspan="1" colspan="1">
 <p>Excellence Awards in Lower Primary
 <br>Excellence Awards in Middle Primary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Text Recital Competition for Primary and Secondary Schools&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award &amp; Bronze Award</p>
 </td>
 </tr>
 <tr>
