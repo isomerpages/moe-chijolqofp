@@ -472,10 +472,17 @@ Competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Malay Language National Creative Writing Competition 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gold Award</p>
+</li>
+<li>
+<p>Silver Award</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
