@@ -80,7 +80,52 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4>English Department</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2025</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Top 20 Outstanding Performers 2021 ACJC Mythos: Junior Orators</p>
+<p>Bronze Award - 2021 Moo-O Reading Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2023</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mythos: Junior Orators - 4th Best Performer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2022</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mythos: Junior Orators: Certificate of&nbsp;Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2021</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wits &amp; Words: Inter-school Debate Championship 2021 Participation
+in Online Friendlies</p>
+<p>Upload Anvantika's feature here</p>
+<p><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/images/Shahana%209%20March.png" rel="noopener noreferrer nofollow" target="_blank">9 March 2021 issue of the Little Red Dot - Shahana's Article Feature</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -98,17 +143,7 @@ variant: tiptap
 <h5></h5>
 <p></p>
 <h5></h5>
-<p></p>
-<p></p>
-<h4>English Department</h4>
-<p>2022
-<br>
-<br>Mythos: Junior Orators: Certificate of&nbsp;Merit
-<br>
-<br>2025</p>
-<p>Top 20 Outstanding Performers 2021 ACJC Mythos: Junior Orators</p>
-<p>Bronze Award - 2021 Moo-O Reading Awards</p>
-<p>2021 Wits &amp; Words: Inter-school Debate Championship 2021 Participation
+<p>Wits &amp; Words: Inter-school Debate Championship 2021 Participation
 in Online Friendlies</p>
 <p>Upload Anvantika's feature here</p>
 <p><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/images/Shahana%209%20March.png" rel="noopener noreferrer nofollow" target="_blank">9 March 2021 issue of the Little Red Dot - Shahana's Article Feature</a>
