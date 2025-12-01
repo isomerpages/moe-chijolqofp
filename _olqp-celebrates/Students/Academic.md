@@ -321,6 +321,15 @@ in Online Friendlies
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>National Primary Schools On-the-Spot Chinese Language Creative Essay Writing
+Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2023</h5>
 </td>
 <td rowspan="1" colspan="1">
@@ -337,10 +346,11 @@ in Online Friendlies
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Primary Schools On-the-Spot Chinese Language Creative Essay Writing
+Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>First Prize</p>
 </td>
 </tr>
 <tr>
