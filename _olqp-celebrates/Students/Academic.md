@@ -324,8 +324,8 @@ in Online Friendlies
 <p>National Chinese Language Vlog Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Third in Lower Primary Category</p>
-<p>Excellence Awards in Lower Primary Category</p>
+<p>Third in Lower Primary Category
+<br>Excellence Awards in Lower Primary Category</p>
 </td>
 </tr>
 <tr>
