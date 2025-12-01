@@ -347,6 +347,14 @@ Competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>The Singapore Chinese Moo-O Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2023</h5>
 </td>
 <td rowspan="1" colspan="1">
@@ -385,6 +393,14 @@ Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver Award &amp; Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Singapore Chinese Moo-O Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
 </td>
 </tr>
 <tr>
