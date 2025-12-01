@@ -433,6 +433,39 @@ Competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023 Kolam Ayer CC IAEC &amp; Kolam Ayer Youth Network - Inter School
+Tamil Language Competitions- Translation Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 Kolam Ayer CC IAEC &amp; Kolam Ayer Youth Network - Inter School
+Tamil Language Competitions - Role Play Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 National Malay Language Creative Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Gold with distinction</p>
+</li>
+<li>
+<p>3rd Place&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2022</h5>
 </td>
 <td rowspan="1" colspan="1">
@@ -487,10 +520,17 @@ Competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Peraduan Pentejemah Pintar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Anugerah Penterjermah Harapan</p>
+</li>
+<li>
+<p>Promising Translator Award</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
