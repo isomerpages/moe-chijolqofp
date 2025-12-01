@@ -355,6 +355,14 @@ Competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>National Inter-Primary Chinese Poetry Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2023</h5>
 </td>
 <td rowspan="1" colspan="1">
@@ -401,6 +409,14 @@ Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Inter-Primary Chinese Poetry Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual - Outstanding Award</p>
 </td>
 </tr>
 <tr>
