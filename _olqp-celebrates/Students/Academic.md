@@ -264,7 +264,148 @@ in Online Friendlies
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Mother Tongue Department</h4>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<h5>2025</h5>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Asia-Pacific Mathematical Olympiad for Primary Schools </strong>
+<br>Silver - 1&nbsp;
+<br>Bronze - 3
+<br><strong>2025 Raffles Mathematical Olympiad </strong>
+<br>Junior Category: 2 Distinction Awards, 5 Merit Awards&nbsp;
+<br>Open Category - Round 1: 1 High Distinction Award, 3 Distinction Awards,
+8 Merit Awards
+<br>Open Category - Round 2: 1 Distinction Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2024</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024 National Mathematical Olympiad of Singapore (NMOS)</strong> 
+<br>Gold - 1&nbsp;
+<br>Bronze - 7
+<br>Honourable mention - 9
+<br><strong>2024 Asia-Pacific Mathematical Olympiad for Primary Schools </strong>
+<br>Silver - 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2023</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023 National Mathematical Olympiad of Singapore (NMOS)</strong> 
+<br>Bronze - 2
+<br>Honourable Mention - 14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2021</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Mathematical Olympiad of Singapore (NMOS)</strong> 
+<br>Silver - 2
+<br>Bronze - 2
+<br><strong>Singapore Mathematical Olympiad (SMOP)</strong>
+<br>Silver - 1&nbsp;
+<br>Bronze - 3 &nbsp;
+<br>Honourable mention - 10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>English Department</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2025</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Top 20 Outstanding Performers 2021 ACJC Mythos: Junior Orators
+<br>Bronze Award - 2021 Moo-O Reading Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2023</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mythos: Junior Orators - 4th Best Performer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Merit Award - Moo-O Reading Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2022</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mythos: Junior Orators: Certificate of&nbsp;Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Merit Award - Moo-O Reading Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2021</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wits &amp; Words: Inter-school Debate Championship 2021 Participation
+in Online Friendlies
+<br>Upload Anvantika's feature here
+<br><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/images/Shahana%209%20March.png" rel="noopener noreferrer nofollow" target="_blank">9 March 2021 issue of the Little Red Dot - Shahana's Article Feature</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2020</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold Award - Moo-O Reading Awards</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
