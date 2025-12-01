@@ -369,6 +369,36 @@ Competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024 Malay Language</p>
+<p>Creative Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Gold with Honours</p>
+</li>
+<li>
+<p>3 Golds</p>
+</li>
+<li>
+<p>1 Sliver</p>
+</li>
+<li>
+<p>2 Bronzes</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2023</h5>
 </td>
 <td rowspan="1" colspan="1">
