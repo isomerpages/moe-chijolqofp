@@ -597,7 +597,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>1 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>JAMIE</p>
 </td>
 </tr>
 <tr>
@@ -605,7 +605,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>1 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>JANESSA</p>
 </td>
 </tr>
 <tr>
@@ -613,7 +613,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>1 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>YI TING</p>
 </td>
 </tr>
 <tr>
@@ -621,7 +621,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>KAYLA</p>
 </td>
 </tr>
 <tr>
@@ -629,7 +629,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>1 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ALYSSA</p>
 </td>
 </tr>
 <tr>
@@ -637,7 +637,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>1 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ELIZABETH</p>
 </td>
 </tr>
 <tr>
@@ -645,7 +645,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>2 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HEATHER</p>
 </td>
 </tr>
 <tr>
@@ -653,7 +653,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>2 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>JAIME&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -661,7 +661,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MIA</p>
 </td>
 </tr>
 <tr>
@@ -669,7 +669,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ZI EN</p>
 </td>
 </tr>
 <tr>
@@ -677,7 +677,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>2 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SOPHIE</p>
 </td>
 </tr>
 <tr>
@@ -685,7 +685,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>2 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ELSA&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -693,7 +693,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>3 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SARAH</p>
 </td>
 </tr>
 <tr>
@@ -701,7 +701,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>3 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ZOEY</p>
 </td>
 </tr>
 <tr>
@@ -709,7 +709,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>3 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>BELYNN</p>
 </td>
 </tr>
 <tr>
@@ -717,7 +717,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AZKAYRA</p>
 </td>
 </tr>
 <tr>
@@ -725,7 +725,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>3 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SYDNEY</p>
 </td>
 </tr>
 <tr>
@@ -733,7 +733,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ERNESTA</p>
 </td>
 </tr>
 <tr>
@@ -741,7 +741,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ABHYA&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -749,7 +749,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>BENETTA</p>
 </td>
 </tr>
 <tr>
@@ -757,7 +757,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>4 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>JULIA</p>
 </td>
 </tr>
 <tr>
@@ -765,7 +765,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>4 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MANMAN</p>
 </td>
 </tr>
 <tr>
@@ -773,7 +773,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>5 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>KENDRA&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -781,7 +781,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>5 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>REBEKAH</p>
 </td>
 </tr>
 <tr>
@@ -789,7 +789,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>5 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>YASZMIN&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -797,7 +797,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>5 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TING XUAN</p>
 </td>
 </tr>
 <tr>
@@ -805,7 +805,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>5 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>KRYSTAL</p>
 </td>
 </tr>
 <tr>
@@ -813,7 +813,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>6 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CARINNE</p>
 </td>
 </tr>
 <tr>
@@ -821,7 +821,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>6 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NIRALYA</p>
 </td>
 </tr>
 <tr>
@@ -829,7 +829,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>6 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SCARLETT</p>
 </td>
 </tr>
 <tr>
@@ -837,7 +837,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>6 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CHARLOTTE</p>
 </td>
 </tr>
 <tr>
@@ -845,7 +845,7 @@ We are proud to nominate them as our Term 3 CCE Role Models!</p>
 <p>6 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SHANNON</p>
 </td>
 </tr>
 </tbody>
@@ -877,7 +877,7 @@ Models!</p>
 <p>1 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SARA</p>
 </td>
 </tr>
 <tr>
@@ -885,7 +885,7 @@ Models!</p>
 <p>1 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>WEI XUAN</p>
 </td>
 </tr>
 <tr>
@@ -893,7 +893,7 @@ Models!</p>
 <p>1 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SHERYL</p>
 </td>
 </tr>
 <tr>
@@ -901,7 +901,7 @@ Models!</p>
 <p>1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>JUDITH</p>
 </td>
 </tr>
 <tr>
@@ -909,7 +909,7 @@ Models!</p>
 <p>1 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>LAURA</p>
 </td>
 </tr>
 <tr>
@@ -917,7 +917,7 @@ Models!</p>
 <p>1 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TIFFANY</p>
 </td>
 </tr>
 <tr>
@@ -925,7 +925,7 @@ Models!</p>
 <p>2 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>VISMITAASHRI</p>
 </td>
 </tr>
 <tr>
@@ -933,7 +933,7 @@ Models!</p>
 <p>2 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>IMELDA</p>
 </td>
 </tr>
 <tr>
@@ -941,7 +941,7 @@ Models!</p>
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AASIYYA</p>
 </td>
 </tr>
 <tr>
@@ -949,7 +949,7 @@ Models!</p>
 <p>2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>KAELA</p>
 </td>
 </tr>
 <tr>
@@ -957,7 +957,7 @@ Models!</p>
 <p>2 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>PORTIA</p>
 </td>
 </tr>
 <tr>
@@ -965,7 +965,7 @@ Models!</p>
 <p>2 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SARAH NICOLE</p>
 </td>
 </tr>
 <tr>
@@ -973,7 +973,7 @@ Models!</p>
 <p>3 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>KAELYNN&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -981,7 +981,7 @@ Models!</p>
 <p>3 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>GRACE</p>
 </td>
 </tr>
 <tr>
@@ -989,7 +989,7 @@ Models!</p>
 <p>3 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>JI-SHIN</p>
 </td>
 </tr>
 <tr>
@@ -997,7 +997,7 @@ Models!</p>
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CLAIRE</p>
 </td>
 </tr>
 <tr>
@@ -1005,7 +1005,7 @@ Models!</p>
 <p>3 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SONIA</p>
 </td>
 </tr>
 <tr>
@@ -1013,7 +1013,7 @@ Models!</p>
 <p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>DIYA</p>
 </td>
 </tr>
 <tr>
@@ -1021,7 +1021,7 @@ Models!</p>
 <p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NAILAH</p>
 </td>
 </tr>
 <tr>
@@ -1029,7 +1029,7 @@ Models!</p>
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>EVELYN</p>
 </td>
 </tr>
 <tr>
@@ -1037,7 +1037,7 @@ Models!</p>
 <p>4 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ZHI YAN</p>
 </td>
 </tr>
 <tr>
@@ -1045,7 +1045,7 @@ Models!</p>
 <p>4 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>RUI XIN</p>
 </td>
 </tr>
 <tr>
@@ -1053,7 +1053,7 @@ Models!</p>
 <p>5 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>KAYLA IMAN</p>
 </td>
 </tr>
 <tr>
@@ -1061,7 +1061,7 @@ Models!</p>
 <p>5 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HANEY</p>
 </td>
 </tr>
 <tr>
@@ -1069,7 +1069,7 @@ Models!</p>
 <p>5 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>YING HUI</p>
 </td>
 </tr>
 <tr>
@@ -1077,7 +1077,7 @@ Models!</p>
 <p>5 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AALIYYA</p>
 </td>
 </tr>
 <tr>
@@ -1085,7 +1085,7 @@ Models!</p>
 <p>5 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SANJANA</p>
 </td>
 </tr>
 <tr>
@@ -1093,7 +1093,7 @@ Models!</p>
 <p>6 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>GLORIA</p>
 </td>
 </tr>
 <tr>
@@ -1101,7 +1101,7 @@ Models!</p>
 <p>6 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ANAIS</p>
 </td>
 </tr>
 <tr>
@@ -1109,7 +1109,7 @@ Models!</p>
 <p>6 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AURELIA</p>
 </td>
 </tr>
 <tr>
@@ -1117,7 +1117,7 @@ Models!</p>
 <p>6 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NUR EILENA</p>
 </td>
 </tr>
 <tr>
@@ -1125,7 +1125,7 @@ Models!</p>
 <p>6 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>FAITH</p>
 </td>
 </tr>
 </tbody>
