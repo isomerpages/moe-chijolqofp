@@ -122,34 +122,26 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wits &amp; Words: Inter-school Debate Championship 2021 Participation
-in Online Friendlies</p>
-<p>Upload Anvantika's feature here</p>
-<p><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/images/Shahana%209%20March.png" rel="noopener noreferrer nofollow" target="_blank">9 March 2021 issue of the Little Red Dot - Shahana's Article Feature</a>
+in Online Friendlies
+<br>Upload Anvantika's feature here
+<br><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/images/Shahana%209%20March.png" rel="noopener noreferrer nofollow" target="_blank">9 March 2021 issue of the Little Red Dot - Shahana's Article Feature</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>2020</h5>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gold Award - 2020 Moo-O Reading Awards</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h5></h5>
 <p></p>
-<h5></h5>
-<p>Wits &amp; Words: Inter-school Debate Championship 2021 Participation
-in Online Friendlies</p>
-<p>Upload Anvantika's feature here</p>
-<p><a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/images/Shahana%209%20March.png" rel="noopener noreferrer nofollow" target="_blank">9 March 2021 issue of the Little Red Dot - Shahana's Article Feature</a>
-</p>
-<h5>2020</h5>
-<p>Gold Award - 2020 Moo-O Reading Awards</p>
 <h4>Science Department</h4>
 <p><strong>2024</strong>
 </p>
