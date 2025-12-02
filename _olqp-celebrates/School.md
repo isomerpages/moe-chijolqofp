@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>School</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -28,9 +32,9 @@ variant: tiptap
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vanda Miss Joaquim Sustained Achievement Award (School Green Award)</p>
-<p>Outstanding Environment Project Award</p>
-<p>Green Living Award (Gold)</p>
+<p>Vanda Miss Joaquim Sustained Achievement Award (School Green Award)
+<br>Outstanding Environment Project Award
+<br>Green Living Award (Gold)</p>
 </td>
 </tr>
 <tr>
@@ -38,8 +42,8 @@ variant: tiptap
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North West Outstanding School Partner Award 2022-Gold</p>
-<p>Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)</p>
+<p>North West Outstanding School Partner Award 2022-Gold
+<br>Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)</p>
 </td>
 </tr>
 <tr>
@@ -47,9 +51,9 @@ variant: tiptap
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North West Outstanding School Partner Award 2021-Silver</p>
-<p>Community in Bloom - Gold Award</p>
-<p>Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)</p>
+<p>North West Outstanding School Partner Award 2021-Silver
+<br>Community in Bloom - Gold Award
+<br>Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)</p>
 </td>
 </tr>
 <tr>
@@ -57,8 +61,8 @@ variant: tiptap
 <p>2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North West Outstanding School Partner Award 2021- Silver</p>
-<p>Miss Joaquim Sustained Achievement Award (School Green Awards)</p>
+<p>North West Outstanding School Partner Award 2021- Silver
+<br>Miss Joaquim Sustained Achievement Award (School Green Awards)</p>
 </td>
 </tr>
 </tbody>
