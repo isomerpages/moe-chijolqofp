@@ -300,6 +300,14 @@ in Online Friendlies
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad (SPSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 2 Silver, 3 Bronze, 9 Merits</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2023</h5>
 </td>
 <td rowspan="1" colspan="1">
@@ -324,6 +332,14 @@ in Online Friendlies
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad (SPSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2022</h5>
 </td>
 <td rowspan="1" colspan="1">
@@ -336,6 +352,14 @@ in Online Friendlies
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Bronze Medals&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad (SPSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Bronze, 3 Merit&nbsp;</p>
 </td>
 </tr>
 </tbody>
