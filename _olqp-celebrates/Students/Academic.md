@@ -62,6 +62,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<h5>2022</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022 National Mathematical Olympiad of Singapore (NMOS)</strong> 
+<br>6 Bronze &amp; 10 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2021</h5>
 </td>
 </tr>
