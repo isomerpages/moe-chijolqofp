@@ -289,6 +289,55 @@ in Online Friendlies
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International STEM (Science-Technology-Engineering-Mathematics) Olympiad&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Gold Medals, 2 Silver Medals and&nbsp;6&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Bronze Medals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2023</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International STEM (Science-Technology-Engineering-Mathematics) Olympiad&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver Medal and 1 Bronze Medal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Science Whiz Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold Award and 1 Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2022</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International STEM (Science-Technology-Engineering-Mathematics) Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Bronze Medals&nbsp;</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
