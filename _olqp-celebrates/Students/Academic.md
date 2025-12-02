@@ -581,8 +581,8 @@ Tamil Language Competitions - Role Play Competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 Mago National Tamil Language</p>
-<p>Story Telling Competition&nbsp;</p>
+<p>2023 Mago National Tamil Language
+<br>Story Telling Competition&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Award Judge’s Choice</p>
