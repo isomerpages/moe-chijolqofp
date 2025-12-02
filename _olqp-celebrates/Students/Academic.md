@@ -62,6 +62,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<h5>2022</h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022 National Mathematical Olympiad of Singapore (NMOS)</strong> 
+<br>6 Bronze &amp; 10 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2021</h5>
 </td>
 </tr>
@@ -164,6 +175,22 @@ in Online Friendlies
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<h5>2025</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>River Valley STEM Festival 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th Place in the Individual Category</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2024</h5>
 </td>
 <td rowspan="1" colspan="1">
@@ -260,6 +287,79 @@ in Online Friendlies
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International STEM (Science-Technology-Engineering-Mathematics) Olympiad&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Gold Medals, 2 Silver Medals and&nbsp;6&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Bronze Medals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad (SPSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 2 Silver, 3 Bronze, 9 Merits</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2023</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International STEM (Science-Technology-Engineering-Mathematics) Olympiad&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver Medal and 1 Bronze Medal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Science Whiz Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold Award and 1 Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad (SPSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2022</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International STEM (Science-Technology-Engineering-Mathematics) Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Bronze Medals&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad (SPSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Bronze, 3 Merit&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -365,6 +465,44 @@ Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Malay Language</p>
+<p>Creative Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Gold with Honours</p>
+</li>
+<li>
+<p>3 Golds</p>
+</li>
+<li>
+<p>1 Sliver</p>
+</li>
+<li>
+<p>2 Bronzes</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 National Malay Language</p>
+<p>Storytelling Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Gold</p>
+</li>
+<li>
+<p>1 Gold with Honours&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -535,64 +673,21 @@ Tamil Language Competitions - Role Play Competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5></h5>
+<p>Tamil Poetry Telling Competition 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>First Prize</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2023 Mago National Tamil Language
+<br>Story Telling Competition&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h5></h5>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h5></h5>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Special Award Judge’s Choice</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
