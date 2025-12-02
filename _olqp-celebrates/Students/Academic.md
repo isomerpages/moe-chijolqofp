@@ -691,7 +691,3 @@ Tamil Language Competitions - Role Play Competition</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
