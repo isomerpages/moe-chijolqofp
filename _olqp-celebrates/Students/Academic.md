@@ -573,18 +573,19 @@ Tamil Language Competitions - Role Play Competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5></h5>
+<p>Tamil Poetry Telling Competition 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>First Prize</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2023 Mago National Tamil Language</p>
+<p>Story Telling Competition&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Special Award Judge’s Choice</p>
 </td>
 </tr>
 <tr>
