@@ -24,7 +24,8 @@ variant: tiptap
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North West Outstanding School Partner Award 2024- Platinum</p>
+<p>North West Outstanding School Partner Award 2024- Platinum
+<br>Environment Sustainability Efforts</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +35,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Vanda Miss Joaquim Sustained Achievement Award (School Green Award)
 <br>Outstanding Environment Project Award
-<br>Green Living Award (Gold)</p>
+<br>Green Living Award (Gold)
+<br>Environment Sustainability Efforts</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +45,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>North West Outstanding School Partner Award 2022-Gold
-<br>Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)</p>
+<br>Vanda Miss Joaquim Sustained Achievement Award (School Green Awards)
+<br>Environment Sustainability Efforts</p>
 </td>
 </tr>
 <tr>
