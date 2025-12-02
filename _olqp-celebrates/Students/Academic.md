@@ -175,6 +175,22 @@ in Online Friendlies
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<h5>2025</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>River Valley STEM Festival 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th Place in the Individual Category</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2024</h5>
 </td>
 <td rowspan="1" colspan="1">
