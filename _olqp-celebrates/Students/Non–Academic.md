@@ -550,7 +550,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019 - 2024</p>
+<p>2019 - 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Green Awards</p>

@@ -183,6 +183,22 @@ in Online Friendlies
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver Medal, 2 Bronze Medals, and 10 Merits</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Gold Medals, 2 Silver Medals and 6 Bronze Medals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>River Valley STEM Festival 2025</p>
 </td>
 <td rowspan="1" colspan="1">
