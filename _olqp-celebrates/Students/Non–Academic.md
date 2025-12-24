@@ -493,10 +493,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Art Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Category B - Certificate of Recognition</p>
+<p>Category C - Certificate of Recognition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
+<p>Singapore Youth Festival Art Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Category A - Certificate of Recognition</p>
@@ -519,7 +531,7 @@ variant: tiptap
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
+<p>Singapore Youth Festival Art Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Category C – Certificate of Participation
