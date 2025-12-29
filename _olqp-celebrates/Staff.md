@@ -262,10 +262,71 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mdm Chan Yu Ting Evelyn</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Civil Service Long Service Award (15 Years)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mdm Foo Li May</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Civil Service Long Service Award (15 Years)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Hoi Lei Ling</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Civil Service Long Service Award (15 Years)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Iskandar Shah Bin Abu Bakar</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Civil Service Long Service Award (15 Years)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Prasad S/O Palamani</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Civil Service Long Service Award (15 Years)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Raihana Binte Snin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Civil Service Long Service Award (15 Years)</p>
 </td>
 </tr>
 <tr>
