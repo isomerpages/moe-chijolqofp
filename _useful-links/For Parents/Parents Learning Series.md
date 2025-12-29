@@ -58,9 +58,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="https://youtu.be/3zhHNcvluf4" rel="noopener noreferrer nofollow" target="_blank">2023 Science Microlearning Unit - The CER Strategy</a>
+<p>&nbsp;<a href="https://youtu.be/8Pf5Z8JULMw" rel="noopener nofollow" target="_blank">2024 Student Well-being (Part 1)</a>
 </p>
-<p><a href="https://youtu.be/T6FoHV0fa88" rel="noopener nofollow" target="_blank">2024 Science Microlearning Unit - Navigating exam type questions</a>
+<p><a href="https://youtu.be/spB-8Gwapvg" rel="noopener nofollow" target="_blank">2024 Student Well-being (Part 2)</a>
+</p>
+<p><a href="https://youtu.be/ze8jjvA1VAM" rel="noopener nofollow" target="_blank">2025 PLS Science Toolkit for Science Learning</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,12 +86,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="https://youtu.be/8Pf5Z8JULMw" rel="noopener nofollow" target="_blank">2024 Student Well-being (Part 1)</a>
-</p>
-<p><a href="https://youtu.be/spB-8Gwapvg" rel="noopener nofollow" target="_blank">2024 Student Well-being (Part 2)</a>
-</p>
-<p><a href="https://youtu.be/ze8jjvA1VAM" rel="noopener nofollow" target="_blank">2025 PLS Science Toolkit for Science Learning</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
