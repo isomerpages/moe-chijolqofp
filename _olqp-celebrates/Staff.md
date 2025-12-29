@@ -238,10 +238,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Ong Si Han</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Civil Service Long Service Award (10 Years)</p>
 </td>
 </tr>
 <tr>
@@ -249,10 +250,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Renuka D/O Thiyagarajan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Civil Service Long Service Award (10 Years)</p>
 </td>
 </tr>
 <tr>
