@@ -394,10 +394,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Lim Jill</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Individual)</p>
 </td>
 </tr>
 <tr>
@@ -405,10 +406,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Tay Hui Yen</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award (Individual)</p>
 </td>
 </tr>
 <tr>
