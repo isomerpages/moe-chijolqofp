@@ -93,10 +93,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Koh Li Ping Daphne</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>CHIJ Long Service Award (10 Years and above)</strong>
+</p>
 </td>
 </tr>
 <tr>
