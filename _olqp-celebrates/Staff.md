@@ -358,10 +358,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Tan Lily</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Civil Service Long Service Award (25 Years)</p>
 </td>
 </tr>
 <tr>
