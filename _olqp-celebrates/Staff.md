@@ -106,10 +106,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Chan Kim Lian Christina</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CHIJ Long Service Award (10 Years and above)</p>
 </td>
 </tr>
 <tr>
