@@ -454,7 +454,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Pek Wei Meow</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Environmental Efforts</p>
@@ -465,7 +466,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Fong Yuen Han</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Environmental Efforts</p>
@@ -476,7 +478,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Chua Xin Jie Melina</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Environmental Efforts</p>
@@ -487,7 +490,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Loh Ju Ling Cheryl</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Environmental Efforts</p>
@@ -498,7 +502,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Lee Hung Ling Rebecca</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Environmental Efforts</p>
@@ -509,7 +514,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr Khoo Yong Seng Tony</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Environmental Efforts</p>
