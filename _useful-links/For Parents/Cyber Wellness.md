@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">S.U.R.E. by National Library Board</a>
+<p><a href="https://www.chijourladyqueenofpeace.moe.edu.sg/useful-links/for-parents/parents-learning-series/" rel="noopener noreferrer nofollow" target="_blank">S.U.R.E. by National Library Board</a>
 </p>
 </li>
 <li>
