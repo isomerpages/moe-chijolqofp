@@ -32,8 +32,7 @@ variant: tiptap
 <p>Sr Joan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Partners in Education ​</p>
-<p>(School Chaplaincy Team)</p>
+<p>Partners in Education ​(School Chaplaincy Team)</p>
 </td>
 </tr>
 <tr>
