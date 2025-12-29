@@ -166,6 +166,66 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Tan Yih Chyn</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJ Long Service Award (10 Years and above)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Ng Gek Hoi</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Civil Service Long Service Award (5 Years)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Teo Lee Yong</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Civil Service Long Service Award (5 Years)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Teo Yi Wen @Nur An-Nisa Teo</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Civil Service Long Service Award (5 Years)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Wu Qianfang</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Civil Service Long Service Award (5 Years)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
