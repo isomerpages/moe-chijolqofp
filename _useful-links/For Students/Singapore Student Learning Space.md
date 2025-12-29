@@ -15,7 +15,7 @@ variant: tiptap
 <p>If you are unable to access the SLS, you can:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Refer to the&nbsp;<a href="https://go.gov.sg/tsr15" rel="noopener noreferrer nofollow" target="_blank">SLS troubleshooting page</a>.</p>
+<p>Refer to the&nbsp;<a href="https://www.learning.moe.edu.sg/students/password-and-technical-support/" rel="noopener noreferrer nofollow" target="_blank">SLS troubleshooting page</a>.</p>
 </li>
 <li>
 <p>Contact General Office at 67691529 or Email: <a href="mailto:lim_kiat_siong_a @moe.edu.sg" rel="noopener nofollow" target="_blank">lim_kiat_siong_a @moe.edu.sg</a>
