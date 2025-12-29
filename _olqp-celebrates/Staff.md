@@ -53,21 +53,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Tinawati Binte Ariffin</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>National Day Awards</strong>​ <strong>The Commendation Medal</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -75,10 +66,26 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Teo Beng Wee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Day Awards</strong>​
+<br><strong>National Day Long Service Medal</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Lye Aye Ju Wendy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CHIJ Long Service Award (10 Years and above)</strong>
+</p>
 </td>
 </tr>
 <tr>
