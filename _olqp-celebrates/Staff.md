@@ -346,10 +346,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Yeo Yanyan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Civil Service Long Service Award (20 Years)</p>
 </td>
 </tr>
 <tr>
