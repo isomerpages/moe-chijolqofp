@@ -130,21 +130,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Teo Yi Wen @ Nur An-Nisa Teo</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>CHIJ Long Service Award (10 Years and above)</p>
 </td>
 </tr>
 <tr>
@@ -152,10 +142,23 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mdm Heng Huay Lee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJ Long Service Award (10 Years and above)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Regina D/O Arulanandan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJ Long Service Award (10 Years and above)</p>
 </td>
 </tr>
 <tr>
