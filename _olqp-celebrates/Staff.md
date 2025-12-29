@@ -40,12 +40,10 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Christine Wong Moi Eng</strong>
-</p>
+<p>Mdm Christine Wong Moi Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>National Day Awards</strong>​ <strong>The Commendation Medal</strong>
-</p>
+<p>National Day Awards​ The Commendation Medal</p>
 </td>
 </tr>
 <tr>
@@ -53,12 +51,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tinawati Binte Ariffin</strong>
-</p>
+<p>Mdm Tinawati Binte Ariffin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>National Day Awards</strong>​ <strong>The Commendation Medal</strong>
-</p>
+<p>National Day Awards​ The Commendation Medal</p>
 </td>
 </tr>
 <tr>
@@ -66,13 +62,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Teo Beng Wee</strong>
-</p>
+<p>Mr Teo Beng Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>National Day Awards</strong>​
-<br><strong>National Day Long Service Medal</strong>
-</p>
+<p>National Day Awards​
+<br>National Day Long Service Medal</p>
 </td>
 </tr>
 <tr>
@@ -80,34 +74,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lye Aye Ju Wendy</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>CHIJ Long Service Award (10 Years and above)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Koh Li Ping Daphne</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>CHIJ Long Service Award (10 Years and above)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Chan Kim Lian Christina</strong>
-</p>
+<p>Ms Lye Aye Ju Wendy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHIJ Long Service Award (10 Years and above)</p>
@@ -118,8 +85,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lam Choy Yoke Rose</strong>
-</p>
+<p>Mdm Koh Li Ping Daphne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHIJ Long Service Award (10 Years and above)</p>
@@ -130,8 +96,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Teo Yi Wen @ Nur An-Nisa Teo</strong>
-</p>
+<p>Ms Chan Kim Lian Christina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHIJ Long Service Award (10 Years and above)</p>
@@ -142,8 +107,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Heng Huay Lee</strong>
-</p>
+<p>Mdm Lam Choy Yoke Rose</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHIJ Long Service Award (10 Years and above)</p>
@@ -154,8 +118,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Regina D/O Arulanandan</strong>
-</p>
+<p>Ms Teo Yi Wen @ Nur An-Nisa Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHIJ Long Service Award (10 Years and above)</p>
@@ -166,8 +129,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Tan Yih Chyn</strong>
-</p>
+<p>Mdm Heng Huay Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHIJ Long Service Award (10 Years and above)</p>
@@ -178,8 +140,29 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ng Gek Hoi</strong>
-</p>
+<p>Ms Regina D/O Arulanandan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJ Long Service Award (10 Years and above)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yih Chyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJ Long Service Award (10 Years and above)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Gek Hoi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (5 Years)</p>
@@ -190,8 +173,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Teo Lee Yong</strong>
-</p>
+<p>Mdm Teo Lee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (5 Years)</p>
@@ -202,8 +184,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Teo Yi Wen @Nur An-Nisa Teo</strong>
-</p>
+<p>Ms Teo Yi Wen @Nur An-Nisa Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (5 Years)</p>
@@ -214,8 +195,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Wu Qianfang</strong>
-</p>
+<p>Mdm Wu Qianfang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (5 Years)</p>
@@ -226,8 +206,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Khoo Yong Seng Tony</strong>
-</p>
+<p>Mr Khoo Yong Seng Tony</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (10 Years)</p>
@@ -238,8 +217,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ong Si Han</strong>
-</p>
+<p>Ms Ong Si Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (10 Years)</p>
@@ -250,8 +228,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Renuka D/O Thiyagarajan</strong>
-</p>
+<p>Ms Renuka D/O Thiyagarajan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (10 Years)</p>
@@ -262,8 +239,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Chan Yu Ting Evelyn</strong>
-</p>
+<p>Mdm Chan Yu Ting Evelyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (15 Years)</p>
@@ -274,8 +250,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Foo Li May</strong>
-</p>
+<p>Mdm Foo Li May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (15 Years)</p>
@@ -286,8 +261,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Hoi Lei Ling</strong>
-</p>
+<p>Mdm Hoi Lei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (15 Years)</p>
@@ -298,8 +272,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Iskandar Shah Bin Abu Bakar</strong>
-</p>
+<p>Mr Iskandar Shah Bin Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (15 Years)</p>
@@ -310,8 +283,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Prasad S/O Palamani</strong>
-</p>
+<p>Mr Prasad S/O Palamani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (15 Years)</p>
@@ -322,8 +294,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Raihana Binte Snin</strong>
-</p>
+<p>Mdm Raihana Binte Snin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (15 Years)</p>
@@ -334,8 +305,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Fong Yuen Han</strong>
-</p>
+<p>Ms Fong Yuen Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (20 Years)</p>
@@ -346,8 +316,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Yeo Yanyan</strong>
-</p>
+<p>Ms Yeo Yanyan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (20 Years)</p>
@@ -358,8 +327,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Lily</strong>
-</p>
+<p>Ms Tan Lily</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (25 Years)</p>
@@ -370,8 +338,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Teo Beng Wee</strong>
-</p>
+<p>Mr Teo Beng Wee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (25 Years)</p>
@@ -382,8 +349,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Koh Li Ping Daphne</strong>
-</p>
+<p>Mdm Koh Li Ping Daphne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civil Service Long Service Award (30 Years)</p>
@@ -394,8 +360,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lim Jill</strong>
-</p>
+<p>Ms Lim Jill</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Individual)</p>
@@ -406,8 +371,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tay Hui Yen</strong>
-</p>
+<p>Mdm Tay Hui Yen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Individual)</p>
@@ -418,8 +382,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Hum Xin Yi Clarissa</strong>
-</p>
+<p>Ms Hum Xin Yi Clarissa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Timetabling Team</p>
@@ -430,8 +393,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tinawati Binte Ariffin</strong>
-</p>
+<p>Mdm Tinawati Binte Ariffin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Timetabling Team</p>
@@ -442,8 +404,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Iskandar Shah Bin Abu Bakar</strong>
-</p>
+<p>Mr Iskandar Shah Bin Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Timetabling Team</p>
@@ -454,8 +415,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Pek Wei Meow</strong>
-</p>
+<p>Mdm Pek Wei Meow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Environmental Efforts</p>
@@ -466,8 +426,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Fong Yuen Han</strong>
-</p>
+<p>Ms Fong Yuen Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Environmental Efforts</p>
@@ -478,8 +437,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chua Xin Jie Melina</strong>
-</p>
+<p>Ms Chua Xin Jie Melina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Environmental Efforts</p>
@@ -490,8 +448,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Loh Ju Ling Cheryl</strong>
-</p>
+<p>Ms Loh Ju Ling Cheryl</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Environmental Efforts</p>
@@ -502,8 +459,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lee Hung Ling Rebecca</strong>
-</p>
+<p>Mdm Lee Hung Ling Rebecca</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Environmental Efforts</p>
@@ -514,8 +470,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Khoo Yong Seng Tony</strong>
-</p>
+<p>Mr Khoo Yong Seng Tony</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Environmental Efforts</p>
@@ -526,7 +481,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Adeline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Musical Working Team</p>
@@ -537,7 +492,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Koh Li Ping Daphne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Musical Working Team</p>
@@ -548,7 +503,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Wong Mun Onn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Musical Working Team</p>
@@ -559,7 +514,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Yeo Yanyan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Musical Working Team</p>
@@ -570,7 +525,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ong Si Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Musical Working Team</p>
@@ -581,7 +536,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Shoon Li Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Musical Working Team</p>
@@ -592,7 +547,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Padmavathy Subramanian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Musical Working Team</p>
@@ -603,7 +558,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Fung Wei Yan Jessica</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Contribution Award (Team) Musical Working Team</p>
@@ -614,10 +569,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ALL OLQP Staff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outstanding Contribution Award(Team)​ 70th Anniversary Celebrations</p>
 </td>
 </tr>
 </tbody>
