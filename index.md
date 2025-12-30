@@ -17,7 +17,7 @@ sections:
           url: /year-end-message-from-chairperson-ijbom/
         - title: CHIJ OLQP School Calendar
           description: ""
-          url: "#"
+          url: /school-calendar/
   - infobar:
       title: Find Us On Facebook
       id: infobar
