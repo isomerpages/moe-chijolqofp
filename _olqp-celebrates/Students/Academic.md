@@ -503,10 +503,10 @@ in Online Friendlies
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Consolation Prize for Primary 1</p>
-<p>3<sup>rd</sup> Prize for Primary 2</p>
-<p>1<sup>st</sup> Prize for Primary 3</p>
-<p>1<sup>st</sup> Prize for Primary</p>
+<p>Consolation Prize for Primary 1
+<br>3<sup>rd</sup> Prize for Primary 2
+<br>1<sup>st</sup> Prize for Primary 3
+<br>1<sup>st</sup> Prize for Primary</p>
 </td>
 </tr>
 <tr>
@@ -516,8 +516,8 @@ in Online Friendlies
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1<sup>st</sup> Prize for Primary 5</p>
-<p>Consolation Prize for Primary 6</p>
+<p>1<sup>st</sup> Prize for Primary 5
+<br>Consolation Prize for Primary 6</p>
 </td>
 </tr>
 <tr>
