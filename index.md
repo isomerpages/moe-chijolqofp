@@ -15,6 +15,9 @@ sections:
         - title: Year End Message from Chairperson, IJBOM
           description: ""
           url: /year-end-message-from-chairperson-ijbom/
+        - title: OLQP School Calendar
+          description: Key Highlight description
+          url: "#"
   - infobar:
       title: Find Us On Facebook
       id: infobar
