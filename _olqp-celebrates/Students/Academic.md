@@ -413,6 +413,22 @@ in Online Friendlies
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Text Recital Competition for Primary and Secondary Schools&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Singapore Chinese Moo-O Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2024</h5>
 </td>
 <td rowspan="1" colspan="1">
