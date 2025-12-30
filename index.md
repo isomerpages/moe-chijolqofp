@@ -16,7 +16,7 @@ sections:
           description: ""
           url: /year-end-message-from-chairperson-ijbom/
         - title: OLQP School Calendar
-          description: Key Highlight description
+          description: ""
           url: "#"
   - infobar:
       title: Find Us On Facebook
