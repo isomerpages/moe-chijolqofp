@@ -413,6 +413,115 @@ in Online Friendlies
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Text Recital Competition for Primary and Secondary Schools&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Singapore Chinese Moo-O Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18<sup>th</sup> YMCA Mandarin Speaking Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Third Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Malay Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Gold</p>
+<p>5 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Malay Language</p>
+<p>Storytelling Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Gold</p>
+<p>1 Gold with Honours&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Juara Si Cilik 2025</p>
+<p>Classic Folk Song Singing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Price</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kolam Ayer CC Indian Activity Executive Committee
+<br>Tamil Language Competitions 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Primary 3 Tamil Language Singing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Primary 4 Tamil Language Poster Design Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>&nbsp; Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Primary 5 Tamil Language Traditional Arts Awareness Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup> Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>W6 Cluster Schools
+<br>SG60 Tamil Language Competitions 2025 - <strong>Show and Tell Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation Prize for Primary 1
+<br>3<sup>rd</sup> Prize for Primary 2
+<br>1<sup>st</sup> Prize for Primary 3
+<br>1<sup>st</sup> Prize for Primary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>W6 Cluster Schools
+<br>SG60 Tamil Language Competitions 2025 - <strong>Essay Writing Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Prize for Primary 5
+<br>Consolation Prize for Primary 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2024</h5>
 </td>
 <td rowspan="1" colspan="1">
