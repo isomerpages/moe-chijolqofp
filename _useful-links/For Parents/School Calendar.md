@@ -6,6 +6,6 @@ description: ""
 third_nav_title: For Parents
 ---
 <div class="iframe-wrapper">
-<iframe style="border: 0" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=olqpsch%40gmail.com&amp;ctz=Asia%2FSingapore"></iframe>
+<iframe style="border: 0" height="600" width="900" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=olqpsch%40gmail.com&amp;ctz=Asia%2FSingapore"></iframe>
 </div>
 <p></p>
