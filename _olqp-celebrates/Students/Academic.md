@@ -465,6 +465,63 @@ in Online Friendlies
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Kolam Ayer CC Indian Activity Executive Committee
+<br>Tamil Language Competitions 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Primary 3 Tamil Language Singing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Primary 4 Tamil Language Poster Design Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>&nbsp; Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Primary 5 Tamil Language Traditional Arts Awareness Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup> Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>W6 Cluster Schools
+<br>SG60 Tamil Language Competitions 2025 - <strong>Show and Tell Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation Prize for Primary 1</p>
+<p>3<sup>rd</sup> Prize for Primary 2</p>
+<p>1<sup>st</sup> Prize for Primary 3</p>
+<p>1<sup>st</sup> Prize for Primary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>W6 Cluster Schools
+<br>SG60 Tamil Language Competitions 2025 - <strong>Essay Writing Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Prize for Primary 5</p>
+<p>Consolation Prize for Primary 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2024</h5>
 </td>
 <td rowspan="1" colspan="1">
