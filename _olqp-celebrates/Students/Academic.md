@@ -429,6 +429,42 @@ in Online Friendlies
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>18<sup>th</sup> YMCA Mandarin Speaking Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Third Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Malay Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Gold</p>
+<p>5 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Malay Language</p>
+<p>Storytelling Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Gold</p>
+<p>1 Gold with Honours&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Juara Si Cilik 2025</p>
+<p>Classic Folk Song Singing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Price</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>2024</h5>
 </td>
 <td rowspan="1" colspan="1">
