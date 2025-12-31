@@ -6,8 +6,7 @@ variant: tiptap
 ---
 <h3>News &amp; Announcements</h3>
 <p>For purchase of IJ Doll and bag, click <a href="/files/ijdollposter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p>Follow us on&nbsp;<a href="https://www.facebook.com/chijolqp.official" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>&nbsp;for
+<br>Follow us on&nbsp;<a href="https://www.facebook.com/chijolqp.official" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>&nbsp;for
 updates on school programmes and happenings.</p>
 <hr>
 <h4>Quick Links</h4>
