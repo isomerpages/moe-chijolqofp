@@ -5,11 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>News &amp; Announcements</h3>
-<p>Please click <a href="/files/Calender/calendar_of_events_for_term_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-access Calendar of Events for Term 1, 2024.</p>
 <p>For purchase of IJ Doll and bag, click <a href="/files/ijdollposter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p>Follow us on&nbsp;<a href="https://www.facebook.com/chijolqp.official" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>&nbsp;for
+<br>Follow us on&nbsp;<a href="https://www.facebook.com/chijolqp.official" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>&nbsp;for
 updates on school programmes and happenings.</p>
 <hr>
 <h4>Quick Links</h4>
