@@ -5,36 +5,39 @@ description: ""
 variant: tiptap
 ---
 <h3>Principal's Message</h3>
-<p>Welcome to Our Lady Queen of Peace (OLQP) website. We hope you will enjoy
-learning more about how our IJ dream is lived out through the various programmes
-and student experiences.</p>
-<p>At OLQP, we believe that every child is gifted with God-given talents,
-and we are committed to provide a holistic education that extends beyond
-academics to shape character and foster a strong sense of social responsibility.
-Together with our teachers, we live out the IJ Dream and instill the values
-of Truth, Justice, Freedom, and Love in our girls, guiding them to use
-their gifts and talents in service to others—especially those who are disadvantaged.
-We will integrate academic excellence with the cultivation of virtues to
-equip our girls to be leaders of tomorrow— who are not only skilled and
-think critically but are compassionate and act kindly. Our girls would
-have many opportunities to engage in a variety of learning experiences
-which empower them to discover their unique strengths, work collaboratively
-with others, and embrace challenges. Through exploring their passions and
-making meaningful contributions to the school and the wider community,
-our students develop a deep sense of purpose. This equips them with the
-dispositions, skills and moral compass needed to navigate the complexities
-of tomorrow. Through these experiences, our girls grow to become an “Enthusiastic
-Learner, Humble Leader and Gracious Lady”.</p>
-<p>In 2025, we celebrate our school’s 70th anniversary - “Love &amp; Peace:
-Our Heritage, Our Legacy”, a milestone that reflects decades of learning,
-growth and excellence as a community. To commemorate this special occasion,
-we have planned a variety of events and opportunities for everyone to come
-together and celebrate. Highlights will include fundraising, a musical
-showcasing the incredible talents of our girls, as well as a special Mass
-to give thanks for our shared journey and blessings. We warmly invite all
-parents to join us in these celebrations, as your support and participation
-are integral to making this milestone a memorable and meaningful one. More
-details will follow, and we look forward to celebrating with you!</p>
-<p>Ms Phyllis Pham</p>
-<p>Your Partner-in-Education</p>
+<p><strong>Welcome to CHIJ Our Lady Queen of Peace (OLQP)</strong>
+</p>
+<p>We are delighted that you are visiting our website and invite you to learn
+more about who we are as a school community and how the IJ Dream is lived
+out through our programmes, relationships and student experiences.</p>
+<p>At OLQP, we believe that every child is gifted with God-given talents.
+We are committed to providing a holistic education that extends beyond
+academic achievement to the formation of character and a strong sense of
+social responsibility. Grounded in strong fundamentals, we nurture our
+girls to live out the spirit of the IJ Girl with courage, confidence and
+compassion in all that they do.</p>
+<p>We place a strong focus on deepening the quality of learning experiences
+for our girls, nurturing confident learners who approach learning with
+curiosity, perseverance and joy. Our OLQP girls are encouraged to be active
+learners and critical thinkers who ask questions, make connections, reflect
+on their learning and take ownership of their growth. Through intentional
+teaching practices, our classrooms are safe and supportive spaces where
+girls are encouraged to be confident and courageous in their thinking,
+doing and speaking; to collaborate with others, share perspectives, and
+recognise that effort, growth and courage to try are just as important
+as outcomes.</p>
+<p>At the heart of a CHIJ OLQP education is the cultivation of virtues and
+the formation of leaders with humility who think deeply, communicate confidently
+and act with compassion and kindness. Together with our dedicated teachers
+and staff, we live out the IJ Dream by instilling the values of <strong>Truth, Justice, Freedom and Love</strong> in
+our girls. Guided by these values and by the love and care of our teachers,
+our girls are provided with diverse learning opportunities that empower
+them to discover their strengths and to use their gifts and talents in
+service to others, especially those who are disadvantaged. As they explore
+their passions and make meaningful contributions to the school and wider
+community, they develop a deep sense of purpose.</p>
+<p>Through their six years at CHIJ Our Lady Queen of Peace, our girls will
+grow in love for God, for themselves, and for others.</p>
+<p>Ms Phyllis Pham
+<br>Your Partner-in-Education</p>
 <p></p>
