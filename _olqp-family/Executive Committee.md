@@ -294,18 +294,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Christine Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:christine_wong_moi_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christine_wong_moi_eng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -313,6 +301,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vijayalakshmi_devanathan%20@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vijayalakshmi_devanathan @moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tony Khoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khoo_yong_seng_tony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_yong_seng_tony@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Hana Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nur_Hana_Tay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Hana_Tay@moe.edu.sg</a>
 </p>
 </td>
 </tr>
