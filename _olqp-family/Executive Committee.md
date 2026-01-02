@@ -41,10 +41,10 @@ variant: tiptap
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Daphne Koh</p>
+<p>Ms Eilina Abdullah Look</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">koh_li_ping_daphne@moe.edu.sg</a>
+<p><a href="mailto:Eilina_Abdullah_Look@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eilina_Abdullah_Look@moe.edu.sg</a>
 </p>
 </td>
 </tr>
