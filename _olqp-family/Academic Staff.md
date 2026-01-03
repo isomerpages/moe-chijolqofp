@@ -200,7 +200,9 @@ variant: tiptap
 <br>Ms Lim Su Bing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Michelle_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Michelle_goh@moe.edu.sg</a>
+<br><a href="mailto:Lim_Su_Bing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Su_Bing@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -212,7 +214,9 @@ variant: tiptap
 <br>Mrs Rose Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Jessica_FUNG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jessica_FUNG@moe.edu.sg</a>
+<br><a href="mailto:lam_choy_yoke_rose@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_choy_yoke_rose@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
