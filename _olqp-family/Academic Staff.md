@@ -164,7 +164,8 @@ variant: tiptap
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ng Gek Hooi
+<br>Mdm Laura Lai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -175,7 +176,8 @@ variant: tiptap
 <p>2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Zakiah
+<br>Mrs Tse-Loh Hsiu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -186,9 +188,8 @@ variant: tiptap
 <p>2 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p>Mrs Michelle Goh
+<br>Ms Lim Su Bing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -199,7 +200,8 @@ variant: tiptap
 <p>2 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Jessica Lim
+<br>Mrs Rose Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
