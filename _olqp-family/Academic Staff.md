@@ -289,13 +289,10 @@ variant: tiptap
 <p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Melissa Lee
-<br>Mdm Wu Qianfang</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dong_shu_ling_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dong_shu_ling_melissa@moe.edu.sg</a>
-<br><a href="mailto:wu_qian_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_qian_fang@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -303,13 +300,10 @@ variant: tiptap
 <p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Prasad
-<br>Ms Ong Si Han</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Prasad_Palamani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Prasad_Palamani@moe.edu.sg</a>
-<br><a href="mailto:ong_si_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_han@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -317,15 +311,10 @@ variant: tiptap
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheryl Loh Ju Ling
-<br>Mdm Wendy Lye
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">loh_ju_ling_cheryl@moe.edu.sg</a>
-<br><a href="mailto:lye_aye_ju_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye_aye_ju_wendy@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
