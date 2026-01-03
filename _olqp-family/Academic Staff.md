@@ -172,7 +172,9 @@ variant: tiptap
 <br>Mdm Laura Lai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:NG_Gek_Hooi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NG_Gek_Hooi@moe.edu.sg</a>
+<br><a href="mailto:ho_wan_ghin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wan_ghin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
