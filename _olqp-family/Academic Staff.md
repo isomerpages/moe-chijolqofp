@@ -90,7 +90,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Melissa Lee
-<br>Mdm Naelah</p>
+<br>Mdm Naelah Nor Bte Othman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -211,13 +211,10 @@ variant: tiptap
 <p>3 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Seok Peng
-<br>Mr Owen Lau Quck Woon</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wong_Seok_Peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Seok_Peng@moe.edu.sg</a>
-<br><a href="mailto:lau_quck_woon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_quck_woon@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -225,13 +222,10 @@ variant: tiptap
 <p>3 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Looi-Tan Lee Ling
-<br>Ms Grace Chick Yuet Fun</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:looi-tan_lee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">looi-tan_lee_ling@moe.edu.sg</a>
-<br><a href="mailto:Chick_Yuet_Fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chick_Yuet_Fun@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -239,13 +233,10 @@ variant: tiptap
 <p>3 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joyce Lim
-<br>Mrs Clarissa Pang</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_wang_muay_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wang_muay_joyce@moe.edu.sg</a>
-<br><a href="mailto:hum_xin_yi_clarissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hum_xin_yi_clarissa@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -253,13 +244,12 @@ variant: tiptap
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fong Yuen Han
-<br>Mdm Naelah Nor Bte Othman</p>
+<p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fong_yuen_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fong_yuen_han@moe.edu.sg</a>
-<br><a href="mailto:naelah_nor_othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">naelah_nor_othman@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -267,13 +257,10 @@ variant: tiptap
 <p>3 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Beng Wee Kenneth
-<br>Mrs Deva</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_beng_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_beng_wee@moe.edu.sg</a>
-<br><a href="mailto:vijayalakshmi_devanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vijayalakshmi_devanathan@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
