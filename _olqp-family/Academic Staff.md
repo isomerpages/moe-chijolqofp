@@ -322,13 +322,10 @@ variant: tiptap
 <p>4 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yih Chyn Anthony
-<br>Ms Tan Lily</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yih_chyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yih_chyn@moe.edu.sg</a>
-<br><a href="mailto:tan_lily_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_lily_a@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -336,13 +333,10 @@ variant: tiptap
 <p>4 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng-Foo Li May
-<br>Ms Nur Hana Tay</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_li_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_li_may@moe.edu.sg</a>
-<br><a href="mailto:nur_hana_tay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hana_tay@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
