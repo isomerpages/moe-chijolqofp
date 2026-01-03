@@ -348,7 +348,8 @@ variant: tiptap
 <p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Ling</p>
+<p>Ms Michelle Ling
+<br>Ms Joyce Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:michelle_ling_mujun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_ling_mujun@moe.edu.sg</a>
@@ -360,10 +361,13 @@ variant: tiptap
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tony Khoo
+<br>Ms Ong Si Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><a href="mailto:ong_si_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_han@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -371,7 +375,9 @@ variant: tiptap
 <p>4 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Wendy Lye
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
