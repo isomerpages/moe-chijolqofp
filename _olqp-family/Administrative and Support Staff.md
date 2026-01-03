@@ -103,17 +103,6 @@ variant: tiptap
 <p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sani Bin Salleh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Rajantheran</p>
 </td>
 <td rowspan="1" colspan="1">
