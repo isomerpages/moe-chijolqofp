@@ -278,9 +278,7 @@ variant: tiptap
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
