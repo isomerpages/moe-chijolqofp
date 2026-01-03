@@ -33,7 +33,10 @@ variant: tiptap
 <br>Mdm Wong Shu Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:martin_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">martin_leong@moe.edu.sg</a>
+</p>
+<p><a href="mailto:wong_shu_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_shu_xian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +48,10 @@ variant: tiptap
 <br>Ms Zhu Keyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:raihana_snin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raihana_snin@moe.edu.sg</a>
+</p>
+<p><a href="mailto:zhu_keyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_keyu@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
