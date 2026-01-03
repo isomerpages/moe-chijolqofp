@@ -186,7 +186,9 @@ variant: tiptap
 <br>Mrs Tse-Loh Hsiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zakiah_zainol_abidin_mar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zakiah_zainol_abidin_mar@moe.edu.sg</a>
+<br><a href="mailto:tse_nan_shing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tse_nan_shing@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
