@@ -340,7 +340,9 @@ variant: tiptap
 <br>Ms Qu Yuting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_quee_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_quee_leng@moe.edu.sg</a>
+<br><a href="mailto:qu_yuting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qu_yuting@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -365,7 +367,8 @@ variant: tiptap
 <br>Ms Ong Si Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:khoo_yong_seng_tony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_yong_seng_tony@moe.edu.sg</a>
+</p>
 <p><a href="mailto:ong_si_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_han@moe.edu.sg</a>
 </p>
 </td>
@@ -379,7 +382,9 @@ variant: tiptap
 <br>Ms Valerie Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lye_aye_ju_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye_aye_ju_wendy@moe.edu.sg</a>
+<br><a href="mailto:CHONG_FEI_HUA_VALERIE@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">CHONG_FEI_HUA_VALERIE@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -391,7 +396,9 @@ variant: tiptap
 <br>Mr Kenneth Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Seet_Shuen_Lyn_Brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Seet_Shuen_Lyn_Brenda@moe.edu.sg</a>
+<br><a href="mailto:teo_beng_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_beng_wee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
