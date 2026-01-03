@@ -78,7 +78,10 @@ variant: tiptap
 <br>Ms Lim Tze Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:regina_arulanandan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">regina_arulanandan@moe.edu.sg</a>
+</p>
+<p><a href="mailto:lim_tze_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tze_ying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +93,10 @@ variant: tiptap
 <br>Mrs Deva</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Winnie_Lee_Oi_Lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Winnie_Lee_Oi_Lin@moe.edu.sg</a>
+</p>
+<p><a href="mailto:vijayalakshmi_devanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vijayalakshmi_devanathan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
