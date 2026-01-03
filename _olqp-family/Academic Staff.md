@@ -427,7 +427,8 @@ variant: tiptap
 <p>5 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Roy Alingalan
+<br>Mdm Wu Qian Fang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -438,7 +439,8 @@ variant: tiptap
 <p>5 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Melina Esther Chua
+<br>Ms Nur Hana</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -449,7 +451,8 @@ variant: tiptap
 <p>5 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Wong Seok Peng
+<br>Ms Lily Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -460,10 +463,13 @@ variant: tiptap
 <p>5 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ng Jia Hui
+<br>Ms Eilina Look</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jia_hui@moe.edu.sg</a>
+<br><a href="mailto:Eilina_Abdullah_Look@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eilina_Abdullah_Look@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -471,10 +477,14 @@ variant: tiptap
 <p>5 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Anthony Tan Yih Chyn
+<br>Mrs Christina Yip</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_yih_chyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yih_chyn@moe.edu.sg</a>
+</p>
+<p><a href="mailto:christina_chan_kim_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christina_chan_kim_lian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -748,15 +758,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Iskandar_Shah_Abu_Bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Iskandar_Shah_Abu_Bakar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Christina Yip</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:christina_chan_kim_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christina_chan_kim_lian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
