@@ -108,7 +108,10 @@ variant: tiptap
 <br>Mdm Naelah Nor Bte Othman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:dong_shu_ling_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dong_shu_ling_melissa@moe.edu.sg</a>
+</p>
+<p><a href="mailto:naelah_nor_othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">naelah_nor_othman@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -137,7 +140,8 @@ variant: tiptap
 <p>2 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Mahani
+<br>Ms Yeo Yan Yan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
