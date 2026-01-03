@@ -463,15 +463,10 @@ variant: tiptap
 <p>6 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Brenda Seet
-<br>Mdm Chong Fei Hua Valerie
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Seet_Shuen_Lyn_Brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Seet_Shuen_Lyn_Brenda@moe.edu.sg</a>
-<br><a href="mailto:chong_fei_hua_valerie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_fei_hua_valerie@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -479,13 +474,10 @@ variant: tiptap
 <p>6 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Melina Esther Chua
-<br>Ms Es'tee Odelia Lim</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_xin_jie_melina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_xin_jie_melina@moe.edu.sg</a>
-<br><a href="mailto:estee_odelia_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">estee_odelia_lim@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -493,13 +485,10 @@ variant: tiptap
 <p>6 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Shu Xian
-<br>Mr Daniel Wong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_shu_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_shu_xian@moe.edu.sg</a>
-<br><a href="mailto:wong_mun_onn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_mun_onn@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -507,13 +496,10 @@ variant: tiptap
 <p>6 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tony Khoo
-<br>Mdm Daphne Koh</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khoo_yong_seng_tony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_yong_seng_tony@moe.edu.sg</a>
-<br><a href="mailto:koh_li_ping_daphne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_li_ping_daphne@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -521,13 +507,10 @@ variant: tiptap
 <p>6 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alingalan Roy Calvin Arales
-<br>Mrs Rebecca Loh</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alingalan_roy_calvin_arales@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alingalan_roy_calvin_arales@moe.edu.sg</a>
-<br><a href="mailto:lee_hung_ling_rebecca_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_hung_ling_rebecca_a@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
