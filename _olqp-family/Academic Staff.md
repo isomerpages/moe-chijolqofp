@@ -63,7 +63,10 @@ variant: tiptap
 <br>Mdm Pek Wei Meow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chan_yu_ting_evelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yu_ting_evelyn@moe.edu.sg</a>
+</p>
+<p><a href="mailto:pek_wei_meow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_wei_meow@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
