@@ -122,13 +122,10 @@ variant: tiptap
 <p>2 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zhu Keyu
-<br>Mrs Stephanie Wong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhu_keyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_keyu@moe.edu.sg</a>
-<br><a href="mailto:stephanie_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie_wong@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -136,13 +133,10 @@ variant: tiptap
 <p>2 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mahani Khamin
-<br>Ms Ng Jia Hui</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mahani_khamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahani_khamin@moe.edu.sg</a>
-<br><a href="mailto:ng_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jia_hui@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -150,13 +144,10 @@ variant: tiptap
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Martin Leong
-<br>Ms Lai Pey Chyi</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:martin_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">martin_leong@moe.edu.sg</a>
-<br><a href="mailto:lai_pey_chyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_pey_chyi@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -164,13 +155,10 @@ variant: tiptap
 <p>2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Evelyn Zhong
-<br>Mdm Pek Wei Meow</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_yu_ting_evelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yu_ting_evelyn@moe.edu.sg</a>
-<br><a href="mailto:pek_wei_meow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_wei_meow@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -178,15 +166,12 @@ variant: tiptap
 <p>2 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Tze Ying
+<p>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_tze_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tze_ying@moe.edu.sg</a>
-<br>
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -194,13 +179,10 @@ variant: tiptap
 <p>2 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Perlin Wong
-<br>Ms Tan Adeline</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="perlin_astrid_wong@moe.edu.sg" rel="noopener nofollow" target="_blank">perlin_astrid_wong@moe.edu.sg</a>
-<br><a href="mailto:Tan_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_adeline@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
