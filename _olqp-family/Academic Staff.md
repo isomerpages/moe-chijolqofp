@@ -249,7 +249,9 @@ variant: tiptap
 <br>Ms Vivian Quek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Prasad_Palamani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Prasad_Palamani@moe.edu.sg</a>
+<br><a href="mailto:teh_xiuwen_vivian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_xiuwen_vivian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -261,7 +263,9 @@ variant: tiptap
 <br>Mrs Looi - Tan Lee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:estee_odelia_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">estee_odelia_lim@moe.edu.sg</a>
+<br><a href="mailto:looi-tan_lee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">looi-tan_lee_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +277,9 @@ variant: tiptap
 <br>Mrs Manjula Menon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ju_ling_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ju_ling_cheryl@moe.edu.sg</a>
+<br><a href="mailto:manjula_naidu_ramaraj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">manjula_naidu_ramaraj@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
