@@ -376,8 +376,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wendy Lye
-<br>
-</p>
+<br>Ms Valerie Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -388,7 +387,8 @@ variant: tiptap
 <p>4 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Brenda Seet
+<br>Mr Kenneth Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
