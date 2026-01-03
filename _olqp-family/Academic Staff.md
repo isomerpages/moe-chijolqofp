@@ -152,7 +152,8 @@ variant: tiptap
 <p>2 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lily Hoi
+<br>Ms Lim Jing Xian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
