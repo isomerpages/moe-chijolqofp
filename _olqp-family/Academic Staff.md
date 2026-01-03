@@ -285,7 +285,9 @@ variant: tiptap
 <br>Mr Daniel Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:foo_li_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_li_may@moe.edu.sg</a>
+<br><a href="mailto:wong_mun_onn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_mun_onn@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -297,7 +299,9 @@ variant: tiptap
 <br>Mdm Rebecca Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:astrid_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">astrid_wong@moe.edu.sg</a>
+<br><a href="mailto:Lee_Hung_Ling_Rebecca_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Hung_Ling_Rebecca_A@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
