@@ -245,7 +245,8 @@ variant: tiptap
 <p>3 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Prasad
+<br>Ms Vivian Quek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -256,7 +257,8 @@ variant: tiptap
 <p>3 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Estee Odelia Lim
+<br>Mrs Looi - Tan Lee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -267,7 +269,8 @@ variant: tiptap
 <p>3 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Cheryl Loh
+<br>Mrs Manjula Menon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -278,7 +281,8 @@ variant: tiptap
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Ng - Foo Li May
+<br>Mr Daniel Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -289,7 +293,8 @@ variant: tiptap
 <p>3 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Perlin Wong
+<br>Mdm Rebecca Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
