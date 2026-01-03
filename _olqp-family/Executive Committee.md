@@ -137,10 +137,10 @@ variant: tiptap
 <p>Year Head (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kelly Ng-Tan</p>
+<p>Mdm Tinawati Ariffin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hui_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_ting@moe.edu.sg</a>
+<p><a href="mailto:tinawati_ariffin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tinawati_ariffin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -149,10 +149,10 @@ variant: tiptap
 <p>Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tinawati Ariffin</p>
+<p>Mrs Kelly Ng-Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tinawati_ariffin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tinawati_ariffin@moe.edu.sg</a>
+<p><a href="mailto:tan_hui_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -289,6 +289,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:regina_arulanandan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">regina_arulanandan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sharon Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_quee_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_quee_leng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
