@@ -739,15 +739,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Winnie Lee Oi Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:winnie_lee_oi_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">winnie_lee_oi_lin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Sheila Rabot</p>
 </td>
 <td rowspan="1" colspan="1">
