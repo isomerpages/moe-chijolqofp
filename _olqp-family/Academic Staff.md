@@ -876,7 +876,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Education Needs Officer</p>
+<p>Senior Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Charmaine Choo</p>
