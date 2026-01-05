@@ -305,7 +305,7 @@ variant: tiptap
 <br>Mdm Rebecca Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:astrid_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">astrid_wong@moe.edu.sg</a>
+<p><a href="mailto:perlin_astrid_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">perlin_astrid_wong@moe.edu.sg</a>
 <br><a href="mailto:Lee_Hung_Ling_Rebecca_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Hung_Ling_Rebecca_A@moe.edu.sg</a>
 </p>
 </td>
@@ -803,10 +803,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sheila Rabot</p>
+<p>Ms Gina Siew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="sheila_anne_ rabot@moe.edu.sg" rel="noopener nofollow" target="_blank">sheila_anne_ rabot@moe.edu.sg</a>
+<p><a href="mailto:SIEW_JIN_ER_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">SIEW_JIN_ER_A@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -821,19 +821,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gina Siew</p>
+<p>Mdm Ramani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:SIEW_JIN_ER_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">SIEW_JIN_ER_A@moe.edu.sg</a>
+<p><a href="mailto:chandrasekaran_ramani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chandrasekaran_ramani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ramani</p>
+<p>Ms Sheila Rabot</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chandrasekaran_ramani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chandrasekaran_ramani@moe.edu.sg</a>
+<p><a href="sheila_anne_ rabot@moe.edu.sg" rel="noopener nofollow" target="_blank">sheila_anne_ rabot@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -852,6 +852,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_ai_gek_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ai_gek_sharon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chen I Chun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_i_chun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_i_chun_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
