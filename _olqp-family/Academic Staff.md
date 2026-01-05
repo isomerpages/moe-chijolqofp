@@ -848,6 +848,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Cheryl Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Yap_San_Hui_Cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Yap_San_Hui_Cheryl@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Sharon Chua</p>
 </td>
 <td rowspan="1" colspan="1">
