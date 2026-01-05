@@ -384,7 +384,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lye_aye_ju_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye_aye_ju_wendy@moe.edu.sg</a>
-<br><a href="mailto:CHONG_FEI_HUA_VALERIE@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">CHONG_FEI_HUA_VALERIE@moe.edu.sg</a>
+<br><a href="mailto:chong_fei_hua_valerie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_fei_hua_valerie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
