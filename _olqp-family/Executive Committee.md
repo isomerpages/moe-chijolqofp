@@ -134,7 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Primary)</p>
+<p>Year Head (P1 and P4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tinawati Ariffin</p>
@@ -146,7 +146,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Middle Primary)</p>
+<p>Year Head (P2 and P3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kelly Ng-Tan</p>
@@ -158,7 +158,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Primary)</p>
+<p>Year Head (P5 and P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Caroline Manonmani</p>
