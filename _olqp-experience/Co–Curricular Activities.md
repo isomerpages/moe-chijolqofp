@@ -29,7 +29,7 @@ stages of their development.</p>
 practise the 21st Century Competencies and make students' learning visible
 through experiential learning.</p>
 <h4>CCA Schedule</h4>
-<p>Click <a href="/files/CCA/CCA_Schedule_2025_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/CCA/CCA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the CCA schedule</p>
 <p><strong>Sports and Games</strong>
 </p>
