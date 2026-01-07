@@ -899,6 +899,61 @@ Club)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner’s Badge Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Recipients</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Thinking Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 1 Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 4 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
