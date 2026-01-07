@@ -1076,8 +1076,6 @@ emerged as one of the <strong>Top 25 Global Finalists (overall)</strong>.</p>
 </div>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/BJsVGm1KC4o</a>
 </p>
-<p></p>
-<p></p>
 <p>2024: Leader in Me International Speech Contest - <strong>Alexis Yap </strong>(6
 Love) awarded both Finalist and Regional Finalist 2024.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=KJWQOnyVoQs</a>
