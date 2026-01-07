@@ -191,6 +191,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Roy Calvin Alingalan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">alingalan_roy_calvin_arales@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
