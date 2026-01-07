@@ -946,10 +946,11 @@ Club)</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Online Advocacy Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1<sup>st</sup>
+</p>
 </td>
 </tr>
 <tr>
