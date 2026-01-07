@@ -28,6 +28,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Netball National Championships Senior Division (League 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Netball National Championships Junior Division (Tier 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,6 +137,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Softball National Championships Senior Division (League 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Softball National Championships Junior Division (League 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,6 +243,22 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Placing</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Rhythmic Gymnastics Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Category (Group Freehand) - 8th position
+<br>
+</p>
+<p>Junior &amp; Senior Category (All Around):
+<br>Junior Team – 16th position out of 37 schools
+<br>Junior Individual – 54th position out of 88 participants</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -679,6 +739,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Infocomm Challenge (SIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Team Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -748,6 +819,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Young Playwright</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 entries shortlisted</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -814,6 +896,62 @@ Club)</p>
 <th rowspan="1" colspan="1">
 <p>Placing</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner’s Badge Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Recipients</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Thinking Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 1 Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 4 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Online Advocacy Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -938,8 +1076,6 @@ emerged as one of the <strong>Top 25 Global Finalists (overall)</strong>.</p>
 </div>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/BJsVGm1KC4o</a>
 </p>
-<p></p>
-<p></p>
 <p>2024: Leader in Me International Speech Contest - <strong>Alexis Yap </strong>(6
 Love) awarded both Finalist and Regional Finalist 2024.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=KJWQOnyVoQs</a>
