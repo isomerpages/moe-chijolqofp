@@ -246,6 +246,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Rhythmic Gymnastics Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Category (Group Freehand) - 8th position
+<br>
+</p>
+<p>Junior &amp; Senior Category (All Around):
+<br>Junior Team – 16th position out of 37 schools
+<br>Junior Individual – 54th position out of 88 participants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
