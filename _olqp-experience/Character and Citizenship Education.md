@@ -210,10 +210,6 @@ the good of the community.</p>
 to provide baseline leadership skills acquisition for all students, and
 extend opportunities for students with aptitude and potential, to lead
 and serve the school and the community through various student groups.</p>
-<p>At the class level, “I Can Lead” aims to provide all students an opportunity
-to lead and serve their peers. The school creates platforms for students
-to hone their leadership skills, e.g. class monitor, group leaders and
-subject leaders.</p>
 <p>At the school level, “I Can Serve”, aims to extends the area of focus
 to ‘Create a Leadership Culture: Shared Leadership’. At this level, opportunities
 are provided for potential student leaders to serve in school-level leadership
