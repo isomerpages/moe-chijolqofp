@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kSwuHYgB8ro?si=FsEkyZ9tFbITw-yR"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kSwuHYgB8ro?si=FsEkyZ9tFbITw-yR"></iframe>
 </div>
-<p><a href="/files/chij%20brochure%202023_1.pdf" rel="noopener noreferrer nofollow" target="_blank">CHIJ OLQP School Brochure</a>
-</p>
+<p></p>
