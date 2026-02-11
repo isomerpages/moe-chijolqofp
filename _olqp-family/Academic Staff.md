@@ -271,7 +271,7 @@ variant: tiptap
 <br>Mrs Manjula Menon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ju_ling_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ju_ling_cheryl@moe.edu.sg</a>
+<p><a href="mailto:loh_ju_ling_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_ju_ling_cheryl@moe.edu.sg</a>
 <br><a href="mailto:manjula_naidu_ramaraj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">manjula_naidu_ramaraj@moe.edu.sg</a>
 </p>
 </td>
