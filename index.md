@@ -26,9 +26,4 @@ sections:
         scrolling="no" style="border:none;overflow:hidden" height="500"
         width="500"
         src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fchijolqp.official&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=551472119606120"></iframe>
-  - infobar:
-      title: Instagram
-      id: infobar
-      description: <blockquote data-instgrm-permalink="https://instagram.com/chijolqp"
-        class="instagram-media"></blockquote>
 ---
