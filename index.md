@@ -18,6 +18,9 @@ sections:
         - title: CHIJ OLQP School Calendar
           description: ""
           url: /school-calendar/
+        - title: Instagram
+          description: ""
+          url: https://www.instagram.com/chijolqp
   - infobar:
       title: Find Us On Facebook
       id: infobar
