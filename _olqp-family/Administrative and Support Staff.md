@@ -67,7 +67,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Yi Wen</p>
+<p>Ms Teo Yi Wen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">teo_yi_wen@moe.edu.sg</a>
@@ -95,6 +95,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chua_dok_lee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Geraldine Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lee_Bee_Fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Bee_Fong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
