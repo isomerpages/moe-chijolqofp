@@ -16,4 +16,4 @@ variant: tiptap
 <br>
 </p>
 <h4>School Name Tags</h4>
-<p>Pupils may obtain the order forms from the&nbsp;<a href="https://staging.d2yo7qbk5fhrwg.amplifyapp.com/useful-links/For-Parents/bookshop" rel="noopener noreferrer nofollow" target="_blank">school bookshop</a>.</p>
+<p>Pupils may obtain the order forms. (<a href="https://www.magdalene.com.sg/name-tag" rel="noopener nofollow" target="_blank">Click here</a>)</p>
