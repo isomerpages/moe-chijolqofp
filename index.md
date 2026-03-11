@@ -18,7 +18,7 @@ sections:
         - title: CHIJ OLQP School Calendar
           description: ""
           url: /school-calendar/
-        - title: CHIJ OLQP Instagram
+        - title: CHIJ OLQP Instagram Page
           description: ""
           url: https://www.instagram.com/chijolqp
   - infobar:
