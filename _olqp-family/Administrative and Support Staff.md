@@ -67,7 +67,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Yi Wen</p>
+<p>Ms Teo Yi Wen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">teo_yi_wen@moe.edu.sg</a>
