@@ -14,8 +14,9 @@ assembly will begin promptly at 7.30 a.m. daily. All students are to assemble
 in the venue stated in the table below for the morning assembly.</p>
 </li>
 <li>
-<p>Pre-assembly activities have been arranged from 7.20 a.m. to 7.30 a.m.
-to engage the students who arrive early.</p>
+<p>To allow time for students to settle down and prepare for learning, the
+school has arranged for Silent Reading/Pre-assembly activities from 7.15
+am to 7.30 am.</p>
 </li>
 </ul>
 <table style="minWidth: 75px">
@@ -33,12 +34,12 @@ to engage the students who arrive early.</p>
 <p>School Hours</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Reporting Venue at 7.30 a.m.</p>
+<p>Reporting Venue</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mondays, Thursdays and Fridays</p>
+<p>Mondays and Thursdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 a.m. to 1.30 p.m.</p>
@@ -49,13 +50,13 @@ to engage the students who arrive early.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesdays and Wednesdays</p>
+<p>Tuesdays, Wednesdays and Fridays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 a.m. to 1.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classrooms and Special Rooms</p>
+<p>Classrooms</p>
 </td>
 </tr>
 </tbody>
