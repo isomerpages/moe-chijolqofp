@@ -12,7 +12,7 @@ sections:
         - title: Announcements & Quick Links
           description: ""
           url: /announcements-quick-links/overview/
-        - title: OLQP Open House 2026
+        - title: CHIJ OLQP Open House 2026
           description: ""
           url: https://www.facebook.com/share/p/18PgwMCHiK/
         - title: CHIJ OLQP School Calendar
