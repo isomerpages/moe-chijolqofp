@@ -12,9 +12,9 @@ sections:
         - title: Announcements & Quick Links
           description: ""
           url: /announcements-quick-links/overview/
-        - title: Year End Message from Chairperson, IJBOM
+        - title: CHIJ OLQP Open House 2026
           description: ""
-          url: /year-end-message-from-chairperson-ijbom/
+          url: https://www.facebook.com/share/p/18PgwMCHiK/
         - title: CHIJ OLQP School Calendar
           description: ""
           url: /school-calendar/
