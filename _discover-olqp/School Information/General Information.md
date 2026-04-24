@@ -228,21 +228,10 @@ and lunch breaks.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Recess 3: 10.30 a.m.</p>
+<p>Recess 3: 10.00 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.45 a.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Recess 4: 11.00 a.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 3</p>
+<p>Primary 3 and 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8.45 a.m.</p>
