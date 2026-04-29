@@ -359,11 +359,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tony Khoo
-<br>Ms Ong Si Han</p>
+<br>Ms Wu Yinuo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khoo_yong_seng_tony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_yong_seng_tony@moe.edu.sg</a>
-<br><a href="mailto:ong_si_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_han@moe.edu.sg</a>
+<br><a href="mailto:Wu_Yinuo@schools.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wu_Yinuo@schools.moe.edu.sg</a>
 </p>
 </td>
 </tr>
