@@ -85,12 +85,12 @@ variant: tiptap
 <p>1 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Winnie Lee Oi Lin
-<br>Mrs Devanathan</p>
+<p>Mrs Devanathan
+<br>Deng Zhuoyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Winnie_Lee_Oi_Lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Winnie_Lee_Oi_Lin@moe.edu.sg</a>
-<br><a href="mailto:vijayalakshmi_devanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vijayalakshmi_devanathan@moe.edu.sg</a>
+<p><a href="mailto:vijayalakshmi_devanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vijayalakshmi_devanathan@moe.edu.sg</a>
+<br><a href="mailto:deng_zhuoyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deng_zhuoyi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
