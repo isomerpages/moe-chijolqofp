@@ -76,6 +76,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operation Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Faizzul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_faizzul@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_faizzul@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,7 +127,7 @@ variant: tiptap
 <p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rajantheran</p>
+<p>Mr Foo Meng Tuan Peter</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
