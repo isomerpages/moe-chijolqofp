@@ -677,15 +677,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Si Han</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_si_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_han@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Wu Qianfang</p>
 </td>
 <td rowspan="1" colspan="1">
