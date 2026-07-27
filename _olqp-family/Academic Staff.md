@@ -240,11 +240,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Prasad
-<br>Ms Vivian Quek</p>
+<br>Ms Tan Adeline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Prasad_Palamani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Prasad_Palamani@moe.edu.sg</a>
-<br><a href="mailto:teh_xiuwen_vivian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_xiuwen_vivian@moe.edu.sg</a>
+<br><a href="mailto:Tan_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_adeline@moe.edu.sg</a>
 </p>
 </td>
 </tr>
