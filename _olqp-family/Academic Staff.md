@@ -704,6 +704,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Zhang Mingxing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_mingxing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_mingxing@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Zakiah Zainol</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -870,6 +879,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Tan_Sini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Sini@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Maya Devi Gupta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Maya_Devi_Gupta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Maya_Devi_Gupta@moe.edu.sg</a>
 </p>
 </td>
 </tr>
